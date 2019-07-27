@@ -1,0 +1,3857 @@
+date,state,city_or_county,n_killed,n_injured,n_total,county
+2/3/2013,California,Yuba,1,3,4,Yuba
+2/19/2013,California,Orange,4,3,7,Orange
+3/3/2013,Michigan,Saginaw,0,4,4,Saginaw
+3/30/2013,California,Merced,3,2,5,Merced
+1/1/2014,Louisiana,Richland Parish,0,1,1,Richland Parish
+1/7/2014,Virginia,Loudoun,2,1,3,Loudoun
+1/14/2014,Texas,Parker,0,1,1,Parker
+1/26/2014,New Mexico,Bernalillo,0,1,1,Bernalillo
+1/28/2014,Oregon,Lane,0,0,0,Lane
+2/6/2014,Montana,Flathead,0,1,1,Flathead
+2/12/2014,Washington,Thurston,1,0,1,Thurston
+2/17/2014,Indiana,Warrick,1,0,1,Warrick
+2/19/2014,Indiana,Allen,0,0,0,Allen
+2/19/2014,Kentucky,Wolfe,0,1,1,Wolfe
+3/19/2014,Virginia,Russell,0,1,1,Russell
+4/8/2014,Texas,Jim Wells,1,0,1,Jim Wells
+4/12/2014,Nebraska,York,0,0,0,York
+4/20/2014,Texas,Gaines,0,2,2,Gaines
+4/24/2014,Illinois,Williamson,0,0,0,Williamson
+5/5/2014,Ohio,Muskingum,1,0,1,Muskingum
+5/16/2014,Florida,Orange,0,0,0,Orange
+5/25/2014,Pennsylvania,Tioga,0,0,0,Tioga
+6/8/2014,New Mexico,Dona Ana,0,0,0,Dona Ana
+6/12/2014,Illinois,Sangamon,0,0,0,Sangamon
+6/22/2014,Idaho,Kootenai County,0,1,1,Kootenai County
+6/29/2014,Florida,Escambia,0,1,1,Escambia
+7/4/2014,Missouri,Saint Charles,0,0,0,Saint Charles
+7/5/2014,Idaho,Shoshone,0,1,1,Shoshone
+7/17/2014,Texas,Bell,1,0,1,Bell
+7/26/2014,Arizona,Maricopa,0,1,1,Maricopa
+8/1/2014,Missouri,Lincoln,0,0,0,Lincoln
+8/2/2014,Wisconsin,Saint Croix,0,0,0,Saint Croix
+8/8/2014,Texas,Bowie,1,1,2,Bowie
+8/9/2014,Wisconsin,Saint Croix,0,0,0,Saint Croix
+8/9/2014,New Mexico,San Juan,0,0,0,San Juan
+8/11/2014,Texas,Galveston,0,1,1,Galveston
+8/13/2014,Minnesota,Pope,1,0,1,Pope
+8/15/2014,Oregon,Coos,0,2,2,Coos
+8/18/2014,New Mexico,Chaves,0,0,0,Chaves
+8/27/2014,Mississippi,Clarke,0,0,0,Clarke
+8/28/2014,Florida,Manatee,1,0,1,Manatee
+9/1/2014,Pennsylvania,Franklin,0,0,0,Franklin
+9/2/2014,Oregon,Hood River,2,0,2,Hood River
+9/3/2014,Texas,Jones,1,0,1,Jones
+9/4/2014,Oregon,Klamath,0,0,0,Klamath
+9/8/2014,Maine,Oxford,0,1,1,Oxford
+9/13/2014,Alabama,Pickens County,1,0,1,Pickens County
+9/23/2014,Minnesota,Beltrami,0,0,0,Beltrami
+9/28/2014,Ohio,Ashtabula,0,0,0,Ashtabula
+10/1/2014,Arizona,Mojave,0,1,1,Mojave
+10/7/2014,Missouri,Greene,1,0,1,Greene
+10/13/2014,Ohio,Meigs,0,1,1,Meigs
+10/16/2014,Illinois,Mchenry,0,2,2,Mchenry
+10/17/2014,Michigan,Lenawee,1,0,1,Lenawee
+10/18/2014,Pennsylvania,Susquehanna,0,1,1,Susquehanna
+10/21/2014,South Carolina,Lancaster,0,0,0,Lancaster
+11/13/2014,Virginia,Chesterfield,0,0,0,Chesterfield
+12/1/2014,Missouri,Vernon,0,0,0,Vernon
+12/1/2014,Pennsylvania,York,0,0,0,York
+12/8/2014,Pennsylvania,Armstrong,0,1,1,Armstrong
+12/13/2014,New Mexico,Bernalillo,0,0,0,Bernalillo
+12/20/2014,Missouri,Bates,0,0,0,Bates
+12/28/2014,Virginia,York,2,0,2,York
+1/1/2015,Texas,Fort Bend,0,0,0,Fort Bend
+1/5/2015,Virginia,Louisa,0,0,0,Louisa
+1/9/2015,Illinois,Champaign,0,0,0,Champaign
+1/16/2015,Louisiana,Saint Landry,0,0,0,Saint Landry
+1/18/2015,Oregon,Linn,0,0,0,Linn
+1/22/2015,Missouri,Vernon,0,0,0,Vernon
+1/27/2015,Wisconsin,Washington,0,0,0,Washington
+2/12/2015,California,Sacramento,0,1,1,Sacramento
+2/16/2015,Illinois,Massac,0,0,0,Massac
+2/18/2015,Texas,Bexar,0,0,0,Bexar
+2/26/2015,Missouri,Franklin,1,0,1,Franklin
+2/28/2015,Michigan,Eaton,1,0,1,Eaton
+3/2/2015,New Mexico,Mckinley,0,1,1,Mckinley
+3/3/2015,Maryland,Anne Arundel,0,0,0,Anne Arundel
+3/10/2015,Florida,Marion,0,0,0,Marion
+3/12/2015,Washington,Spokane,0,0,0,Spokane
+3/15/2015,Wisconsin,Walworth,0,0,0,Walworth
+3/20/2015,Wyoming,Natrona,0,0,0,Natrona
+3/24/2015,North Dakota,Bottineau,2,0,2,Bottineau
+3/24/2015,Georgia,Barrow,0,0,0,Barrow
+3/25/2015,Michigan,Bay,0,0,0,Bay
+4/1/2015,Colorado,Lincoln,0,0,0,Lincoln
+4/8/2015,Minnesota,Carlton,0,0,0,Carlton
+4/9/2015,Missouri,Newton,1,0,1,Newton
+4/11/2015,Texas,Jefferson,0,0,0,Jefferson
+4/11/2015,Missouri,Mississippi County,0,1,1,Mississippi County
+4/12/2015,North Carolina,Burke County,1,0,1,Burke County
+4/13/2015,Wyoming,Washakie,1,0,1,Washakie
+4/15/2015,Michigan,Genesee,0,0,0,Genesee
+4/16/2015,Tennessee,Madison,0,1,1,Madison
+4/17/2015,Florida,Jackson,0,1,1,Jackson
+4/17/2015,Georgia,Bulloch,0,0,0,Bulloch
+4/18/2015,Alabama,Elmore,0,3,3,Elmore
+4/18/2015,Tennessee,Shelby,0,1,1,Shelby
+4/19/2015,Florida,Orange,1,1,2,Orange
+4/19/2015,Texas,Harris,0,1,1,Harris
+4/19/2015,Alabama,DeKalb,0,0,0,DeKalb
+4/19/2015,Arkansas,Pulaski,0,0,0,Pulaski
+4/19/2015,Virginia,Greene,0,0,0,Greene
+4/19/2015,Ohio,Coshocton,0,1,1,Coshocton
+4/19/2015,New Mexico,San Juan,0,1,1,San Juan
+4/19/2015,Mississippi,Madison,1,0,1,Madison
+4/20/2015,Texas,Smith County,0,2,2,Smith County
+4/20/2015,Oklahoma,Muskogee,0,1,1,Muskogee
+4/20/2015,Georgia,Columbia,0,0,0,Columbia
+4/22/2015,Tennessee,Crockett,0,0,0,Crockett
+4/22/2015,Tennessee,Madison,0,0,0,Madison
+4/22/2015,Virginia,Isle of Wight,0,0,0,Isle of Wight
+4/22/2015,Colorado,Boulder,1,0,1,Boulder
+4/22/2015,Colorado,Larimer,0,1,1,Larimer
+4/22/2015,North Carolina,Camden,1,0,1,Camden
+4/22/2015,Wyoming,Natrona,0,0,0,Natrona
+4/22/2015,Louisiana,Caddo Parish,0,0,0,Caddo Parish
+4/22/2015,Texas,Harris,1,0,1,Harris
+4/23/2015,Wisconsin,Racine,0,0,0,Racine
+4/23/2015,Tennessee,Marion,1,0,1,Marion
+4/23/2015,Arkansas,Baxter,0,1,1,Baxter
+4/23/2015,Florida,Orange,0,0,0,Orange
+4/24/2015,California,Stanislaus,0,0,0,Stanislaus
+4/24/2015,West Virginia,Harrison,0,0,0,Harrison
+4/24/2015,Indiana,Rush,0,0,0,Rush
+4/26/2015,Nebraska,Douglas,0,1,1,Douglas
+4/26/2015,California,Kings,1,0,1,Kings
+4/26/2015,Mississippi,Hancock,0,0,0,Hancock
+4/26/2015,Florida,Orange,0,1,1,Orange
+4/26/2015,Delaware,New Castle,0,0,0,New Castle
+4/26/2015,Tennessee,Blount,0,0,0,Blount
+4/27/2015,Wisconsin,Juneau,0,0,0,Juneau
+4/28/2015,North Carolina,Columbus,1,0,1,Columbus
+4/28/2015,Texas,Panola,1,0,1,Panola
+4/29/2015,Wisconsin,Racine,0,1,1,Racine
+4/29/2015,Minnesota,Lyon,0,0,0,Lyon
+4/29/2015,Florida,Seminole,1,0,1,Seminole
+4/29/2015,Tennessee,Knox,1,0,1,Knox
+4/29/2015,Florida,Miami-dade,0,0,0,Miami-dade
+4/29/2015,Florida,Saint Lucie,0,0,0,Saint Lucie
+4/29/2015,Arizona,Pima,1,0,1,Pima
+4/29/2015,Virginia,Greensville,1,0,1,Greensville
+4/30/2015,Oregon,Jackson,0,0,0,Jackson
+4/30/2015,Florida,Putnam,0,0,0,Putnam
+4/30/2015,California,Humboldt,0,0,0,Humboldt
+4/30/2015,Arkansas,Yell,0,0,0,Yell
+4/30/2015,Florida,Saint Johns,0,0,0,Saint Johns
+4/30/2015,Tennessee,Shelby,0,0,0,Shelby
+5/1/2015,Mississippi,Prentiss,1,0,1,Prentiss
+5/1/2015,Oklahoma,Rogers,1,0,1,Rogers
+5/1/2015,Louisiana,Lafayette,0,1,1,Lafayette
+5/1/2015,Florida,Marion,1,0,1,Marion
+5/1/2015,Florida,Orange,0,1,1,Orange
+5/1/2015,Alabama,Limestone,0,1,1,Limestone
+5/1/2015,Pennsylvania,Lawrence,1,0,1,Lawrence
+5/2/2015,Virginia,Franklin,1,0,1,Franklin
+5/3/2015,Tennessee,Rutherford,1,0,1,Rutherford
+5/3/2015,Alabama,Cherokee,0,1,1,Cherokee
+5/3/2015,Virginia,Henrico,0,0,0,Henrico
+5/3/2015,Florida,Flagler,0,0,0,Flagler
+5/4/2015,Texas,Bexar,1,0,1,Bexar
+5/4/2015,California,Los Angeles,1,0,1,Los Angeles
+5/4/2015,Florida,Lee,0,0,0,Lee
+5/4/2015,Florida,Orange,0,1,1,Orange
+5/5/2015,Oregon,Linn,0,0,0,Linn
+5/6/2015,New Mexico,Eddy,0,0,0,Eddy
+5/6/2015,Pennsylvania,Mercer,1,0,1,Mercer
+5/6/2015,Alabama,Tuscaloosa,0,1,1,Tuscaloosa
+5/6/2015,Missouri,Saint Louis,1,2,3,Saint Louis
+5/6/2015,Florida,Charlotte,0,0,0,Charlotte
+5/7/2015,Mississippi,Harrison,0,0,0,Harrison
+5/7/2015,California,Fresno,1,0,1,Fresno
+5/7/2015,Alabama,Escambia,1,0,1,Escambia
+5/7/2015,Georgia,Dekalb,0,1,1,Dekalb
+5/7/2015,Texas,Harris,1,0,1,Harris
+5/7/2015,Indiana,Porter,0,0,0,Porter
+5/7/2015,North Carolina,Alleghany,0,1,1,Alleghany
+5/7/2015,Texas,Harris,1,0,1,Harris
+5/7/2015,Louisiana,De Soto,0,0,0,De Soto
+5/8/2015,Texas,Harris,1,0,1,Harris
+5/8/2015,Mississippi,Lamar,0,0,0,Lamar
+5/8/2015,North Carolina,Rockingham,0,2,2,Rockingham
+5/8/2015,Texas,Harris,0,1,1,Harris
+5/8/2015,Virginia,Pittsylvania,1,1,2,Pittsylvania
+5/8/2015,Virginia,Botetourt,0,0,0,Botetourt
+5/8/2015,New Jersey,Cape May,0,0,0,Cape May
+5/9/2015,Missouri,Jasper,0,0,0,Jasper
+5/9/2015,Kansas,Johnson County,1,0,1,Johnson County
+5/10/2015,North Carolina,Caldwell,0,0,0,Caldwell
+5/10/2015,Texas,Williamson,3,0,3,Williamson
+5/10/2015,Alabama,Mobile,1,0,1,Mobile
+5/11/2015,Texas,Harris,0,1,1,Harris
+5/11/2015,South Carolina,Darlington,0,0,0,Darlington
+5/11/2015,Colorado,El Paso,0,1,1,El Paso
+5/11/2015,Colorado,Pueblo,2,0,2,Pueblo
+5/12/2015,Arkansas,Grant,0,0,0,Grant
+5/12/2015,Missouri,Greene,0,1,1,Greene
+5/12/2015,Tennessee,Shelby,0,1,1,Shelby
+5/12/2015,Georgia,Dodge,1,0,1,Dodge
+5/12/2015,North Carolina,Catawba,0,0,0,Catawba
+5/12/2015,Missouri,Jefferson,0,1,1,Jefferson
+5/13/2015,Kentucky,Morgan,0,1,1,Morgan
+5/13/2015,North Carolina,Jones,0,1,1,Jones
+5/13/2015,Florida,Escambia,0,1,1,Escambia
+5/13/2015,Florida,Manatee,0,0,0,Manatee
+5/13/2015,Tennessee,Fayette,0,1,1,Fayette
+5/14/2015,Georgia,Meriwether,0,1,1,Meriwether
+5/14/2015,Oklahoma,Wagoner,0,0,0,Wagoner
+5/14/2015,Georgia,Madison,0,0,0,Madison
+5/14/2015,Florida,Orange,0,1,1,Orange
+5/14/2015,Alabama,Lee,0,0,0,Lee
+5/14/2015,Mississippi,Harrison,0,0,0,Harrison
+5/14/2015,Missouri,Jefferson,2,0,2,Jefferson
+5/15/2015,Arkansas,Johnson,1,1,2,Johnson
+5/15/2015,Georgia,Colquitt,0,1,1,Colquitt
+5/15/2015,Montana,Beaverhead,0,1,1,Beaverhead
+5/16/2015,Oklahoma,Muskogee,0,0,0,Muskogee
+5/16/2015,Iowa,Iowa,0,0,0,Iowa
+5/16/2015,Michigan,Charlevoix,0,2,2,Charlevoix
+5/16/2015,Mississippi,Harrison,0,0,0,Harrison
+5/16/2015,Oregon,Linn,0,1,1,Linn
+5/16/2015,Florida,Orange,0,1,1,Orange
+5/16/2015,Louisiana,Jackson,0,0,0,Jackson
+5/16/2015,Colorado,El Paso,0,1,1,El Paso
+5/17/2015,South Dakota,Minnehaha,0,0,0,Minnehaha
+5/17/2015,Virginia,Franklin,0,1,1,Franklin
+5/17/2015,Tennessee,Shelby,0,0,0,Shelby
+5/17/2015,Florida,Escambia,0,1,1,Escambia
+5/17/2015,Kentucky,Pulaski,0,1,1,Pulaski
+5/17/2015,Georgia,Jackson,0,0,0,Jackson
+5/17/2015,Texas,Montgomery,0,0,0,Montgomery
+5/18/2015,Iowa,Harrison,0,0,0,Harrison
+5/18/2015,Texas,Harris,1,0,1,Harris
+5/19/2015,Alabama,Dallas,1,0,1,Dallas
+5/19/2015,Mississippi,Lee,0,1,1,Lee
+5/19/2015,Florida,Miami-dade,0,0,0,Miami-dade
+5/19/2015,Florida,Orange,0,1,1,Orange
+5/19/2015,Texas,Harris,1,0,1,Harris
+5/19/2015,Oklahoma,Muskogee,1,0,1,Muskogee
+5/19/2015,North Carolina,Cumberland,0,0,0,Cumberland
+5/20/2015,Wyoming,Campbell,1,0,1,Campbell
+5/20/2015,Georgia,Gwinnett,0,0,0,Gwinnett
+5/20/2015,New Mexico,Eddy,0,0,0,Eddy
+5/20/2015,North Carolina,Beaufort,0,0,0,Beaufort
+5/20/2015,Wyoming,Natrona,0,0,0,Natrona
+5/20/2015,Arkansas,Baxter,0,0,0,Baxter
+5/20/2015,Oregon,Jackson,0,1,1,Jackson
+5/20/2015,North Carolina,Cleveland,0,1,1,Cleveland
+5/20/2015,Georgia,Madison,0,0,0,Madison
+5/21/2015,Florida,Collier,0,0,0,Collier
+5/21/2015,California,Sacramento,0,1,1,Sacramento
+5/21/2015,Kansas,Sedgwick,0,1,1,Sedgwick
+5/22/2015,Texas,Wood,0,1,1,Wood
+5/22/2015,California,Sacramento,0,1,1,Sacramento
+5/22/2015,Florida,Orange,0,1,1,Orange
+5/22/2015,Washington,Snohomish,0,0,0,Snohomish
+5/22/2015,Georgia,Tift,0,1,1,Tift
+5/23/2015,Missouri,Saint Louis,0,0,0,Saint Louis
+5/23/2015,Minnesota,Olmsted,0,0,0,Olmsted
+5/23/2015,Florida,Okeechobee,0,2,2,Okeechobee
+5/23/2015,Montana,Blaine,0,0,0,Blaine
+5/23/2015,Indiana,Porter,0,2,2,Porter
+5/24/2015,Indiana,St. Joseph,2,1,3,St. Joseph
+5/24/2015,North Carolina,Richland,0,0,0,Richland
+5/24/2015,Georgia,Jackson,0,0,0,Jackson
+5/24/2015,Mississippi,Clay,0,2,2,Clay
+5/25/2015,Mississippi,Jackson,0,1,1,Jackson
+5/25/2015,Kentucky,Henderson,0,0,0,Henderson
+5/25/2015,South Dakota,Brown,1,0,1,Brown
+5/25/2015,Virginia,Roanoke,0,1,1,Roanoke
+5/25/2015,Alabama,Blount,1,1,2,Blount
+5/25/2015,Florida,Holmes,0,1,1,Holmes
+5/26/2015,Texas,Montgomery,0,0,0,Montgomery
+5/26/2015,Missouri,Boone,0,0,0,Boone
+5/26/2015,Texas,Travis,1,0,1,Travis
+5/26/2015,Texas,Montgomery,0,0,0,Montgomery
+5/26/2015,California,Sacramento,1,0,1,Sacramento
+5/27/2015,Oklahoma,Washington,0,0,0,Washington
+5/27/2015,Tennessee,McMinn,0,0,0,McMinn
+5/28/2015,Virginia,Rockbridge,2,0,2,Rockbridge
+5/28/2015,Texas,Fort Bend,1,0,1,Fort Bend
+5/28/2015,California,Merced,0,0,0,Merced
+5/28/2015,Texas,Fort Bend,1,0,1,Fort Bend
+5/28/2015,Kansas,Montgomery,0,1,1,Montgomery
+5/28/2015,Oklahoma,Nowata,0,1,1,Nowata
+5/28/2015,Missouri,Greene,0,0,0,Greene
+5/28/2015,South Carolina,Richland,0,0,0,Richland
+5/28/2015,Texas,Montgomery,0,0,0,Montgomery
+5/28/2015,California,Orange,0,2,2,Orange
+5/29/2015,Texas,Parmer,1,0,1,Parmer
+5/29/2015,Pennsylvania,York,3,0,3,York
+5/29/2015,Washington,Spokane,0,0,0,Spokane
+5/29/2015,Alabama,DeKalb,0,0,0,DeKalb
+5/29/2015,Georgia,Newton,0,1,1,Newton
+5/29/2015,Oklahoma,Okmulgee,1,0,1,Okmulgee
+5/29/2015,Kentucky,Trigg,0,1,1,Trigg
+5/29/2015,Kansas,Montgomery,0,0,0,Montgomery
+5/30/2015,Colorado,Jefferson,0,0,0,Jefferson
+5/30/2015,Arkansas,Izard,1,0,1,Izard
+5/30/2015,Oklahoma,Muskogee,0,0,0,Muskogee
+5/30/2015,Mississippi,Lee,0,1,1,Lee
+5/30/2015,Missouri,Lincoln,0,1,1,Lincoln
+5/30/2015,Florida,Orange,0,1,1,Orange
+5/31/2015,Alabama,Cullman,0,1,1,Cullman
+5/31/2015,California,Fresno,1,0,1,Fresno
+5/31/2015,Pennsylvania,Luzerne,0,0,0,Luzerne
+5/31/2015,Texas,Liberty,0,1,1,Liberty
+5/31/2015,Arkansas,Madison,0,1,1,Madison
+6/1/2015,Kentucky,Floyd,1,0,1,Floyd
+6/1/2015,Oregon,Clackamas,0,0,0,Clackamas
+6/1/2015,Texas,Titus,0,0,0,Titus
+6/1/2015,North Carolina,Burke,1,1,2,Burke
+6/1/2015,Tennessee,Coffee,1,2,3,Coffee
+6/1/2015,Texas,Harris,1,0,1,Harris
+6/1/2015,Kentucky,Bell,1,0,1,Bell
+6/2/2015,Florida,Miami-dade,0,1,1,Miami-dade
+6/2/2015,Kentucky,Martin,1,0,1,Martin
+6/2/2015,New York,Cortland,0,0,0,Cortland
+6/2/2015,California,Kern,0,0,0,Kern
+6/2/2015,Arkansas,Faulkner,0,1,1,Faulkner
+6/2/2015,Oregon,Linn,0,0,0,Linn
+6/2/2015,Texas,Gregg,1,0,1,Gregg
+6/2/2015,Ohio,Fairfield,0,0,0,Fairfield
+6/2/2015,Virginia,Dickenson,0,0,0,Dickenson
+6/2/2015,Texas,Jack,1,0,1,Jack
+6/3/2015,Oklahoma,Cotton,0,1,1,Cotton
+6/3/2015,Colorado,Weld,1,0,1,Weld
+6/3/2015,South Carolina,Horry,0,1,1,Horry
+6/3/2015,Illinois,Massac,0,0,0,Massac
+6/4/2015,Florida,Orange,0,0,0,Orange
+6/4/2015,North Carolina,Gaston,1,0,1,Gaston
+6/4/2015,Georgia,Cherokee,0,0,0,Cherokee
+6/5/2015,West Virginia,Monongalia,1,0,1,Monongalia
+6/5/2015,Nevada,Clark,0,0,0,Clark
+6/5/2015,California,Humboldt,0,1,1,Humboldt
+6/6/2015,Iowa,Emmet,1,0,1,Emmet
+6/6/2015,Florida,Miami-dade,1,0,1,Miami-dade
+6/6/2015,Mississippi,Leake,1,2,3,Leake
+6/6/2015,Florida,Manatee,0,3,3,Manatee
+6/6/2015,Texas,Chambers,1,0,1,Chambers
+6/6/2015,Illinois,Saint Clair,0,0,0,Saint Clair
+6/6/2015,Texas,Jefferson,1,0,1,Jefferson
+6/6/2015,Kentucky,Lincoln,0,0,0,Lincoln
+6/7/2015,Oklahoma,Seminole,0,0,0,Seminole
+6/7/2015,West Virginia,Kanawha,1,0,1,Kanawha
+6/7/2015,Alabama,Cullman,0,0,0,Cullman
+6/7/2015,Mississippi,Panola,0,0,0,Panola
+6/7/2015,Missouri,Cooper,1,0,1,Cooper
+6/7/2015,Florida,Collier,0,0,0,Collier
+6/8/2015,Alabama,Jefferson,1,0,1,Jefferson
+6/8/2015,Virginia,Hanover,0,0,0,Hanover
+6/8/2015,Mississippi,Jackson,2,0,2,Jackson
+6/8/2015,Florida,Columbia,1,0,1,Columbia
+6/9/2015,Missouri,Barry,1,0,1,Barry
+6/9/2015,North Carolina,Columbus,1,0,1,Columbus
+6/9/2015,Ohio,Meigs,0,1,1,Meigs
+6/9/2015,North Carolina,Columbus,0,1,1,Columbus
+6/9/2015,Texas,Williamson,1,0,1,Williamson
+6/9/2015,Texas,El Paso,1,1,2,El Paso
+6/10/2015,Michigan,Ionia,0,0,0,Ionia
+6/10/2015,North Carolina,Cumberland,1,0,1,Cumberland
+6/10/2015,Missouri,Stone,0,0,0,Stone
+6/10/2015,Florida,Indian River,0,0,0,Indian River
+6/10/2015,Florida,Manatee,0,0,0,Manatee
+6/10/2015,Louisiana,Bossier,0,0,0,Bossier
+6/10/2015,North Carolina,Burke,0,0,0,Burke
+6/11/2015,Texas,Bexar,1,1,2,Bexar
+6/11/2015,Florida,Pasco,0,0,0,Pasco
+6/11/2015,California,Sacramento,1,0,1,Sacramento
+6/11/2015,Alabama,Madison,0,0,0,Madison
+6/12/2015,Colorado,El Paso,0,1,1,El Paso
+6/12/2015,Michigan,Eaton,0,0,0,Eaton
+6/12/2015,Texas,Harris,0,2,2,Harris
+6/12/2015,Florida,Manatee,0,0,0,Manatee
+6/12/2015,Texas,Montgomery,0,0,0,Montgomery
+6/12/2015,North Dakota,Renville,0,1,1,Renville
+6/13/2015,Pennsylvania,Lehigh,0,0,0,Lehigh
+6/13/2015,Alabama,Tuscaloosa,0,1,1,Tuscaloosa
+6/13/2015,North Carolina,Gates,1,0,1,Gates
+6/13/2015,Virginia,Henrico,1,0,1,Henrico
+6/13/2015,Texas,Wise,1,0,1,Wise
+6/13/2015,Florida,Lee,0,0,0,Lee
+6/13/2015,Florida,Escambia,0,2,2,Escambia
+6/13/2015,Nevada,Washoe,0,1,1,Washoe
+6/13/2015,North Carolina,Beaufort,0,1,1,Beaufort
+6/13/2015,Mississippi,Hinds,0,0,0,Hinds
+6/14/2015,Oklahoma,Nowata,0,2,2,Nowata
+6/15/2015,Texas,Montgomery,0,0,0,Montgomery
+6/15/2015,Indiana,Vanderburgh,0,0,0,Vanderburgh
+6/15/2015,Mississippi,Monroe,0,0,0,Monroe
+6/15/2015,Mississippi,Marshall,0,1,1,Marshall
+6/15/2015,Washington,Clallam,0,0,0,Clallam
+6/15/2015,Kentucky,Hart,0,1,1,Hart
+6/15/2015,Virginia,Henrico,0,1,1,Henrico
+6/15/2015,Washington,Kitsap,0,0,0,Kitsap
+6/16/2015,Minnesota,Dakota,0,0,0,Dakota
+6/16/2015,Texas,Chambers,0,1,1,Chambers
+6/16/2015,Texas,Montgomery,0,0,0,Montgomery
+6/17/2015,Mississippi,Claiborne,0,1,1,Claiborne
+6/17/2015,Kentucky,Bullitt,1,0,1,Bullitt
+6/17/2015,Pennsylvania,Bedford,1,0,1,Bedford
+6/17/2015,Texas,Harris,1,0,1,Harris
+6/18/2015,Texas,Smith,0,1,1,Smith
+6/18/2015,Florida,Indian River,0,0,0,Indian River
+6/19/2015,Alabama,Tuscaloosa,2,0,2,Tuscaloosa
+6/19/2015,Maryland,Frederick,0,0,0,Frederick
+6/19/2015,Tennessee,Hardin,0,1,1,Hardin
+6/19/2015,Iowa,Marion,1,0,1,Marion
+6/20/2015,Florida,Escambia,1,0,1,Escambia
+6/20/2015,Texas,Harris,1,0,1,Harris
+6/20/2015,Wyoming,Natrona,0,0,0,Natrona
+6/20/2015,Oklahoma,Kay,0,1,1,Kay
+6/20/2015,Florida,Escambia,0,1,1,Escambia
+6/20/2015,Florida,Orange,0,1,1,Orange
+6/21/2015,Mississippi,Kemper,0,1,1,Kemper
+6/21/2015,Pennsylvania,Lancaster,0,0,0,Lancaster
+6/21/2015,Texas,Harris,1,0,1,Harris
+6/21/2015,Virginia,Chesterfield,0,0,0,Chesterfield
+6/21/2015,Missouri,Cape Girardeau,0,0,0,Cape Girardeau
+6/21/2015,North Carolina,Pitt,0,2,2,Pitt
+6/21/2015,North Carolina,Bladen,0,0,0,Bladen
+6/22/2015,North Carolina,Stanly,0,1,1,Stanly
+6/22/2015,Georgia,Newton,0,1,1,Newton
+6/22/2015,Nebraska,York,1,0,1,York
+6/22/2015,Texas,Travis,2,0,2,Travis
+6/22/2015,Louisiana,Iberia,0,0,0,Iberia
+6/22/2015,Missouri,Douglas,2,0,2,Douglas
+6/23/2015,Mississippi,Jones,0,0,0,Jones
+6/23/2015,Kansas,Jefferson,0,0,0,Jefferson
+6/23/2015,Mississippi,Rankin,2,0,2,Rankin
+6/24/2015,Florida,Orange,0,1,1,Orange
+6/24/2015,Tennessee,Unicoi,0,1,1,Unicoi
+6/24/2015,Georgia,Long,1,0,1,Long
+6/24/2015,Michigan,Roscommon,1,1,2,Roscommon
+6/24/2015,Florida,Orange,0,0,0,Orange
+6/24/2015,Texas,Harris,0,1,1,Harris
+6/25/2015,Missouri,Washington,0,0,0,Washington
+6/25/2015,Mississippi,George,0,0,0,George
+6/25/2015,Georgia,Lowndes,0,0,0,Lowndes
+6/25/2015,California,Placer,2,0,2,Placer
+6/25/2015,California,Madera,1,0,1,Madera
+6/25/2015,Florida,Orange,0,2,2,Orange
+6/25/2015,Florida,Manatee,0,0,0,Manatee
+6/26/2015,Texas,Harris,0,1,1,Harris
+6/26/2015,Texas,Smith,0,0,0,Smith
+6/26/2015,Florida,Escambia,0,1,1,Escambia
+6/26/2015,Louisiana,Terrebonne,0,0,0,Terrebonne
+6/26/2015,California,Mendocino,0,0,0,Mendocino
+6/26/2015,California,Humboldt,0,0,0,Humboldt
+6/26/2015,Arkansas,Baxter,0,0,0,Baxter
+6/26/2015,Oklahoma,Pittsburg,1,0,1,Pittsburg
+6/26/2015,Missouri,Saint Louis,0,1,1,Saint Louis
+6/27/2015,Tennessee,Madison,0,0,0,Madison
+6/27/2015,Illinois,Wayne,0,1,1,Wayne
+6/27/2015,North Carolina,Randolph,1,0,1,Randolph
+6/27/2015,Virginia,Henrico,0,0,0,Henrico
+6/28/2015,Arkansas,Clay,0,1,1,Clay
+6/28/2015,Minnesota,Chisago,0,0,0,Chisago
+6/28/2015,Tennessee,Henderson,0,0,0,Henderson
+6/28/2015,Arkansas,Baxter,0,0,0,Baxter
+6/28/2015,Mississippi,Lauderdale,0,0,0,Lauderdale
+6/28/2015,Missouri,Boone,0,0,0,Boone
+6/28/2015,Idaho,Bonner,0,1,1,Bonner
+6/29/2015,Tennessee,Davidson,0,0,0,Davidson
+6/29/2015,California,San Joaquin,0,1,1,San Joaquin
+6/29/2015,Wyoming,Natrona,0,0,0,Natrona
+6/29/2015,Mississippi,Warren,0,0,0,Warren
+6/29/2015,Ohio,Highland,2,0,2,Highland
+6/29/2015,South Carolina,Oconee,0,0,0,Oconee
+6/29/2015,Texas,Harris,0,1,1,Harris
+6/29/2015,South Carolina,Richland,0,0,0,Richland
+6/29/2015,Virginia,York,0,1,1,York
+6/30/2015,Georgia,Gwinnett,0,0,0,Gwinnett
+6/30/2015,North Dakota,Wells,2,0,2,Wells
+6/30/2015,Missouri,Greene,0,1,1,Greene
+6/30/2015,Illinois,Macon,0,0,0,Macon
+6/30/2015,Florida,Escambia,0,0,0,Escambia
+6/30/2015,Oklahoma,Lincoln,0,0,0,Lincoln
+7/1/2015,Georgia,Hall,0,0,0,Hall
+7/1/2015,North Carolina,Onslow,1,0,1,Onslow
+7/2/2015,Florida,Orange,0,2,2,Orange
+7/2/2015,New York,Ulster,0,0,0,Ulster
+7/2/2015,Florida,Orange,0,1,1,Orange
+7/2/2015,Alabama,Limestone,0,0,0,Limestone
+7/3/2015,Louisiana,Lafayette,1,0,1,Lafayette
+7/3/2015,Washington,Grant,0,0,0,Grant
+7/3/2015,Indiana,Kosciusko,1,1,2,Kosciusko
+7/3/2015,Texas,Fort Bend,0,1,1,Fort Bend
+7/3/2015,Missouri,Pemiscot,1,0,1,Pemiscot
+7/3/2015,Wyoming,Natrona,0,0,0,Natrona
+7/4/2015,Missouri,Buchanan,2,0,2,Buchanan
+7/4/2015,Mississippi,Jefferson,0,1,1,Jefferson
+7/4/2015,Mississippi,Marion,1,0,1,Marion
+7/4/2015,Alabama,Jefferson,1,0,1,Jefferson
+7/4/2015,North Carolina,Columbus,1,0,1,Columbus
+7/4/2015,Alabama,Madison,0,1,1,Madison
+7/5/2015,Florida,Orange,0,0,0,Orange
+7/5/2015,Georgia,Fulton,1,0,1,Fulton
+7/5/2015,Georgia,Columbia,0,0,0,Columbia
+7/5/2015,South Carolina,Richland,1,0,1,Richland
+7/6/2015,Georgia,Dekalb,1,0,1,Dekalb
+7/6/2015,Florida,Jackson,1,0,1,Jackson
+7/6/2015,Wyoming,Washakie,0,0,0,Washakie
+7/6/2015,New Mexico,Valencia,1,0,1,Valencia
+7/7/2015,Texas,Harris,0,0,0,Harris
+7/7/2015,Kentucky,Mercer,0,0,0,Mercer
+7/7/2015,Virginia,Dinwiddie,0,0,0,Dinwiddie
+7/7/2015,Texas,Fort Bend,0,1,1,Fort Bend
+7/8/2015,New Mexico,Bernalillo,0,0,0,Bernalillo
+7/8/2015,Alabama,Jackson,0,0,0,Jackson
+7/8/2015,Florida,Orange,0,1,1,Orange
+7/9/2015,Mississippi,Claiborne,1,0,1,Claiborne
+7/9/2015,Mississippi,Lauderdale,0,1,1,Lauderdale
+7/9/2015,Nevada,Yavapai,0,1,1,Yavapai
+7/9/2015,California,San Bernardino,0,0,0,San Bernardino
+7/9/2015,Montana,Sanders,1,0,1,Sanders
+7/10/2015,Mississippi,Simpson,1,0,1,Simpson
+7/10/2015,Arkansas,Faulkner,0,1,1,Faulkner
+7/10/2015,Louisiana,Tangipahoa,1,0,1,Tangipahoa
+7/10/2015,North Carolina,Rutherford,1,1,2,Rutherford
+7/10/2015,Texas,Harris,1,0,1,Harris
+7/11/2015,Alabama,Shelby,1,0,1,Shelby
+7/11/2015,Nebraska,Buffalo,0,0,0,Buffalo
+7/11/2015,Mississippi,Calhoun,1,0,1,Calhoun
+7/11/2015,Florida,Orange,0,1,1,Orange
+7/11/2015,Utah,Morgan,0,0,0,Morgan
+7/12/2015,Texas,Montgomery,0,0,0,Montgomery
+7/12/2015,Georgia,Bibb,0,0,0,Bibb
+7/12/2015,Texas,Harris,1,0,1,Harris
+7/12/2015,Arkansas,Craighead,1,0,1,Craighead
+7/12/2015,Iowa,Des Moines,0,0,0,Des Moines
+7/13/2015,Georgia,Washington,0,0,0,Washington
+7/13/2015,Missouri,Warren,0,0,0,Warren
+7/13/2015,Virginia,Chesterfield,0,0,0,Chesterfield
+7/13/2015,Arkansas,LeFlore,0,1,1,LeFlore
+7/13/2015,Alabama,Marshall,0,0,0,Marshall
+7/13/2015,Utah,Tooele,0,1,1,Tooele
+7/13/2015,Florida,Orange,0,0,0,Orange
+7/13/2015,Florida,Orange,0,2,2,Orange
+7/13/2015,North Carolina,Union,0,1,1,Union
+7/14/2015,Missouri,Jasper,0,0,0,Jasper
+7/14/2015,Alabama,Cullman,0,0,0,Cullman
+7/14/2015,Texas,Harris,0,1,1,Harris
+7/14/2015,Florida,Miami-dade,0,1,1,Miami-dade
+7/15/2015,Mississippi,Hancock,0,0,0,Hancock
+7/15/2015,Georgia,Towns,0,0,0,Towns
+7/15/2015,Michigan,Osceola,1,0,1,Osceola
+7/15/2015,Maryland,Montgomery County,1,0,1,Montgomery County
+7/15/2015,Mississippi,Marion,0,2,2,Marion
+7/15/2015,Missouri,Saint Louis,0,0,0,Saint Louis
+7/15/2015,Virginia,King George,1,1,2,King George
+7/15/2015,Alabama,Lawrence,0,1,1,Lawrence
+7/15/2015,Texas,Kaufman,0,1,1,Kaufman
+7/15/2015,Texas,Montgomery,0,0,0,Montgomery
+7/15/2015,Oklahoma,Beckham,0,1,1,Beckham
+7/16/2015,Texas,Nacogdoches,2,0,2,Nacogdoches
+7/16/2015,Michigan,Eaton,0,0,0,Eaton
+7/16/2015,Texas,Harris,0,0,0,Harris
+7/16/2015,Michigan,Monroe,0,1,1,Monroe
+7/16/2015,Texas,Harris,0,1,1,Harris
+7/16/2015,Oklahoma,Grady,0,1,1,Grady
+7/16/2015,Texas,Harris,0,0,0,Harris
+7/17/2015,Ohio,Lorain,1,0,1,Lorain
+7/17/2015,Mississippi,Hancock,0,0,0,Hancock
+7/17/2015,Texas,Harris,0,1,1,Harris
+7/17/2015,Georgia,Thomas,0,0,0,Thomas
+7/17/2015,Illinois,Macon,0,1,1,Macon
+7/18/2015,Florida,Orange,1,0,1,Orange
+7/18/2015,Florida,Putnam,0,0,0,Putnam
+7/18/2015,Florida,Santa Rosa,0,1,1,Santa Rosa
+7/18/2015,Florida,Polk,2,0,2,Polk
+7/18/2015,Texas,Van Zandt,1,0,1,Van Zandt
+7/18/2015,Texas,Montgomery,0,0,0,Montgomery
+7/19/2015,Missouri,Saint Louis,1,1,2,Saint Louis
+7/19/2015,Texas,Harris,0,0,0,Harris
+7/19/2015,Louisiana,Terrebonne,0,0,0,Terrebonne
+7/19/2015,Mississippi,Smith,1,0,1,Smith
+7/19/2015,Indiana,Bartholomew,0,0,0,Bartholomew
+7/20/2015,Georgia,Oconee,0,0,0,Oconee
+7/20/2015,Georgia,Burke,0,1,1,Burke
+7/20/2015,Minnesota,Crow Wing,0,0,0,Crow Wing
+7/20/2015,California,Sacramento,0,1,1,Sacramento
+7/20/2015,Michigan,Osceola,0,2,2,Osceola
+7/20/2015,Colorado,Mesa,0,0,0,Mesa
+7/20/2015,Wyoming,Natrona,0,0,0,Natrona
+7/21/2015,Alabama,Bibb,1,0,1,Bibb
+7/21/2015,Michigan,Barry,1,0,1,Barry
+7/22/2015,Florida,Miami-Dade,1,0,1,Miami-Dade
+7/22/2015,Texas,Orange,1,0,1,Orange
+7/22/2015,Illinois,Wayne,0,0,0,Wayne
+7/22/2015,Missouri,Boone,0,0,0,Boone
+7/22/2015,New Mexico,Eddy,0,1,1,Eddy
+7/23/2015,Florida,Miami-Dade,0,1,1,Miami-Dade
+7/23/2015,Florida,Miami-Dade,1,0,1,Miami-Dade
+7/23/2015,Ohio,Pike,0,1,1,Pike
+7/23/2015,Florida,Okaloosa,0,0,0,Okaloosa
+7/23/2015,Wyoming,Converse,1,0,1,Converse
+7/24/2015,Wyoming,Natrona,0,0,0,Natrona
+7/24/2015,Delaware,New Castle,0,1,1,New Castle
+7/24/2015,Nebraska,Dodge,1,0,1,Dodge
+7/24/2015,North Dakota,Cass,0,1,1,Cass
+7/24/2015,Alabama,Butler,1,0,1,Butler
+7/24/2015,Florida,Miami-Dade,0,1,1,Miami-Dade
+7/24/2015,Arkansas,Craighead,0,0,0,Craighead
+7/24/2015,Louisiana,Vermilion,1,1,2,Vermilion
+7/24/2015,Ohio,Stark,0,1,1,Stark
+7/25/2015,North Carolina,Martin,0,1,1,Martin
+7/25/2015,Tennessee,Hamilton,0,2,2,Hamilton
+7/25/2015,Texas,Montgomery,0,0,0,Montgomery
+7/25/2015,Texas,Harris,0,0,0,Harris
+7/25/2015,Michigan,Cass,0,0,0,Cass
+7/25/2015,Ohio,Gallia,0,1,1,Gallia
+7/26/2015,Mississippi,Copiah,1,0,1,Copiah
+7/26/2015,Arkansas,Garland,0,0,0,Garland
+7/26/2015,Missouri,Cole,0,1,1,Cole
+7/26/2015,Virginia,Stafford,0,1,1,Stafford
+7/26/2015,Texas,Rains,0,1,1,Rains
+7/26/2015,North Carolina,Catawba,1,0,1,Catawba
+7/27/2015,Oklahoma,Cherokee,1,0,1,Cherokee
+7/27/2015,Wyoming,Natrona,0,0,0,Natrona
+7/27/2015,North Carolina,Davidson,1,0,1,Davidson
+7/27/2015,Florida,Orange,0,0,0,Orange
+7/27/2015,Mississippi,Monroe,0,0,0,Monroe
+7/27/2015,Kentucky,Clay,1,0,1,Clay
+7/27/2015,Louisiana,Terrebonne,1,0,1,Terrebonne
+7/28/2015,Alabama,Jefferson,1,0,1,Jefferson
+7/28/2015,Florida,Saint Johns,1,0,1,Saint Johns
+7/28/2015,California,Trinity,0,1,1,Trinity
+7/28/2015,California,Kern,0,0,0,Kern
+7/28/2015,Tennessee,Bradley,1,0,1,Bradley
+7/29/2015,Missouri,Saint Louis,0,1,1,Saint Louis
+7/29/2015,Texas,Harris,0,0,0,Harris
+7/29/2015,Texas,Bexar,1,0,1,Bexar
+7/29/2015,Tennessee,Dyer,0,1,1,Dyer
+7/29/2015,Florida,Orange,1,0,1,Orange
+7/29/2015,North Carolina,Iredell,0,0,0,Iredell
+7/29/2015,Kentucky,Scott,1,0,1,Scott
+7/29/2015,Tennessee,Hawkins,0,0,0,Hawkins
+7/29/2015,Florida,Miami-Dade,0,1,1,Miami-Dade
+7/30/2015,California,Fresno,0,1,1,Fresno
+7/30/2015,Arkansas,White,0,1,1,White
+7/30/2015,Texas,Walker,1,1,2,Walker
+7/30/2015,North Carolina,Craven,0,1,1,Craven
+7/30/2015,Arkansas,Pulaski,0,0,0,Pulaski
+7/30/2015,Texas,Williamson,0,0,0,Williamson
+7/30/2015,Michigan,Clare,0,0,0,Clare
+7/30/2015,Missouri,Cole,0,1,1,Cole
+7/30/2015,Texas,Cass,0,1,1,Cass
+7/30/2015,North Carolina,Vance,0,1,1,Vance
+7/30/2015,Missouri,Hickory,0,2,2,Hickory
+7/30/2015,California,Siskiyou,1,0,1,Siskiyou
+7/30/2015,Texas,Harris,0,1,1,Harris
+7/31/2015,Florida,Orange,0,1,1,Orange
+7/31/2015,Pennsylvania,Washington,0,1,1,Washington
+7/31/2015,Tennessee,Montgomery,0,1,1,Montgomery
+7/31/2015,Utah,Cache,0,0,0,Cache
+7/31/2015,North Carolina,Scotland,0,1,1,Scotland
+8/1/2015,Florida,Miami-Dade,0,2,2,Miami-Dade
+8/1/2015,Florida,Orange,1,0,1,Orange
+8/1/2015,Florida,Osceola,0,0,0,Osceola
+8/1/2015,Indiana,Fulton,0,2,2,Fulton
+8/1/2015,Texas,Fort Bend,1,0,1,Fort Bend
+8/1/2015,North Carolina,Gaston,0,0,0,Gaston
+8/1/2015,Texas,Brazoria,0,0,0,Brazoria
+8/2/2015,Wyoming,Natrona,0,0,0,Natrona
+8/2/2015,Tennessee,Henderson,0,0,0,Henderson
+8/3/2015,Colorado,Garfield,0,0,0,Garfield
+8/3/2015,Missouri,Boone,0,0,0,Boone
+8/3/2015,Missouri,Boone,0,0,0,Boone
+8/3/2015,Alabama,DeKalb,0,0,0,DeKalb
+8/3/2015,Wisconsin,Eau Claire,0,0,0,Eau Claire
+8/3/2015,Wisconsin,Sawyer,0,0,0,Sawyer
+8/3/2015,Virginia,Powhatan,1,0,1,Powhatan
+8/4/2015,Texas,Harris,1,1,2,Harris
+8/4/2015,Texas,Montgomery,0,0,0,Montgomery
+8/4/2015,Texas,Montgomery,0,0,0,Montgomery
+8/4/2015,Wyoming,Natrona,0,0,0,Natrona
+8/4/2015,Texas,Harris,1,1,2,Harris
+8/4/2015,Florida,Orange,1,0,1,Orange
+8/4/2015,Florida,Orange,0,0,0,Orange
+8/4/2015,West Virginia,Taylor,0,1,1,Taylor
+8/4/2015,Virginia,Henrico,0,0,0,Henrico
+8/5/2015,Texas,Harris,0,1,1,Harris
+8/5/2015,Arkansas,Johnson,0,0,0,Johnson
+8/5/2015,North Carolina,Robeson,0,1,1,Robeson
+8/5/2015,Michigan,Saginaw,0,0,0,Saginaw
+8/5/2015,California,Stanislaus,0,1,1,Stanislaus
+8/5/2015,California,Sutter,0,0,0,Sutter
+8/5/2015,Florida,Orange,0,2,2,Orange
+8/6/2015,Oklahoma,Pottawatomie,0,3,3,Pottawatomie
+8/6/2015,Wisconsin,Sawyer,0,0,0,Sawyer
+8/6/2015,California,Los Angeles,0,0,0,Los Angeles
+8/6/2015,Oregon,Linn,0,0,0,Linn
+8/6/2015,California,Monterey,0,0,0,Monterey
+8/6/2015,Florida,Collier,0,0,0,Collier
+8/7/2015,Indiana,Wells,0,0,0,Wells
+8/7/2015,Texas,Harris,1,0,1,Harris
+8/7/2015,Texas,Harris,1,1,2,Harris
+8/8/2015,North Carolina,Onslow,0,1,1,Onslow
+8/8/2015,Tennessee,Mcminn,0,1,1,Mcminn
+8/8/2015,Texas,Montgomery,0,0,0,Montgomery
+8/8/2015,Wyoming,Natrona,0,0,0,Natrona
+8/9/2015,Kentucky,Clay,0,0,0,Clay
+8/9/2015,Virginia,Henrico,0,1,1,Henrico
+8/9/2015,Minnesota,Pennington,0,1,1,Pennington
+8/9/2015,California,Monterey,0,0,0,Monterey
+8/9/2015,Kentucky,Whitley,0,0,0,Whitley
+8/9/2015,North Carolina,New Hanover,0,0,0,New Hanover
+8/10/2015,Florida,Orange,0,1,1,Orange
+8/11/2015,Kentucky,McCracken,0,0,0,McCracken
+8/11/2015,North Carolina,Cumberland,1,0,1,Cumberland
+8/12/2015,Missouri,Dunklin,0,1,1,Dunklin
+8/12/2015,Texas,Harris,1,1,2,Harris
+8/12/2015,Texas,Harris,0,1,1,Harris
+8/12/2015,Delaware,New Castle,0,0,0,New Castle
+8/13/2015,Nebraska,Lincoln,0,0,0,Lincoln
+8/13/2015,Tennessee,Carter,0,1,1,Carter
+8/14/2015,Texas,Harris,1,1,2,Harris
+8/14/2015,Idaho,Bannock,1,0,1,Bannock
+8/14/2015,Minnesota,Beltrami,0,0,0,Beltrami
+8/14/2015,Texas,Harris,1,0,1,Harris
+8/14/2015,Oklahoma,Woodward,0,1,1,Woodward
+8/14/2015,Florida,Miami-dade,1,0,1,Miami-dade
+8/14/2015,Florida,Orange,0,1,1,Orange
+8/15/2015,California,Merced,1,0,1,Merced
+8/15/2015,South Carolina,Richland,0,1,1,Richland
+8/15/2015,Kentucky,Lawrence,0,1,1,Lawrence
+8/15/2015,Kentucky,Wayne,0,1,1,Wayne
+8/16/2015,Missouri,Greene,0,0,0,Greene
+8/16/2015,South Carolina,Horry,0,1,1,Horry
+8/16/2015,Ohio,Wood,0,0,0,Wood
+8/17/2015,Virginia,Henrico,1,0,1,Henrico
+8/17/2015,Kentucky,Breathitt,0,1,1,Breathitt
+8/17/2015,Washington,Spokane,0,0,0,Spokane
+8/17/2015,South Carolina,Beaufort,0,0,0,Beaufort
+8/18/2015,Illinois,Marshall,0,0,0,Marshall
+8/18/2015,Pennsylvania,Dauphin,0,0,0,Dauphin
+8/18/2015,Virginia,Henrico,0,0,0,Henrico
+8/19/2015,Kentucky,Spencer,1,0,1,Spencer
+8/19/2015,Virginia,Chesterfield,0,0,0,Chesterfield
+8/19/2015,Maryland,Washington,0,0,0,Washington
+8/20/2015,Florida,Brevard,0,1,1,Brevard
+8/20/2015,Nebraska,Sarpy,0,0,0,Sarpy
+8/20/2015,Kentucky,Marshall,0,0,0,Marshall
+8/21/2015,South Carolina,Spartanburg,0,2,2,Spartanburg
+8/21/2015,Wyoming,Natrona,0,0,0,Natrona
+8/21/2015,Alabama,Dekalb,0,0,0,Dekalb
+8/21/2015,Kentucky,Jefferson,0,0,0,Jefferson
+8/21/2015,North Carolina,Gaston,1,0,1,Gaston
+8/21/2015,Oklahoma,Pontotoc,1,0,1,Pontotoc
+8/21/2015,Indiana,Lagrange,0,1,1,Lagrange
+8/22/2015,Alabama,Marshall,1,0,1,Marshall
+8/22/2015,South Carolina,Orangeburg,0,1,1,Orangeburg
+8/22/2015,Missouri,Callaway,0,1,1,Callaway
+8/22/2015,Wyoming,Natrona,0,0,0,Natrona
+8/22/2015,Arkansas,Garland,1,0,1,Garland
+8/22/2015,Mississippi,Jones,0,0,0,Jones
+8/23/2015,North Carolina,Guilford,0,0,0,Guilford
+8/23/2015,Missouri,Saint Louis,1,0,1,Saint Louis
+8/23/2015,Florida,Lee,0,1,1,Lee
+8/23/2015,Virginia,King George,1,0,1,King George
+8/23/2015,Alabama,Cullman,1,1,2,Cullman
+8/23/2015,California,Humboldt,0,1,1,Humboldt
+8/23/2015,Alabama,Morgan,2,0,2,Morgan
+8/24/2015,Mississippi,Monroe,0,1,1,Monroe
+8/24/2015,South Carolina,Richland,0,1,1,Richland
+8/24/2015,South Carolina,Anderson,0,0,0,Anderson
+8/24/2015,Virginia,Henrico,1,0,1,Henrico
+8/24/2015,Florida,Indian River,0,0,0,Indian River
+8/24/2015,Mississippi,Jasper,1,0,1,Jasper
+8/24/2015,Georgia,Oglethorpe,1,2,3,Oglethorpe
+8/25/2015,Virginia,York,0,0,0,York
+8/25/2015,North Carolina,Caldwell,1,1,2,Caldwell
+8/25/2015,South Carolina,Beaufort,0,0,0,Beaufort
+8/25/2015,South Carolina,Greenville,0,0,0,Greenville
+8/25/2015,Virginia,York,0,0,0,York
+8/25/2015,Florida,Miami-dade,0,1,1,Miami-dade
+8/25/2015,Texas,Travis,1,0,1,Travis
+8/25/2015,South Carolina,Dorchester,0,0,0,Dorchester
+8/25/2015,Virginia,Henrico,2,0,2,Henrico
+8/25/2015,Georgia,Troup,0,1,1,Troup
+8/25/2015,Florida,Leon,0,0,0,Leon
+8/25/2015,Alabama,Jefferson,0,0,0,Jefferson
+8/26/2015,Georgia,Habersham,0,0,0,Habersham
+8/26/2015,North Dakota,McKenzie,0,0,0,McKenzie
+8/26/2015,Kentucky,Harlan,1,0,1,Harlan
+8/26/2015,South Carolina,Newberry,1,0,1,Newberry
+8/26/2015,Missouri,Saint Charles,0,0,0,Saint Charles
+8/26/2015,Mississippi,Pearl River,1,0,1,Pearl River
+8/26/2015,Indiana,Martin,2,0,2,Martin
+8/27/2015,Kentucky,Clay,0,2,2,Clay
+8/27/2015,Indiana,Henry,3,0,3,Henry
+8/27/2015,California,Mariposa,0,0,0,Mariposa
+8/27/2015,Georgia,Rabun,0,0,0,Rabun
+8/28/2015,Oklahoma,Noble,0,1,1,Noble
+8/28/2015,North Carolina,Surry,0,1,1,Surry
+8/28/2015,South Carolina,Beaufort,0,1,1,Beaufort
+8/28/2015,Indiana,Montgomery,1,0,1,Montgomery
+8/29/2015,Florida,Manatee,0,0,0,Manatee
+8/29/2015,Georgia,Long,1,0,1,Long
+8/29/2015,North Carolina,Edgecombe,0,1,1,Edgecombe
+8/30/2015,Virginia,Dinwiddie,0,3,3,Dinwiddie
+8/30/2015,South Carolina,Williamsburg,0,1,1,Williamsburg
+8/30/2015,Virginia,Henry,1,0,1,Henry
+8/30/2015,North Carolina,New Hanover,0,1,1,New Hanover
+8/30/2015,Maryland,Montgomery,0,1,1,Montgomery
+8/30/2015,Florida,Miami-dade,0,1,1,Miami-dade
+8/30/2015,Florida,Miami-dade,0,1,1,Miami-dade
+8/31/2015,Ohio,Sandusky,0,1,1,Sandusky
+8/31/2015,Michigan,Oakland,0,1,1,Oakland
+9/1/2015,Texas,Harris,0,0,0,Harris
+9/1/2015,California,Humboldt,0,0,0,Humboldt
+9/1/2015,Colorado,Fremont,0,0,0,Fremont
+9/1/2015,Virginia,Buchanan,0,0,0,Buchanan
+9/1/2015,Missouri,Saint Louis,1,1,2,Saint Louis
+9/1/2015,New Mexico,San Juan,0,0,0,San Juan
+9/1/2015,West Virginia,Grant,0,0,0,Grant
+9/1/2015,Mississippi,Marshall,1,0,1,Marshall
+9/1/2015,South Carolina,Greenville,0,0,0,Greenville
+9/2/2015,Michigan,Manistee,0,0,0,Manistee
+9/2/2015,Wyoming,Natrona,0,0,0,Natrona
+9/2/2015,Alabama,Dallas,0,1,1,Dallas
+9/2/2015,Michigan,Branch,0,0,0,Branch
+9/2/2015,New Mexico,Bernalillo,0,0,0,Bernalillo
+9/2/2015,North Carolina,Gaston,0,0,0,Gaston
+9/3/2015,Indiana,Bartholomew,0,0,0,Bartholomew
+9/3/2015,Tennessee,Tipton,0,0,0,Tipton
+9/3/2015,Missouri,Greene,0,0,0,Greene
+9/3/2015,Missouri,Lincoln,0,0,0,Lincoln
+9/3/2015,Michigan,Eaton,0,0,0,Eaton
+9/3/2015,Mississippi,Rankin,0,1,1,Rankin
+9/4/2015,Texas,Parker,1,0,1,Parker
+9/4/2015,Texas,Madison,1,1,2,Madison
+9/4/2015,Alabama,Butler,0,0,0,Butler
+9/4/2015,Minnesota,Otter Tail,0,1,1,Otter Tail
+9/4/2015,Illinois,McHenry,1,0,1,McHenry
+9/4/2015,Indiana,Bartholomew,0,0,0,Bartholomew
+9/5/2015,West Virginia,Greenbrier,0,1,1,Greenbrier
+9/5/2015,New Mexico,San Juan,0,1,1,San Juan
+9/5/2015,Alabama,Dale,0,1,1,Dale
+9/5/2015,South Carolina,Beaufort,0,0,0,Beaufort
+9/5/2015,Florida,Putnam,1,0,1,Putnam
+9/5/2015,Mississippi,Hancock,0,1,1,Hancock
+9/5/2015,South Carolina,Beaufort,0,1,1,Beaufort
+9/6/2015,Florida,Indian River,0,0,0,Indian River
+9/6/2015,Virginia,York,1,0,1,York
+9/6/2015,North Carolina,Cumberland,0,1,1,Cumberland
+9/6/2015,Florida,Manatee,0,0,0,Manatee
+9/6/2015,Texas,Harris,1,0,1,Harris
+9/6/2015,Alabama,Blount,0,0,0,Blount
+9/6/2015,Texas,Liberty,0,1,1,Liberty
+9/7/2015,Texas,Gregg,0,0,0,Gregg
+9/7/2015,Missouri,Cass,0,2,2,Cass
+9/7/2015,Florida,Orange,0,1,1,Orange
+9/7/2015,Virginia,Henrico,1,0,1,Henrico
+9/7/2015,Washington,Spokane,0,0,0,Spokane
+9/7/2015,Washington,Spokane,0,0,0,Spokane
+9/7/2015,Louisiana,Lafayette,0,0,0,Lafayette
+9/7/2015,Louisiana,Lafayette,0,0,0,Lafayette
+9/8/2015,South Carolina,Horry,0,0,0,Horry
+9/8/2015,Alabama,Coosa,2,0,2,Coosa
+9/8/2015,Virginia,Henrico,0,2,2,Henrico
+9/8/2015,Virginia,Henrico,0,0,0,Henrico
+9/8/2015,Virginia,Henrico,0,0,0,Henrico
+9/8/2015,North Carolina,Hoke,0,2,2,Hoke
+9/8/2015,California,Monterey,0,0,0,Monterey
+9/9/2015,Nevada,Storey,1,0,1,Storey
+9/9/2015,Arkansas,Baxter,0,0,0,Baxter
+9/9/2015,Kentucky,Wolfe,0,1,1,Wolfe
+9/9/2015,Florida,Miami-dade,0,1,1,Miami-dade
+9/9/2015,Tennessee,Crockett,0,0,0,Crockett
+9/10/2015,Alabama,DeKalb,1,0,1,DeKalb
+9/10/2015,Georgia,Dekalb,0,1,1,Dekalb
+9/10/2015,Texas,Smith,1,0,1,Smith
+9/10/2015,Ohio,Lawrence,0,0,0,Lawrence
+9/11/2015,Alabama,Lauderdale,2,1,3,Lauderdale
+9/11/2015,Tennessee,Henderson,1,1,2,Henderson
+9/11/2015,Kentucky,Laurel,0,0,0,Laurel
+9/11/2015,Indiana,Bartholomew,0,0,0,Bartholomew
+9/11/2015,North Carolina,Catawba,0,0,0,Catawba
+9/11/2015,Florida,Pinellas,0,0,0,Pinellas
+9/11/2015,West Virginia,Summers,2,0,2,Summers
+9/11/2015,Alabama,Marshall,2,0,2,Marshall
+9/11/2015,Florida,Orange,0,1,1,Orange
+9/12/2015,Oregon,Marion,0,0,0,Marion
+9/12/2015,Ohio,Clark,0,1,1,Clark
+9/12/2015,West Virginia,Fayette,0,0,0,Fayette
+9/12/2015,South Carolina,Darlington,0,1,1,Darlington
+9/13/2015,North Carolina,Sampson,1,0,1,Sampson
+9/13/2015,Virginia,Spotsylvania,0,2,2,Spotsylvania
+9/13/2015,Texas,Cherokee,0,0,0,Cherokee
+9/13/2015,Texas,Smith,1,0,1,Smith
+9/13/2015,Kentucky,Lyon,2,0,2,Lyon
+9/13/2015,North Carolina,Robeson,1,0,1,Robeson
+9/13/2015,Kentucky,Whitley,0,1,1,Whitley
+9/14/2015,Wisconsin,Manitowoc,0,0,0,Manitowoc
+9/14/2015,Florida,Flagler,0,0,0,Flagler
+9/14/2015,South Carolina,Pickens,2,0,2,Pickens
+9/14/2015,South Carolina,Horry,1,0,1,Horry
+9/14/2015,Oklahoma,Osage,0,0,0,Osage
+9/14/2015,South Carolina,Richland,0,1,1,Richland
+9/15/2015,Colorado,Weld,0,1,1,Weld
+9/15/2015,New Mexico,Bernalillo,1,1,2,Bernalillo
+9/15/2015,Kansas,Sedgwick,0,1,1,Sedgwick
+9/15/2015,Texas,Fort Bend,0,0,0,Fort Bend
+9/15/2015,Missouri,Saint Louis,1,0,1,Saint Louis
+9/15/2015,Alabama,Blount,2,0,2,Blount
+9/15/2015,Florida,Miami-dade,1,0,1,Miami-dade
+9/15/2015,South Carolina,Richland,0,1,1,Richland
+9/15/2015,Wyoming,Natrona,0,0,0,Natrona
+9/15/2015,Missouri,Lincoln,0,0,0,Lincoln
+9/16/2015,South Dakota,Lawrence,1,0,1,Lawrence
+9/16/2015,Tennessee,Haywood,0,0,0,Haywood
+9/16/2015,Mississippi,Kemper,0,1,1,Kemper
+9/17/2015,North Carolina,Surry,0,0,0,Surry
+9/17/2015,Oregon,Marion,0,0,0,Marion
+9/17/2015,New Mexico,Dona Ana,0,0,0,Dona Ana
+9/17/2015,California,Kern,0,0,0,Kern
+9/17/2015,California,Tehama,1,0,1,Tehama
+9/17/2015,Tennessee,Montgomery,0,0,0,Montgomery
+9/17/2015,Missouri,Mcdonald,1,0,1,Mcdonald
+9/17/2015,Michigan,Gladwin,1,0,1,Gladwin
+9/17/2015,South Carolina,Horry,0,2,2,Horry
+9/17/2015,South Carolina,Richland,0,1,1,Richland
+9/17/2015,Virginia,Henrico,0,0,0,Henrico
+9/18/2015,South Carolina,Horry,0,1,1,Horry
+9/18/2015,North Carolina,Lenoir,0,1,1,Lenoir
+9/18/2015,Michigan,Tuscola,0,0,0,Tuscola
+9/18/2015,Alabama,Madison,1,0,1,Madison
+9/18/2015,Missouri,Stone,0,1,1,Stone
+9/18/2015,Colorado,Boulder,0,0,0,Boulder
+9/18/2015,West Virginia,Randolph,0,1,1,Randolph
+9/19/2015,Oklahoma,Pottawatomie,1,0,1,Pottawatomie
+9/19/2015,Missouri,Boone,2,0,2,Boone
+9/19/2015,Missouri,Christian,0,0,0,Christian
+9/19/2015,Iowa,Madison,0,1,1,Madison
+9/19/2015,Tennessee,Shelby,0,2,2,Shelby
+9/20/2015,Colorado,Jefferson,1,0,1,Jefferson
+9/20/2015,Texas,Montgomery,0,0,0,Montgomery
+9/20/2015,Texas,Montgomery,0,0,0,Montgomery
+9/20/2015,Alabama,Baldwin,0,0,0,Baldwin
+9/20/2015,Georgia,Crawford,2,0,2,Crawford
+9/20/2015,Alabama,Madison,1,0,1,Madison
+9/20/2015,Missouri,Greene,1,0,1,Greene
+9/21/2015,South Carolina,Richland,0,1,1,Richland
+9/21/2015,Kansas,Shawnee,0,1,1,Shawnee
+9/21/2015,Virginia,Fairfax,1,0,1,Fairfax
+9/21/2015,North Carolina,Sampson,0,1,1,Sampson
+9/22/2015,Mississippi,Covington,0,1,1,Covington
+9/22/2015,North Carolina,Gaston,0,0,0,Gaston
+9/22/2015,Montana,Yellowstone,1,0,1,Yellowstone
+9/22/2015,New York,Yates,0,0,0,Yates
+9/22/2015,Kentucky,Carter,0,0,0,Carter
+9/22/2015,Texas,Montgomery,0,0,0,Montgomery
+9/22/2015,Washington,Benton,0,0,0,Benton
+9/23/2015,California,Stanislaus,0,1,1,Stanislaus
+9/23/2015,South Carolina,Dillon,0,1,1,Dillon
+9/23/2015,Indiana,Jennings,0,0,0,Jennings
+9/23/2015,Virginia,Grayson,1,0,1,Grayson
+9/23/2015,Virginia,Chesterfield,0,0,0,Chesterfield
+9/23/2015,Mississippi,Marion,1,0,1,Marion
+9/24/2015,Texas,Montgomery,0,0,0,Montgomery
+9/24/2015,Alabama,Montgomery,0,1,1,Montgomery
+9/24/2015,Virginia,Albemarle,0,1,1,Albemarle
+9/24/2015,South Carolina,Aiken,0,0,0,Aiken
+9/24/2015,Missouri,Franklin,0,0,0,Franklin
+9/24/2015,Tennessee,Montgomery,0,0,0,Montgomery
+9/25/2015,South Carolina,Lancaster,0,0,0,Lancaster
+9/25/2015,Mississippi,Lamar,0,1,1,Lamar
+9/25/2015,Virginia,Henrico,0,0,0,Henrico
+9/25/2015,Virginia,Pittsylvania,0,0,0,Pittsylvania
+9/26/2015,South Carolina,Dorchester,0,1,1,Dorchester
+9/26/2015,Arkansas,Baxter,0,0,0,Baxter
+9/26/2015,Georgia,Madison,0,0,0,Madison
+9/27/2015,Virginia,York,0,0,0,York
+9/27/2015,Ohio,Wayne,0,1,1,Wayne
+9/27/2015,Tennessee,Grundy,1,0,1,Grundy
+9/27/2015,Mississippi,Jones,0,0,0,Jones
+9/27/2015,South Carolina,Berkeley,1,0,1,Berkeley
+9/27/2015,Oregon,Marion,0,0,0,Marion
+9/27/2015,Minnesota,Crow Wing,0,1,1,Crow Wing
+9/27/2015,Indiana,Scott,1,0,1,Scott
+9/27/2015,Missouri,Saint Charles,0,0,0,Saint Charles
+9/27/2015,Minnesota,Otter Tail,0,0,0,Otter Tail
+9/28/2015,South Carolina,Beaufort,0,0,0,Beaufort
+9/28/2015,Idaho,Gooding,0,0,0,Gooding
+9/28/2015,Kentucky,Graves,0,0,0,Graves
+9/28/2015,Florida,Orange,0,1,1,Orange
+9/28/2015,Florida,Miami-dade,1,0,1,Miami-dade
+9/28/2015,Wyoming,Natrona,0,0,0,Natrona
+9/28/2015,Texas,Cherokee,1,0,1,Cherokee
+9/28/2015,Virginia,York,0,0,0,York
+9/28/2015,Wyoming,Natrona,0,0,0,Natrona
+9/29/2015,Indiana,Dekalb,0,0,0,Dekalb
+9/29/2015,Wyoming,Natrona,0,0,0,Natrona
+9/29/2015,Alabama,Limestone,0,1,1,Limestone
+9/30/2015,Texas,Marion,0,1,1,Marion
+9/30/2015,Florida,Lee,0,1,1,Lee
+10/1/2015,Iowa,Washington,0,0,0,Washington
+10/1/2015,Virginia,Bedford,1,0,1,Bedford
+10/1/2015,New Jersey,Camden,0,0,0,Camden
+10/1/2015,Florida,Miami-dade,1,0,1,Miami-dade
+10/1/2015,Wyoming,Natrona,0,0,0,Natrona
+10/2/2015,Texas,Houston,0,0,0,Houston
+10/2/2015,Nevada,Elko,1,0,1,Elko
+10/2/2015,Texas,Upshur,0,0,0,Upshur
+10/2/2015,Texas,Harris,0,1,1,Harris
+10/3/2015,Wyoming,Natrona,0,0,0,Natrona
+10/3/2015,Montana,Flathead,0,2,2,Flathead
+10/3/2015,Virginia,Henry,0,1,1,Henry
+10/3/2015,Texas,Harris,0,1,1,Harris
+10/3/2015,South Carolina,Beaufort,0,0,0,Beaufort
+10/5/2015,South Carolina,Richland,0,1,1,Richland
+10/5/2015,Kansas,Labette,0,0,0,Labette
+10/5/2015,Florida,Orange,0,1,1,Orange
+10/5/2015,Georgia,Bulloch,0,0,0,Bulloch
+10/6/2015,Oregon,Linn,0,0,0,Linn
+10/6/2015,Colorado,Douglas,0,0,0,Douglas
+10/6/2015,Arizona,Pinal,0,1,1,Pinal
+10/7/2015,Michigan,Wayne,0,0,0,Wayne
+10/7/2015,Florida,Orange,1,0,1,Orange
+10/7/2015,Missouri,Saint Louis,0,1,1,Saint Louis
+10/7/2015,North Carolina,Rowan,0,0,0,Rowan
+10/7/2015,Tennessee,Putnam,1,1,2,Putnam
+10/7/2015,Texas,Limestone,0,0,0,Limestone
+10/7/2015,Oregon,Umatilla,1,0,1,Umatilla
+10/8/2015,Alabama,Tallapoosa,2,0,2,Tallapoosa
+10/8/2015,Oregon,Marion,0,0,0,Marion
+10/8/2015,Missouri,Callaway,0,0,0,Callaway
+10/8/2015,Pennsylvania,Lancaster,0,0,0,Lancaster
+10/8/2015,Missouri,Saint Louis,1,0,1,Saint Louis
+10/8/2015,Michigan,Charlevoix,0,0,0,Charlevoix
+10/8/2015,South Carolina,Richland,1,0,1,Richland
+10/9/2015,North Carolina,Catawba,1,0,1,Catawba
+10/9/2015,Mississippi,Rankin,0,1,1,Rankin
+10/9/2015,West Virginia,Randolph,0,1,1,Randolph
+10/9/2015,Washington,Spokane,0,0,0,Spokane
+10/10/2015,Mississippi,Lawrence,1,0,1,Lawrence
+10/10/2015,Kansas,Sedgwick,0,1,1,Sedgwick
+10/10/2015,Florida,Orange,0,3,3,Orange
+10/10/2015,Utah,Cache,1,0,1,Cache
+10/11/2015,Michigan,Mecosta,0,1,1,Mecosta
+10/11/2015,Florida,Manatee,0,1,1,Manatee
+10/11/2015,South Carolina,Georgetown,0,1,1,Georgetown
+10/11/2015,Kentucky,Jessamine,0,0,0,Jessamine
+10/12/2015,Florida,Orange,0,0,0,Orange
+10/12/2015,South Carolina,York,1,0,1,York
+10/13/2015,North Carolina,Bladen,1,0,1,Bladen
+10/13/2015,Utah,Emery,0,0,0,Emery
+10/13/2015,Michigan,Genesee,0,1,1,Genesee
+10/13/2015,Michigan,Emmet,0,0,0,Emmet
+10/13/2015,Wyoming,Natrona,0,0,0,Natrona
+10/13/2015,Florida,Miami-dade,1,0,1,Miami-dade
+10/14/2015,New Mexico,Dona Ana,0,0,0,Dona Ana
+10/14/2015,Virginia,Campbell,0,1,1,Campbell
+10/14/2015,Kentucky,Perry,0,1,1,Perry
+10/14/2015,Arkansas,Benton,0,0,0,Benton
+10/14/2015,Arkansas,Carroll,0,0,0,Carroll
+10/14/2015,Florida,Miami-dade,0,1,1,Miami-dade
+10/14/2015,Alabama,Conecuh,1,0,1,Conecuh
+10/14/2015,Florida,Collier,1,0,1,Collier
+10/15/2015,Florida,Miami-dade,1,0,1,Miami-dade
+10/15/2015,Kentucky,Lincoln,0,0,0,Lincoln
+10/15/2015,Colorado,El Paso,0,1,1,El Paso
+10/15/2015,Florida,Orange,0,0,0,Orange
+10/15/2015,Arkansas,Benton,0,0,0,Benton
+10/15/2015,Florida,Orange,0,1,1,Orange
+10/16/2015,Missouri,Lincoln,0,0,0,Lincoln
+10/16/2015,South Carolina,Georgetown,0,0,0,Georgetown
+10/16/2015,Tennessee,Mcminn,0,1,1,Mcminn
+10/17/2015,Oklahoma,Canadian,2,1,3,Canadian
+10/17/2015,Virginia,Chesterfield,1,0,1,Chesterfield
+10/17/2015,North Dakota,Ward,0,0,0,Ward
+10/17/2015,Florida,Miami-dade,1,2,3,Miami-dade
+10/18/2015,Missouri,Cole,0,0,0,Cole
+10/18/2015,California,Kern,0,1,1,Kern
+10/18/2015,Alabama,Tuscaloosa,0,1,1,Tuscaloosa
+10/18/2015,South Carolina,Beaufort,0,1,1,Beaufort
+10/18/2015,Florida,Miami-dade,1,1,2,Miami-dade
+10/18/2015,Alabama,Tuscaloosa,0,0,0,Tuscaloosa
+10/19/2015,Florida,Miami-dade,1,0,1,Miami-dade
+10/19/2015,Oregon,Marion,0,0,0,Marion
+10/19/2015,Florida,Orange,0,2,2,Orange
+10/19/2015,Florida,Palm Beach,0,0,0,Palm Beach
+10/19/2015,Ohio,Gallia,0,0,0,Gallia
+10/19/2015,Alabama,Walker,0,1,1,Walker
+10/19/2015,Arkansas,Garland,2,0,2,Garland
+10/19/2015,Colorado,El Paso,0,1,1,El Paso
+10/20/2015,Michigan,Ottawa,0,0,0,Ottawa
+10/20/2015,Michigan,Ottawa,0,0,0,Ottawa
+10/20/2015,North Carolina,Franklin,1,0,1,Franklin
+10/20/2015,Michigan,Ottawa,0,0,0,Ottawa
+10/20/2015,California,Calaveras,3,0,3,Calaveras
+10/20/2015,South Carolina,Dorchester,1,1,2,Dorchester
+10/20/2015,Texas,Harris,0,0,0,Harris
+10/20/2015,Pennsylvania,Westmoreland,0,0,0,Westmoreland
+10/20/2015,Texas,Harris,0,0,0,Harris
+10/21/2015,Colorado,Mesa,0,0,0,Mesa
+10/21/2015,Virginia,Nottoway,1,1,2,Nottoway
+10/21/2015,Texas,Harris,0,0,0,Harris
+10/21/2015,Texas,Gregg,1,0,1,Gregg
+10/21/2015,Texas,Bexar,0,0,0,Bexar
+10/22/2015,Oklahoma,Sequoyah,0,1,1,Sequoyah
+10/22/2015,Michigan,Oakland,0,0,0,Oakland
+10/22/2015,South Carolina,Richland,0,1,1,Richland
+10/22/2015,Oregon,Marion,0,0,0,Marion
+10/22/2015,Oregon,Marion,0,0,0,Marion
+10/22/2015,North Carolina,Alamance,0,0,0,Alamance
+10/22/2015,Virginia,Henrico,1,0,1,Henrico
+10/22/2015,Georgia,Troup,0,0,0,Troup
+10/22/2015,Arkansas,Grant,0,1,1,Grant
+10/23/2015,Oklahoma,Garfield,0,0,0,Garfield
+10/23/2015,Nevada,Carson,0,1,1,Carson
+10/23/2015,New Mexico,Dona Ana,0,0,0,Dona Ana
+10/23/2015,Virginia,Fauquier,1,0,1,Fauquier
+10/24/2015,South Dakota,Meade,0,0,0,Meade
+10/24/2015,Arkansas,Jefferson,1,0,1,Jefferson
+10/24/2015,Alabama,Cullman,0,1,1,Cullman
+10/24/2015,Oklahoma,Caddo,0,0,0,Caddo
+10/24/2015,Oklahoma,Canadian,1,1,2,Canadian
+10/24/2015,Alabama,Jackson,0,0,0,Jackson
+10/24/2015,Florida,Miami-dade,0,1,1,Miami-dade
+10/24/2015,West Virginia,Mcdowell,0,1,1,Mcdowell
+10/24/2015,Georgia,Oconee,0,0,0,Oconee
+10/24/2015,North Carolina,Caswell,1,0,1,Caswell
+10/25/2015,Michigan,Branch,0,1,1,Branch
+10/25/2015,Mississippi,Jones,0,0,0,Jones
+10/25/2015,South Carolina,Chesterfield,2,1,3,Chesterfield
+10/26/2015,Indiana,Sullivan,0,1,1,Sullivan
+10/26/2015,North Carolina,Pitt,1,0,1,Pitt
+10/26/2015,Kentucky,Laurel,0,1,1,Laurel
+10/26/2015,South Carolina,Horry,0,1,1,Horry
+10/26/2015,North Carolina,Rutherford,0,1,1,Rutherford
+10/26/2015,Ohio,Summit,0,0,0,Summit
+10/27/2015,North Carolina,Bladen,0,1,1,Bladen
+10/27/2015,Texas,Harris,0,2,2,Harris
+10/27/2015,North Carolina,Cleveland,0,1,1,Cleveland
+10/27/2015,Mississippi,Monroe,1,1,2,Monroe
+10/27/2015,Michigan,Barry County,0,1,1,Barry County
+10/28/2015,Florida,Pasco,0,1,1,Pasco
+10/28/2015,New Mexico,Bernalillo,0,0,0,Bernalillo
+10/28/2015,Washington,Clark,0,0,0,Clark
+10/28/2015,Oklahoma,Blaine,1,0,1,Blaine
+10/28/2015,Georgia,Clarke,0,0,0,Clarke
+10/28/2015,California,Kern,0,1,1,Kern
+10/29/2015,South Carolina,Darlington,0,0,0,Darlington
+10/29/2015,Kentucky,Greenup,1,0,1,Greenup
+10/29/2015,Ohio,Clark,0,0,0,Clark
+10/29/2015,Virginia,Stafford,0,0,0,Stafford
+10/29/2015,Oregon,Marion,0,0,0,Marion
+10/29/2015,Georgia,Cobb,0,0,0,Cobb
+10/29/2015,North Carolina,Davidson,2,1,3,Davidson
+10/30/2015,Texas,Smith,1,1,2,Smith
+10/30/2015,Virginia,Henrico,0,1,1,Henrico
+10/30/2015,Alabama,Jefferson,0,1,1,Jefferson
+10/30/2015,Colorado,Mesa,0,0,0,Mesa
+10/30/2015,Colorado,Mesa,0,1,1,Mesa
+10/30/2015,Kansas,Shawnee,1,0,1,Shawnee
+10/30/2015,Oklahoma,Oklahoma,0,0,0,Oklahoma
+10/31/2015,Nevada,White Pine,0,1,1,White Pine
+10/31/2015,Michigan,Clare,0,0,0,Clare
+10/31/2015,Florida,Miami-dade,0,2,2,Miami-dade
+10/31/2015,Minnesota,Winona,0,0,0,Winona
+10/31/2015,Alabama,Jefferson,0,1,1,Jefferson
+10/31/2015,Texas,Harris,0,1,1,Harris
+11/1/2015,South Carolina,Richland,0,1,1,Richland
+11/1/2015,West Virginia,Harrison,0,0,0,Harrison
+11/1/2015,North Carolina,Guilford,0,0,0,Guilford
+11/1/2015,Florida,Orange,0,2,2,Orange
+11/1/2015,Oregon,Marion,0,0,0,Marion
+11/2/2015,Texas,Wood,0,2,2,Wood
+11/2/2015,Texas,Harris,0,1,1,Harris
+11/2/2015,Wyoming,Natrona,0,0,0,Natrona
+11/2/2015,Texas,Harris,1,0,1,Harris
+11/3/2015,Indiana,Starke,0,1,1,Starke
+11/3/2015,South Carolina,Orangeburg,1,0,1,Orangeburg
+11/3/2015,Texas,Harris,1,0,1,Harris
+11/3/2015,Texas,Harris,0,1,1,Harris
+11/3/2015,New Mexico,Lea,0,0,0,Lea
+11/3/2015,Florida,Orange,0,1,1,Orange
+11/4/2015,Oregon,Linn,0,0,0,Linn
+11/4/2015,Missouri,Mcdonald,1,0,1,Mcdonald
+11/4/2015,South Carolina,Anderson,0,1,1,Anderson
+11/4/2015,Florida,Marion,0,0,0,Marion
+11/4/2015,Florida,Miami-dade,0,1,1,Miami-dade
+11/4/2015,Virginia,Henrico,0,1,1,Henrico
+11/4/2015,Texas,Harris,0,1,1,Harris
+11/4/2015,Maryland,Prince Georges,0,1,1,Prince Georges
+11/4/2015,Mississippi,Simpson,0,2,2,Simpson
+11/5/2015,Indiana,Delaware,0,0,0,Delaware
+11/5/2015,Texas,Harris,0,1,1,Harris
+11/5/2015,South Carolina,Orangeburg,0,0,0,Orangeburg
+11/5/2015,North Carolina,Rutherford,1,0,1,Rutherford
+11/5/2015,Oregon,Marion,0,0,0,Marion
+11/5/2015,Wyoming,Natrona,0,0,0,Natrona
+11/5/2015,Oregon,Marion,0,0,0,Marion
+11/6/2015,Georgia,Madison,0,0,0,Madison
+11/6/2015,North Dakota,Williams,0,0,0,Williams
+11/6/2015,Oregon,Linn,0,0,0,Linn
+11/6/2015,Missouri,Clay,0,0,0,Clay
+11/6/2015,South Carolina,Colleton,0,2,2,Colleton
+11/7/2015,Missouri,Ray,0,0,0,Ray
+11/7/2015,Missouri,Cole,0,1,1,Cole
+11/7/2015,Minnesota,Swift,0,1,1,Swift
+11/7/2015,Florida,Collier,0,0,0,Collier
+11/7/2015,Alabama,Jackson,0,1,1,Jackson
+11/7/2015,California,Sacramento,2,0,2,Sacramento
+11/7/2015,South Carolina,Lexington,1,0,1,Lexington
+11/8/2015,Colorado,Mesa,0,0,0,Mesa
+11/8/2015,Colorado,Mesa,0,1,1,Mesa
+11/9/2015,Indiana,Randolph,0,0,0,Randolph
+11/9/2015,Florida,Manatee,0,0,0,Manatee
+11/9/2015,West Virginia,Logan,0,2,2,Logan
+11/9/2015,Texas,Comal,0,0,0,Comal
+11/9/2015,West Virginia,Lewis,1,1,2,Lewis
+11/9/2015,Missouri,Jefferson,0,1,1,Jefferson
+11/9/2015,Oklahoma,Nowata,0,0,0,Nowata
+11/10/2015,Arkansas,Randolph,1,0,1,Randolph
+11/10/2015,South Carolina,Horry,0,1,1,Horry
+11/10/2015,Colorado,Boulder,0,1,1,Boulder
+11/10/2015,Colorado,Adams,1,0,1,Adams
+11/10/2015,Delaware,New Castle,0,0,0,New Castle
+11/10/2015,Montana,Beaverhead,1,0,1,Beaverhead
+11/10/2015,Texas,Walker,0,1,1,Walker
+11/11/2015,California,El Dorado,2,0,2,El Dorado
+11/11/2015,Tennessee,Obion,0,0,0,Obion
+11/11/2015,Virginia,Gloucester,0,0,0,Gloucester
+11/12/2015,Iowa,Fremont,0,0,0,Fremont
+11/12/2015,Oregon,Multnomah,0,0,0,Multnomah
+11/12/2015,Oregon,Marion,0,0,0,Marion
+11/12/2015,Texas,Harris,0,1,1,Harris
+11/12/2015,Washington,Yakima,0,0,0,Yakima
+11/12/2015,South Carolina,Cherokee,0,0,0,Cherokee
+11/12/2015,North Carolina,Beaufort,0,1,1,Beaufort
+11/13/2015,Ohio,Vinton,0,0,0,Vinton
+11/13/2015,Idaho,Bonneville,0,0,0,Bonneville
+11/13/2015,Minnesota,Olmsted,0,1,1,Olmsted
+11/13/2015,Washington,Spokane,0,0,0,Spokane
+11/13/2015,Florida,Miami-dade,1,0,1,Miami-dade
+11/13/2015,Georgia,Irwin,0,0,0,Irwin
+11/13/2015,Florida,Miami-dade,0,3,3,Miami-dade
+11/13/2015,Texas,Harris,0,1,1,Harris
+11/13/2015,Montana,Cascade,0,1,1,Cascade
+11/14/2015,Tennessee,Carter,0,1,1,Carter
+11/14/2015,Tennessee,Greene,0,1,1,Greene
+11/14/2015,California,Sacramento,2,0,2,Sacramento
+11/14/2015,Tennessee,Shelby,0,0,0,Shelby
+11/15/2015,Florida,Miami-dade,0,1,1,Miami-dade
+11/15/2015,Mississippi,Clay,0,1,1,Clay
+11/15/2015,North Carolina,Harnett,1,0,1,Harnett
+11/15/2015,Missouri,Pulaski,0,0,0,Pulaski
+11/15/2015,Florida,Collier,0,0,0,Collier
+11/15/2015,Michigan,Calhoun,0,1,1,Calhoun
+11/16/2015,California,Monterey,0,1,1,Monterey
+11/16/2015,North Carolina,Edgecombe,0,1,1,Edgecombe
+11/16/2015,Minnesota,Carlton,0,0,0,Carlton
+11/16/2015,Alabama,Cherokee,3,1,4,Cherokee
+11/16/2015,Missouri,Saint Louis,1,0,1,Saint Louis
+11/16/2015,South Carolina,Marion,0,1,1,Marion
+11/16/2015,Florida,Pinellas,0,1,1,Pinellas
+11/17/2015,Texas,Smith,0,1,1,Smith
+11/17/2015,Texas,Harris,0,3,3,Harris
+11/17/2015,Texas,Harris,1,0,1,Harris
+11/17/2015,Texas,Harris,0,1,1,Harris
+11/17/2015,Florida,Miami-dade,1,0,1,Miami-dade
+11/18/2015,North Carolina,Rowan,0,0,0,Rowan
+11/18/2015,Illinois,Kane,0,0,0,Kane
+11/18/2015,Michigan,Wayne,0,0,0,Wayne
+11/18/2015,Mississippi,Jones,0,0,0,Jones
+11/18/2015,Texas,Bowie,0,0,0,Bowie
+11/18/2015,North Carolina,Catawba,0,1,1,Catawba
+11/18/2015,Pennsylvania,Montgomery,0,0,0,Montgomery
+11/18/2015,Florida,Miami-dade,0,1,1,Miami-dade
+11/19/2015,Texas,Lubbock,0,1,1,Lubbock
+11/19/2015,Missouri,Boone,0,0,0,Boone
+11/19/2015,Florida,Saint Lucie,1,0,1,Saint Lucie
+11/20/2015,Florida,Miami-dade,0,0,0,Miami-dade
+11/20/2015,Indiana,Clinton,0,0,0,Clinton
+11/20/2015,Virginia,Chesterfield,0,1,1,Chesterfield
+11/20/2015,Illinois,Henry,0,0,0,Henry
+11/20/2015,Missouri,Madison,0,1,1,Madison
+11/20/2015,South Carolina,Richland,0,1,1,Richland
+11/20/2015,Virginia,Henrico,0,1,1,Henrico
+11/20/2015,Florida,Miami-dade,0,2,2,Miami-dade
+11/21/2015,Oregon,Marion,0,0,0,Marion
+11/21/2015,South Carolina,Greenville,0,1,1,Greenville
+11/21/2015,North Carolina,Halifax,0,0,0,Halifax
+11/21/2015,Louisiana,Bossier,1,1,2,Bossier
+11/21/2015,Wisconsin,Rock,0,1,1,Rock
+11/22/2015,North Carolina,Wilkes,1,0,1,Wilkes
+11/22/2015,California,Yuba,1,0,1,Yuba
+11/22/2015,Wyoming,Big Horn,0,1,1,Big Horn
+11/22/2015,Texas,Harris,1,0,1,Harris
+11/22/2015,Nebraska,Morrill,1,0,1,Morrill
+11/22/2015,Oklahoma,Le Flore,0,1,1,Le Flore
+11/23/2015,Oregon,Linn,0,0,0,Linn
+11/23/2015,Indiana,Brown,0,1,1,Brown
+11/23/2015,North Carolina,Wayne,1,0,1,Wayne
+11/23/2015,Florida,Miami-dade,0,1,1,Miami-dade
+11/24/2015,North Carolina,Cleveland,1,0,1,Cleveland
+11/24/2015,North Carolina,Moore,0,0,0,Moore
+11/24/2015,Michigan,Dearborn,0,1,1,Dearborn
+11/24/2015,Wyoming,Natrona,0,0,0,Natrona
+11/24/2015,Wyoming,Natrona,0,0,0,Natrona
+11/24/2015,Kentucky,Grayson,1,0,1,Grayson
+11/24/2015,Michigan,Washtenaw,0,0,0,Washtenaw
+11/24/2015,South Carolina,Horry,0,4,4,Horry
+11/24/2015,Kentucky,Rowan,0,0,0,Rowan
+11/24/2015,Texas,Harris,0,0,0,Harris
+11/25/2015,Texas,Harris,0,0,0,Harris
+11/25/2015,Oklahoma,Pittsburg,0,0,0,Pittsburg
+11/25/2015,Virginia,Chesterfield,0,0,0,Chesterfield
+11/25/2015,Mississippi,Neshoba,1,0,1,Neshoba
+11/25/2015,North Carolina,Catawba,0,1,1,Catawba
+11/26/2015,Colorado,El Paso,0,0,0,El Paso
+11/26/2015,Florida,Pasco,0,1,1,Pasco
+11/26/2015,Florida,Miami-dade,0,2,2,Miami-dade
+11/26/2015,Florida,Saint Johns,0,0,0,Saint Johns
+11/26/2015,South Carolina,Chesterfield,0,1,1,Chesterfield
+11/26/2015,Ohio,Licking,2,0,2,Licking
+11/26/2015,Washington,Spokane,0,0,0,Spokane
+11/26/2015,North Dakota,Cass,0,0,0,Cass
+11/26/2015,Virginia,Prince Edward,1,0,1,Prince Edward
+11/27/2015,South Carolina,Union,1,0,1,Union
+11/27/2015,Missouri,Stone,1,1,2,Stone
+11/27/2015,New Mexico,Valencia,1,0,1,Valencia
+11/27/2015,Missouri,Saint Louis,1,0,1,Saint Louis
+11/27/2015,Ohio,Jefferson,0,1,1,Jefferson
+11/27/2015,Virginia,Henrico,0,0,0,Henrico
+11/27/2015,Virginia,New Kent,0,0,0,New Kent
+11/28/2015,Alabama,Walker,1,1,2,Walker
+11/28/2015,North Carolina,Cabarrus,0,1,1,Cabarrus
+11/28/2015,Maryland,Charles,0,1,1,Charles
+11/28/2015,Oklahoma,Rogers,0,0,0,Rogers
+11/29/2015,North Carolina,Wayne,1,0,1,Wayne
+11/29/2015,Missouri,Dekalb,1,0,1,Dekalb
+11/29/2015,Minnesota,Itasca,1,0,1,Itasca
+11/30/2015,North Carolina,Onslow,1,1,2,Onslow
+11/30/2015,Texas,Liberty,1,0,1,Liberty
+12/1/2015,Texas,Val Verde,0,0,0,Val Verde
+12/1/2015,Florida,Miami-dade,1,0,1,Miami-dade
+12/1/2015,Alabama,Limestone,0,1,1,Limestone
+12/1/2015,New Mexico,Mckinley,0,0,0,Mckinley
+12/1/2015,Pennsylvania,York,0,0,0,York
+12/1/2015,Virginia,Wythe,0,0,0,Wythe
+12/2/2015,Oregon,Marion,0,0,0,Marion
+12/2/2015,Ohio,Ross,0,1,1,Ross
+12/3/2015,Texas,Bexar,0,1,1,Bexar
+12/3/2015,South Carolina,Richland,1,0,1,Richland
+12/3/2015,Texas,Webb,1,0,1,Webb
+12/3/2015,Michigan,Leelanau,0,0,0,Leelanau
+12/3/2015,Mississippi,Lincoln,0,1,1,Lincoln
+12/3/2015,Missouri,Gasconade,0,1,1,Gasconade
+12/4/2015,California,Orange,0,1,1,Orange
+12/4/2015,Indiana,Newton,0,1,1,Newton
+12/4/2015,Alabama,Tuscaloosa,0,1,1,Tuscaloosa
+12/4/2015,Oklahoma,Swisher,0,1,1,Swisher
+12/4/2015,Mississippi,Lawrence,0,0,0,Lawrence
+12/4/2015,Georgia,Fannin,0,1,1,Fannin
+12/5/2015,Florida,Miami-dade,0,1,1,Miami-dade
+12/5/2015,North Carolina,Sampson,0,0,0,Sampson
+12/5/2015,Alabama,Limestone,1,0,1,Limestone
+12/5/2015,Virginia,Bedford,0,0,0,Bedford
+12/6/2015,Texas,Bastrop,1,0,1,Bastrop
+12/6/2015,Iowa,Delaware,0,1,1,Delaware
+12/6/2015,New York,Niagara,0,0,0,Niagara
+12/6/2015,Iowa,Henry,0,1,1,Henry
+12/6/2015,Pennsylvania,Cumberland,0,0,0,Cumberland
+12/6/2015,Washington,Spokane,0,0,0,Spokane
+12/7/2015,Kansas,Jefferson,1,0,1,Jefferson
+12/7/2015,Arkansas,Craighead,0,1,1,Craighead
+12/7/2015,Mississippi,Claiborne,0,1,1,Claiborne
+12/7/2015,Arkansas,Logan,0,0,0,Logan
+12/7/2015,West Virginia,Monongalia,0,0,0,Monongalia
+12/8/2015,North Carolina,Duplin,0,0,0,Duplin
+12/8/2015,Colorado,Adams,1,0,1,Adams
+12/8/2015,Colorado,Boulder,0,1,1,Boulder
+12/8/2015,Kentucky,McCreary,0,1,1,McCreary
+12/8/2015,Mississippi,Harrison,0,1,1,Harrison
+12/8/2015,Mississippi,Wayne,3,0,3,Wayne
+12/8/2015,Virginia,Henrico,0,0,0,Henrico
+12/8/2015,Florida,Orange,0,1,1,Orange
+12/8/2015,Texas,Harris,0,1,1,Harris
+12/8/2015,Texas,Smith,0,0,0,Smith
+12/9/2015,Texas,Bexar,1,0,1,Bexar
+12/9/2015,Texas,Harris,2,0,2,Harris
+12/9/2015,Tennessee,Hamilton,0,0,0,Hamilton
+12/9/2015,Mississippi,Harrison,0,0,0,Harrison
+12/9/2015,California,Ventura,0,0,0,Ventura
+12/9/2015,Texas,Bexar,1,0,1,Bexar
+12/9/2015,Alabama,Jefferson,0,2,2,Jefferson
+12/10/2015,Kentucky,Lincoln,0,1,1,Lincoln
+12/10/2015,Missouri,Saint Charles,0,1,1,Saint Charles
+12/10/2015,Missouri,Saint Louis,0,0,0,Saint Louis
+12/10/2015,Wyoming,Natrona,1,0,1,Natrona
+12/10/2015,Missouri,Crawford,0,1,1,Crawford
+12/11/2015,North Carolina,Gaston,0,1,1,Gaston
+12/11/2015,Florida,Miami-dade,0,2,2,Miami-dade
+12/11/2015,Florida,Manatee,0,0,0,Manatee
+12/11/2015,North Carolina,Buncombe,1,0,1,Buncombe
+12/11/2015,Texas,Harris,0,1,1,Harris
+12/11/2015,Louisiana,Terrebonne,1,0,1,Terrebonne
+12/11/2015,Tennessee,Franklin,0,1,1,Franklin
+12/11/2015,Missouri,Washington,0,0,0,Washington
+12/11/2015,Arizona,Pima,1,0,1,Pima
+12/12/2015,Kansas,Pottawatomie,0,0,0,Pottawatomie
+12/12/2015,California,Yolo,1,0,1,Yolo
+12/12/2015,Iowa,Guthrie,0,1,1,Guthrie
+12/12/2015,Missouri,Callaway,0,1,1,Callaway
+12/12/2015,South Carolina,Richland,0,2,2,Richland
+12/12/2015,Georgia,Coweta,0,0,0,Coweta
+12/12/2015,Wyoming,Natrona,0,0,0,Natrona
+12/13/2015,Tennessee,Gibson,2,0,2,Gibson
+12/13/2015,Florida,Palm Beach,0,1,1,Palm Beach
+12/13/2015,Indiana,Johnson,0,0,0,Johnson
+12/13/2015,Indiana,Dubois,0,2,2,Dubois
+12/13/2015,South Carolina,Richland,0,1,1,Richland
+12/13/2015,Iowa,Palo Alto,0,1,1,Palo Alto
+12/13/2015,Iowa,Delaware,0,1,1,Delaware
+12/13/2015,Kansas,Finney,0,1,1,Finney
+12/14/2015,Pennsylvania,Lancaster,0,0,0,Lancaster
+12/14/2015,Florida,Orange,0,1,1,Orange
+12/14/2015,Texas,Harris,0,0,0,Harris
+12/14/2015,Texas,Smith,1,0,1,Smith
+12/14/2015,Missouri,Franklin,0,0,0,Franklin
+12/14/2015,Virginia,Henrico,0,1,1,Henrico
+12/14/2015,North Carolina,Gaston,0,1,1,Gaston
+12/15/2015,California,Riverside,1,0,1,Riverside
+12/15/2015,Ohio,Pickaway,0,1,1,Pickaway
+12/15/2015,Georgia,Dekalb,0,0,0,Dekalb
+12/15/2015,Virginia,Henrico,0,1,1,Henrico
+12/15/2015,Georgia,Gwinnett,0,0,0,Gwinnett
+12/15/2015,North Carolina,Forsyth,1,0,1,Forsyth
+12/15/2015,North Carolina,Gaston,1,0,1,Gaston
+12/15/2015,Tennessee,Rhea,0,0,0,Rhea
+12/15/2015,Indiana,Vanderburgh,0,0,0,Vanderburgh
+12/16/2015,Florida,Manatee,1,0,1,Manatee
+12/16/2015,Maryland,Washington,0,0,0,Washington
+12/16/2015,Missouri,Buchanan,0,1,1,Buchanan
+12/16/2015,Florida,Hendry,1,0,1,Hendry
+12/16/2015,Georgia,Jackson,0,0,0,Jackson
+12/16/2015,New Mexico,Taos,0,0,0,Taos
+12/16/2015,Oklahoma,Canadian,1,0,1,Canadian
+12/17/2015,North Carolina,New Hanover,0,0,0,New Hanover
+12/17/2015,Florida,Orange,1,0,1,Orange
+12/17/2015,North Carolina,Gaston,0,0,0,Gaston
+12/17/2015,Washington,Spokane,0,0,0,Spokane
+12/18/2015,Mississippi,Lauderdale,0,0,0,Lauderdale
+12/18/2015,Mississippi,Lauderdale,0,0,0,Lauderdale
+12/18/2015,Maryland,Prince Georges,0,3,3,Prince Georges
+12/18/2015,New Jersey,Middlesex,0,0,0,Middlesex
+12/18/2015,Georgia,Catoosa,0,0,0,Catoosa
+12/18/2015,Georgia,Jackson,0,0,0,Jackson
+12/18/2015,Florida,Orange,0,2,2,Orange
+12/19/2015,North Carolina,Henderson,1,0,1,Henderson
+12/19/2015,Florida,Miami-dade,0,3,3,Miami-dade
+12/19/2015,South Carolina,Lexington,1,0,1,Lexington
+12/20/2015,Oklahoma,Wagoner,1,0,1,Wagoner
+12/20/2015,Washington,Spokane,0,0,0,Spokane
+12/20/2015,Colorado,Larimer,0,1,1,Larimer
+12/20/2015,California,Sonoma,0,0,0,Sonoma
+12/20/2015,Missouri,Greene,0,0,0,Greene
+12/20/2015,Florida,Miami-dade,0,4,4,Miami-dade
+12/20/2015,Florida,Manatee,0,0,0,Manatee
+12/20/2015,Colorado,Fremont,0,0,0,Fremont
+12/21/2015,Kansas,Riley,0,0,0,Riley
+12/22/2015,Washington,Spokane,0,0,0,Spokane
+12/22/2015,Virginia,Henrico,0,0,0,Henrico
+12/22/2015,California,Mariposa,0,0,0,Mariposa
+12/22/2015,North Carolina,Mcdowell,0,0,0,Mcdowell
+12/22/2015,Missouri,Saint Louis,0,1,1,Saint Louis
+12/22/2015,California,Los Angeles,1,0,1,Los Angeles
+12/23/2015,Arkansas,Greene,1,0,1,Greene
+12/23/2015,Michigan,Ionia,0,0,0,Ionia
+12/23/2015,Mississippi,Calhoun,1,1,2,Calhoun
+12/23/2015,Texas,Live Oak,2,0,2,Live Oak
+12/24/2015,New Jersey,Passaic,0,1,1,Passaic
+12/24/2015,South Carolina,Colleton,0,1,1,Colleton
+12/24/2015,South Carolina,Colleton,0,1,1,Colleton
+12/24/2015,Georgia,Effingham,0,0,0,Effingham
+12/24/2015,Virginia,King George,0,0,0,King George
+12/24/2015,South Carolina,Colleton,0,1,1,Colleton
+12/25/2015,Mississippi,Lowndes,0,2,2,Lowndes
+12/25/2015,Utah,Cache,0,0,0,Cache
+12/25/2015,Georgia,Rockdale,0,1,1,Rockdale
+12/26/2015,Colorado,Larimer,0,0,0,Larimer
+12/26/2015,Mississippi,George,1,0,1,George
+12/26/2015,Alabama,Madison,0,1,1,Madison
+12/26/2015,Michigan,Kent,1,1,2,Kent
+12/26/2015,Arkansas,Clark,1,0,1,Clark
+12/26/2015,Florida,Miami-dade,0,1,1,Miami-dade
+12/26/2015,Virginia,Hopewell,1,1,2,Hopewell
+12/27/2015,Florida,Lee,0,0,0,Lee
+12/27/2015,Ohio,Summit,1,0,1,Summit
+12/27/2015,Virginia,Isle Of Wight,0,0,0,Isle Of Wight
+12/27/2015,Ohio,Logan,1,0,1,Logan
+12/27/2015,Mississippi,Jackson,0,0,0,Jackson
+12/27/2015,Tennessee,Tipton,0,0,0,Tipton
+12/27/2015,North Carolina,Stanly,1,0,1,Stanly
+12/27/2015,Mississippi,Holmes,1,0,1,Holmes
+12/27/2015,Mississippi,Holmes,1,0,1,Holmes
+12/28/2015,Virginia,Dinwiddie,0,1,1,Dinwiddie
+12/28/2015,North Carolina,Watauga,0,0,0,Watauga
+12/28/2015,Alabama,Houston,1,0,1,Houston
+12/28/2015,Texas,Harris,0,1,1,Harris
+12/29/2015,West Virginia,Lincoln,0,1,1,Lincoln
+12/29/2015,Florida,Miami-dade,0,1,1,Miami-dade
+12/29/2015,Texas,Montgomery,0,0,0,Montgomery
+12/29/2015,Texas,Montgomery,0,0,0,Montgomery
+12/30/2015,North Carolina,Gaston,1,0,1,Gaston
+12/30/2015,Alabama,DeKalb,0,0,0,DeKalb
+12/31/2015,Tennessee,Washington,0,0,0,Washington
+12/31/2015,South Carolina,Horry,0,1,1,Horry
+12/31/2015,Wyoming,Laramie,0,0,0,Laramie
+12/31/2015,Florida,Broward,1,0,1,Broward
+12/31/2015,Maryland,Caroline,0,0,0,Caroline
+12/31/2015,Ohio,Ottawa,1,0,1,Ottawa
+12/31/2015,Texas,Montgomery,0,0,0,Montgomery
+12/31/2015,North Carolina,Gaston,0,1,1,Gaston
+12/31/2015,Florida,Charlotte,0,0,0,Charlotte
+12/31/2015,North Carolina,Pasquotank,1,0,1,Pasquotank
+1/1/2016,Pennsylvania,Lancaster,0,0,0,Lancaster
+1/1/2016,North Carolina,Gaston,0,0,0,Gaston
+1/1/2016,Texas,Montgomery,0,0,0,Montgomery
+1/1/2016,West Virginia,Doddridge,0,0,0,Doddridge
+1/1/2016,Colorado,El Paso,0,1,1,El Paso
+1/1/2016,Minnesota,Ramsey,0,1,1,Ramsey
+1/1/2016,Michigan,Midland,0,1,1,Midland
+1/2/2016,Florida,Brevard,1,0,1,Brevard
+1/2/2016,Mississippi,Hancock,0,0,0,Hancock
+1/2/2016,Virginia,Chesterfield,0,1,1,Chesterfield
+1/2/2016,Georgia,Jackson,0,0,0,Jackson
+1/2/2016,Georgia,Taliaferro,0,0,0,Taliaferro
+1/2/2016,Oregon,Umatilla,0,0,0,Umatilla
+1/2/2016,California,Sacramento,0,1,1,Sacramento
+1/3/2016,Illinois,Saline,0,1,1,Saline
+1/3/2016,California,Orange,0,1,1,Orange
+1/3/2016,Alabama,Jefferson,0,1,1,Jefferson
+1/3/2016,Texas,Kaufman,0,1,1,Kaufman
+1/3/2016,Delaware,New Castle,0,1,1,New Castle
+1/3/2016,Indiana,Porter,0,0,0,Porter
+1/3/2016,Virginia,Chesterfield,0,1,1,Chesterfield
+1/3/2016,Georgia,Effingham,0,0,0,Effingham
+1/4/2016,Texas,Taylor,0,0,0,Taylor
+1/4/2016,Virginia,Henrico,0,0,0,Henrico
+1/4/2016,South Carolina,Berkeley,0,0,0,Berkeley
+1/4/2016,Iowa,Delaware,1,0,1,Delaware
+1/4/2016,South Carolina,Orangeburg,0,1,1,Orangeburg
+1/4/2016,Florida,Orange,0,3,3,Orange
+1/4/2016,Mississippi,George,0,0,0,George
+1/5/2016,Texas,Harris,0,0,0,Harris
+1/5/2016,Missouri,Laclede,0,0,0,Laclede
+1/5/2016,Alabama,Colbert,0,0,0,Colbert
+1/6/2016,Alabama,DeKalb,0,1,1,DeKalb
+1/6/2016,Arkansas,Pope,0,0,0,Pope
+1/6/2016,Missouri,Vernon,0,0,0,Vernon
+1/7/2016,Oklahoma,Payne,0,1,1,Payne
+1/7/2016,Texas,Harris,0,1,1,Harris
+1/7/2016,Mississippi,Marion,1,0,1,Marion
+1/7/2016,Texas,Smith,0,1,1,Smith
+1/8/2016,South Carolina,Union,0,0,0,Union
+1/8/2016,California,Humboldt,0,0,0,Humboldt
+1/8/2016,Tennessee,Blount,0,0,0,Blount
+1/8/2016,Indiana,Cass,0,1,1,Cass
+1/8/2016,Kansas,Saline,0,0,0,Saline
+1/8/2016,Idaho,Jefferson,0,0,0,Jefferson
+1/8/2016,West Virginia,Wyoming,1,0,1,Wyoming
+1/8/2016,Virginia,Henrico,0,1,1,Henrico
+1/9/2016,Maryland,Baltimore,0,1,1,Baltimore
+1/9/2016,Oklahoma,Logan,0,0,0,Logan
+1/9/2016,Georgia,Forsyth,0,1,1,Forsyth
+1/9/2016,Nevada,Nye,0,1,1,Nye
+1/10/2016,Alabama,Jefferson,0,0,0,Jefferson
+1/10/2016,Arkansas,LeFlore,1,0,1,LeFlore
+1/10/2016,North Carolina,Bladen,0,2,2,Bladen
+1/10/2016,Kentucky,Logan,0,0,0,Logan
+1/10/2016,Kentucky,Todd,0,0,0,Todd
+1/10/2016,Washington,Cowlitz,1,0,1,Cowlitz
+1/11/2016,Texas,Crosby,0,0,0,Crosby
+1/11/2016,Florida,Marion,0,1,1,Marion
+1/11/2016,Kansas,Geary,0,1,1,Geary
+1/11/2016,Texas,Montgomery,0,0,0,Montgomery
+1/12/2016,Virginia,Louisa,1,0,1,Louisa
+1/12/2016,Texas,Brewster,0,1,1,Brewster
+1/12/2016,Texas,Montgomery,0,0,0,Montgomery
+1/12/2016,Missouri,Marion,0,1,1,Marion
+1/12/2016,Arkansas,Dallas,1,0,1,Dallas
+1/13/2016,Texas,Harris,1,0,1,Harris
+1/13/2016,Texas,Houston,0,1,1,Houston
+1/13/2016,South Carolina,Richland,0,1,1,Richland
+1/13/2016,Missouri,Boone,0,0,0,Boone
+1/13/2016,North Carolina,Surry,1,0,1,Surry
+1/13/2016,Virginia,Henrico,1,0,1,Henrico
+1/14/2016,Florida,Miami-dade,0,0,0,Miami-dade
+1/14/2016,Oklahoma,Wagoner,0,0,0,Wagoner
+1/14/2016,Texas,Harris,1,0,1,Harris
+1/14/2016,Alabama,Limestone,0,0,0,Limestone
+1/14/2016,Maryland,Anne Arundel,0,0,0,Anne Arundel
+1/14/2016,Maryland,Anne Arundel,0,0,0,Anne Arundel
+1/14/2016,Ohio,Ross,0,0,0,Ross
+1/14/2016,Montana,Lewis And Clark,0,0,0,Lewis And Clark
+1/15/2016,Alabama,DeKalb,0,0,0,DeKalb
+1/15/2016,Mississippi,Clarke,0,0,0,Clarke
+1/15/2016,Maryland,Howard,0,1,1,Howard
+1/15/2016,Florida,Miami-dade,0,0,0,Miami-dade
+1/15/2016,North Carolina,Pender,0,2,2,Pender
+1/15/2016,Maryland,Prince Georges,0,0,0,Prince Georges
+1/16/2016,Georgia,Richmond,1,0,1,Richmond
+1/16/2016,Florida,Orange,0,1,1,Orange
+1/16/2016,Florida,Orange,0,0,0,Orange
+1/16/2016,Indiana,Vigo,0,1,1,Vigo
+1/16/2016,Montana,Madison,0,0,0,Madison
+1/16/2016,North Dakota,Mckenzie,0,1,1,Mckenzie
+1/16/2016,West Virginia,Ritchie,1,0,1,Ritchie
+1/16/2016,North Carolina,Halifax,0,1,1,Halifax
+1/17/2016,Florida,Manatee,0,1,1,Manatee
+1/17/2016,South Carolina,Richland,0,2,2,Richland
+1/17/2016,Arkansas,Clark,0,1,1,Clark
+1/17/2016,Mississippi,Jackson,0,0,0,Jackson
+1/18/2016,Florida,Miami-dade,0,0,0,Miami-dade
+1/18/2016,Pennsylvania,Pocono,0,0,0,Pocono
+1/18/2016,Georgia,Chattooga,1,0,1,Chattooga
+1/18/2016,Virginia,Henrico,0,1,1,Henrico
+1/18/2016,North Carolina,Robeson,0,2,2,Robeson
+1/18/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+1/18/2016,South Carolina,Williamsburg,0,0,0,Williamsburg
+1/18/2016,Alabama,Limestone,0,0,0,Limestone
+1/19/2016,Texas,Liberty,1,0,1,Liberty
+1/19/2016,Virginia,Bedford,0,0,0,Bedford
+1/19/2016,North Carolina,Columbus,0,1,1,Columbus
+1/20/2016,Florida,Marion,0,0,0,Marion
+1/20/2016,Texas,Harris,0,0,0,Harris
+1/20/2016,California,Kern,0,0,0,Kern
+1/21/2016,Texas,Harris,0,1,1,Harris
+1/21/2016,South Carolina,Horry,0,0,0,Horry
+1/21/2016,South Carolina,Berkeley,0,1,1,Berkeley
+1/21/2016,Florida,Palm Beach,0,1,1,Palm Beach
+1/21/2016,New Mexico,Mckinley,0,0,0,Mckinley
+1/22/2016,Maryland,Prince Georges,1,0,1,Prince Georges
+1/22/2016,Colorado,Jefferson,0,0,0,Jefferson
+1/22/2016,North Carolina,Catawba,1,0,1,Catawba
+1/22/2016,Pennsylvania,Butler,1,0,1,Butler
+1/22/2016,Michigan,Van Buren,0,0,0,Van Buren
+1/22/2016,Ohio,Stark,0,0,0,Stark
+1/23/2016,South Carolina,Richland,0,0,0,Richland
+1/23/2016,Florida,Palm Beach,1,0,1,Palm Beach
+1/23/2016,North Carolina,Rowan,0,0,0,Rowan
+1/23/2016,Florida,Palm Beach,0,1,1,Palm Beach
+1/24/2016,Texas,Brown,0,1,1,Brown
+1/24/2016,South Carolina,Horry,0,2,2,Horry
+1/24/2016,Texas,Harris,0,1,1,Harris
+1/24/2016,South Carolina,Richland,0,0,0,Richland
+1/24/2016,Virginia,Halifax,0,1,1,Halifax
+1/24/2016,West Virginia,Kanawha,0,0,0,Kanawha
+1/25/2016,Alabama,Madison,0,1,1,Madison
+1/25/2016,Alabama,Pike,1,0,1,Pike
+1/25/2016,Arkansas,Pope,0,0,0,Pope
+1/26/2016,Florida,Orange,0,1,1,Orange
+1/26/2016,Alabama,Madison,1,0,1,Madison
+1/26/2016,Oklahoma,Jackson,0,1,1,Jackson
+1/26/2016,North Carolina,Robeson,1,1,2,Robeson
+1/26/2016,Pennsylvania,Fayette,0,0,0,Fayette
+1/27/2016,Alabama,Tallapoosa,0,0,0,Tallapoosa
+1/27/2016,Delaware,New Castle,0,1,1,New Castle
+1/27/2016,Texas,Johnson,1,0,1,Johnson
+1/27/2016,Arkansas,Lonoke,0,0,0,Lonoke
+1/27/2016,Pennsylvania,Lycoming,0,2,2,Lycoming
+1/27/2016,Kentucky,Graves,0,0,0,Graves
+1/27/2016,Texas,Harris,0,0,0,Harris
+1/27/2016,Texas,Johnson,1,0,1,Johnson
+1/27/2016,Texas,Bexar,1,0,1,Bexar
+1/27/2016,California,Kern,0,0,0,Kern
+1/27/2016,North Carolina,Cleveland,1,1,2,Cleveland
+1/28/2016,Indiana,Vigo,0,0,0,Vigo
+1/28/2016,Alabama,Washington,1,0,1,Washington
+1/28/2016,Pennsylvania,Chester,0,1,1,Chester
+1/29/2016,Alabama,Cherokee,1,0,1,Cherokee
+1/29/2016,Texas,Harris,0,0,0,Harris
+1/29/2016,South Carolina,Richland,1,0,1,Richland
+1/29/2016,New York,Ullster,0,0,0,Ullster
+1/29/2016,Texas,Harris,0,0,0,Harris
+1/29/2016,Tennessee,Hamblen,0,2,2,Hamblen
+1/29/2016,Virginia,Nelson,0,1,1,Nelson
+1/29/2016,Florida,Miami-dade,1,0,1,Miami-dade
+1/29/2016,Alabama,Geneva,0,0,0,Geneva
+1/29/2016,California,Los Angeles,0,3,3,Los Angeles
+1/29/2016,Georgia,Cherokee,1,0,1,Cherokee
+1/30/2016,Mississippi,Jones,1,0,1,Jones
+1/30/2016,Washington,Spokane,0,0,0,Spokane
+1/30/2016,Florida,Marion,0,1,1,Marion
+1/30/2016,Texas,Fort Bend,1,1,2,Fort Bend
+1/30/2016,Georgia,Colquitt,0,0,0,Colquitt
+1/31/2016,Ohio,Morrow,0,0,0,Morrow
+1/31/2016,Texas,El Paso,1,0,1,El Paso
+1/31/2016,New Mexico,Sandoval,0,0,0,Sandoval
+2/1/2016,Tennessee,Washington,0,0,0,Washington
+2/1/2016,Washington,Spokane,0,0,0,Spokane
+2/1/2016,Texas,Kimble,0,1,1,Kimble
+2/2/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+2/2/2016,California,Humboldt,0,0,0,Humboldt
+2/2/2016,Texas,Harris,0,0,0,Harris
+2/2/2016,North Carolina,Hoke,0,1,1,Hoke
+2/2/2016,Texas,Harris,2,0,2,Harris
+2/3/2016,Texas,Lubbock,0,1,1,Lubbock
+2/3/2016,Oklahoma,Okmulgee,1,0,1,Okmulgee
+2/3/2016,North Carolina,Union,0,0,0,Union
+2/3/2016,North Carolina,Jackson,1,0,1,Jackson
+2/3/2016,Alabama,Coosa,0,2,2,Coosa
+2/4/2016,Missouri,Boone,0,0,0,Boone
+2/4/2016,Indiana,Lake,0,0,0,Lake
+2/4/2016,Missouri,Monroe,0,0,0,Monroe
+2/4/2016,California,Los Angeles,0,1,1,Los Angeles
+2/4/2016,Indiana,Boone,1,0,1,Boone
+2/4/2016,Georgia,Bibb,0,0,0,Bibb
+2/5/2016,Ohio,Clark,0,0,0,Clark
+2/5/2016,Mississippi,Perry,0,1,1,Perry
+2/5/2016,North Carolina,Stanly,1,0,1,Stanly
+2/5/2016,Ohio,Coshocton,0,0,0,Coshocton
+2/5/2016,Alabama,Marion,0,0,0,Marion
+2/6/2016,Kentucky,Hardin,0,0,0,Hardin
+2/6/2016,Michigan,Genesee,0,0,0,Genesee
+2/6/2016,Georgia,Towns,0,0,0,Towns
+2/7/2016,Alabama,Lowndes,1,0,1,Lowndes
+2/7/2016,Virginia,Louisa,2,0,2,Louisa
+2/7/2016,North Carolina,Rowan,0,1,1,Rowan
+2/8/2016,South Carolina,Horry,0,0,0,Horry
+2/8/2016,Georgia,Walton,0,1,1,Walton
+2/8/2016,South Carolina,Oconee,1,0,1,Oconee
+2/8/2016,Texas,Liberty,0,0,0,Liberty
+2/8/2016,Florida,Citrus,2,0,2,Citrus
+2/9/2016,California,Kern,0,0,0,Kern
+2/9/2016,California,Tehama,0,0,0,Tehama
+2/9/2016,Florida,Miami-dade,0,2,2,Miami-dade
+2/9/2016,South Carolina,Richland,0,0,0,Richland
+2/9/2016,Ohio,Paulding,2,0,2,Paulding
+2/10/2016,Texas,Smith,1,0,1,Smith
+2/10/2016,Missouri,Greene,0,0,0,Greene
+2/10/2016,Oklahoma,Garfield,0,0,0,Garfield
+2/10/2016,North Carolina,Pitt,1,0,1,Pitt
+2/10/2016,Georgia,Clayton,0,0,0,Clayton
+2/10/2016,Virginia,Stafford,0,1,1,Stafford
+2/11/2016,Georgia,Monroe,0,0,0,Monroe
+2/11/2016,South Carolina,Colleton,0,2,2,Colleton
+2/11/2016,New Jersey,Gloucester,0,0,0,Gloucester
+2/12/2016,North Carolina,Mcdowell,0,0,0,Mcdowell
+2/12/2016,Texas,Gregg,0,0,0,Gregg
+2/12/2016,Tennessee,Washington,0,0,0,Washington
+2/12/2016,North Carolina,Henderson,0,0,0,Henderson
+2/12/2016,Arkansas,Faulkner,0,1,1,Faulkner
+2/13/2016,California,Humboldt,0,0,0,Humboldt
+2/13/2016,Oklahoma,Cleveland,1,0,1,Cleveland
+2/14/2016,Georgia,Lowndes,0,1,1,Lowndes
+2/14/2016,Texas,Hays,0,0,0,Hays
+2/14/2016,Alabama,Lowndes,0,0,0,Lowndes
+2/15/2016,South Carolina,Horry,0,1,1,Horry
+2/15/2016,Florida,Orange,0,1,1,Orange
+2/15/2016,Washington,Spokane,0,0,0,Spokane
+2/16/2016,Alabama,Walker,1,0,1,Walker
+2/16/2016,North Carolina,Lincoln,0,1,1,Lincoln
+2/16/2016,North Carolina,Pitt,0,1,1,Pitt
+2/16/2016,Georgia,Colquitt,0,0,0,Colquitt
+2/16/2016,Arkansas,Perry,0,0,0,Perry
+2/16/2016,Alabama,Jefferson,0,0,0,Jefferson
+2/17/2016,South Carolina,Richland,0,0,0,Richland
+2/17/2016,Florida,Miami-dade,0,2,2,Miami-dade
+2/18/2016,Missouri,Callaway,0,0,0,Callaway
+2/18/2016,Tennessee,Cocke,1,0,1,Cocke
+2/19/2016,Washington,Yakima,0,0,0,Yakima
+2/19/2016,Texas,Van Zandt,1,0,1,Van Zandt
+2/19/2016,New Mexico,Santa Fe,0,0,0,Santa Fe
+2/19/2016,Kentucky,Barren,1,0,1,Barren
+2/19/2016,Georgia,Coweta,0,0,0,Coweta
+2/19/2016,Alabama,Etowah,0,0,0,Etowah
+2/19/2016,Arkansas,Carroll,1,0,1,Carroll
+2/20/2016,Utah,Box Elder,1,0,1,Box Elder
+2/20/2016,Mississippi,Lowndes,1,0,1,Lowndes
+2/20/2016,South Carolina,Williamsburg,0,0,0,Williamsburg
+2/21/2016,Alabama,Tuscaloosa,0,0,0,Tuscaloosa
+2/21/2016,North Carolina,Gaston,0,0,0,Gaston
+2/21/2016,Ohio,Franklin,0,0,0,Franklin
+2/21/2016,Nevada,Nye,0,0,0,Nye
+2/22/2016,Texas,Gaines,0,1,1,Gaines
+2/22/2016,California,Sacramento,1,0,1,Sacramento
+2/22/2016,South Carolina,Berkeley,0,1,1,Berkeley
+2/22/2016,South Carolina,Horry,0,1,1,Horry
+2/22/2016,Florida,Indian River,0,0,0,Indian River
+2/23/2016,Arkansas,Little River,2,0,2,Little River
+2/23/2016,Tennessee,Knox,1,0,1,Knox
+2/23/2016,West Virginia,Preston,0,0,0,Preston
+2/24/2016,Indiana,Jackson,0,0,0,Jackson
+2/24/2016,South Carolina,Richland,0,0,0,Richland
+2/24/2016,South Carolina,Charleston,0,1,1,Charleston
+2/24/2016,New Mexico,Bernalillo,0,0,0,Bernalillo
+2/24/2016,Tennessee,Hawkins,0,1,1,Hawkins
+2/24/2016,North Carolina,Columbus,0,1,1,Columbus
+2/25/2016,Alabama,Jefferson,0,1,1,Jefferson
+2/25/2016,Florida,Sarasota,0,1,1,Sarasota
+2/25/2016,Mississippi,Madison,0,0,0,Madison
+2/25/2016,Alabama,Walker,1,0,1,Walker
+2/25/2016,Texas,Brewster,0,0,0,Brewster
+2/25/2016,Texas,Harris,0,1,1,Harris
+2/25/2016,Ohio,Hancock,0,0,0,Hancock
+2/25/2016,South Carolina,Darlington,0,0,0,Darlington
+2/25/2016,North Carolina,Brunswick,0,0,0,Brunswick
+2/26/2016,Mississippi,Forrest,0,1,1,Forrest
+2/26/2016,Virginia,King George,0,0,0,King George
+2/26/2016,Delaware,New Castle,0,0,0,New Castle
+2/26/2016,Colorado,Mesa,0,0,0,Mesa
+2/27/2016,Indiana,Shelby,1,0,1,Shelby
+2/27/2016,South Carolina,Richland,0,1,1,Richland
+2/27/2016,Texas,Wilson,0,0,0,Wilson
+2/27/2016,Texas,Wilson,1,0,1,Wilson
+2/27/2016,Ohio,Sandusky,0,1,1,Sandusky
+2/28/2016,Georgia,Barrow,1,0,1,Barrow
+2/28/2016,Texas,Wilson,0,1,1,Wilson
+2/28/2016,Maryland,Charles,1,0,1,Charles
+2/29/2016,Maryland,Prince Georges,0,1,1,Prince Georges
+2/29/2016,Virginia,Prince William,0,0,0,Prince William
+2/29/2016,Texas,Bexar,0,0,0,Bexar
+2/29/2016,South Carolina,Richland,1,0,1,Richland
+3/1/2016,North Dakota,Rolette,0,0,0,Rolette
+3/1/2016,Alabama,Tuscaloosa,0,1,1,Tuscaloosa
+3/1/2016,Texas,Harris,0,0,0,Harris
+3/1/2016,Louisiana,Bossier Parish,0,0,0,Bossier Parish
+3/1/2016,Louisiana,Bossier Parish,0,0,0,Bossier Parish
+3/1/2016,Indiana,Hancock,1,0,1,Hancock
+3/2/2016,Texas,Harris,0,1,1,Harris
+3/2/2016,Wyoming,Natrona,0,0,0,Natrona
+3/2/2016,West Virginia,Kanawha,0,0,0,Kanawha
+3/2/2016,South Carolina,Florence,0,0,0,Florence
+3/3/2016,Georgia,Richmond,0,1,1,Richmond
+3/3/2016,Oklahoma,Comanche,0,1,1,Comanche
+3/3/2016,Montana,Gallatin,0,0,0,Gallatin
+3/3/2016,California,Kern,0,1,1,Kern
+3/3/2016,Alabama,Jackson,0,1,1,Jackson
+3/4/2016,South Dakota,Miner,0,1,1,Miner
+3/4/2016,Georgia,Fulton,0,1,1,Fulton
+3/4/2016,Georgia,Floyd,0,0,0,Floyd
+3/4/2016,Tennessee,Hawkins,0,0,0,Hawkins
+3/4/2016,South Carolina,Orangeburg,1,0,1,Orangeburg
+3/4/2016,Arizona,Graham,0,1,1,Graham
+3/4/2016,West Virginia,Wyoming,0,1,1,Wyoming
+3/4/2016,Washington,Spokane,0,0,0,Spokane
+3/5/2016,Arkansas,Miller,1,0,1,Miller
+3/5/2016,Arkansas,Garland,1,0,1,Garland
+3/5/2016,Oklahoma,Wagoner,0,2,2,Wagoner
+3/5/2016,Illinois,Madison,0,0,0,Madison
+3/6/2016,Pennsylvania,Northumberland,0,0,0,Northumberland
+3/6/2016,Texas,Fort Bend,1,0,1,Fort Bend
+3/6/2016,South Carolina,Greenville,1,0,1,Greenville
+3/6/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+3/6/2016,Iowa,Polk,0,0,0,Polk
+3/6/2016,Virginia,Henrico,0,0,0,Henrico
+3/6/2016,California,Riverside,1,0,1,Riverside
+3/6/2016,Texas,Harris,0,1,1,Harris
+3/6/2016,Oklahoma,Pittsburg,0,0,0,Pittsburg
+3/7/2016,Texas,Bandera,0,1,1,Bandera
+3/7/2016,Virginia,Prince William,0,0,0,Prince William
+3/7/2016,South Carolina,Calhoun,0,0,0,Calhoun
+3/7/2016,North Carolina,Davidson,0,0,0,Davidson
+3/7/2016,Texas,Harris,0,1,1,Harris
+3/7/2016,Alabama,Jefferson,0,0,0,Jefferson
+3/7/2016,New Mexico,Santa Fe,0,0,0,Santa Fe
+3/7/2016,Michigan,Mecosta,0,0,0,Mecosta
+3/7/2016,Texas,Harris,1,0,1,Harris
+3/7/2016,Washington,Skagit,0,1,1,Skagit
+3/8/2016,Kentucky,Lyon,0,1,1,Lyon
+3/8/2016,Florida,Palm Beach,0,1,1,Palm Beach
+3/8/2016,South Carolina,Richland,0,0,0,Richland
+3/8/2016,North Carolina,Columbus,0,1,1,Columbus
+3/8/2016,Michigan,Muskegon,0,0,0,Muskegon
+3/8/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+3/8/2016,Virginia,Spotsylvania,1,0,1,Spotsylvania
+3/8/2016,Missouri,Boone,0,0,0,Boone
+3/8/2016,Tennessee,Shelby,0,0,0,Shelby
+3/9/2016,West Virginia,Mingo,0,0,0,Mingo
+3/9/2016,Ohio,Preble,0,0,0,Preble
+3/9/2016,Texas,Montgomery,0,0,0,Montgomery
+3/9/2016,Texas,Montgomery,0,0,0,Montgomery
+3/9/2016,Indiana,White,0,0,0,White
+3/9/2016,Illinois,Saint Clair,0,1,1,Saint Clair
+3/9/2016,South Carolina,Greenville,0,1,1,Greenville
+3/9/2016,Indiana,Steuben,1,0,1,Steuben
+3/9/2016,Michigan,Bay,0,0,0,Bay
+3/10/2016,South Carolina,Orangeburg,0,0,0,Orangeburg
+3/10/2016,California,Riverside,0,1,1,Riverside
+3/10/2016,Virginia,Henrico,1,0,1,Henrico
+3/10/2016,Alabama,Cullman,0,0,0,Cullman
+3/10/2016,Texas,Bexar,0,1,1,Bexar
+3/11/2016,Maryland,Montgomery,1,0,1,Montgomery
+3/11/2016,Iowa,Clay,0,1,1,Clay
+3/11/2016,Texas,Montgomery,0,0,0,Montgomery
+3/12/2016,Arkansas,White,0,0,0,White
+3/13/2016,Iowa,Wapello,1,0,1,Wapello
+3/13/2016,Michigan,Muskegon,0,0,0,Muskegon
+3/13/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+3/13/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+3/13/2016,Georgia,Dekalb,0,2,2,Dekalb
+3/13/2016,Texas,Harris,0,1,1,Harris
+3/13/2016,Texas,Walker,1,0,1,Walker
+3/13/2016,Texas,Madison,1,0,1,Madison
+3/13/2016,Kentucky,Laurel,0,0,0,Laurel
+3/14/2016,Tennessee,Hardeman,0,1,1,Hardeman
+3/14/2016,Colorado,Huerfano,1,1,2,Huerfano
+3/14/2016,Texas,Tyler,1,1,2,Tyler
+3/14/2016,Indiana,Perry,1,0,1,Perry
+3/14/2016,Illinois,Saint Clair,0,1,1,Saint Clair
+3/14/2016,Virginia,Chesterfield,0,1,1,Chesterfield
+3/14/2016,North Carolina,Catawba,2,0,2,Catawba
+3/14/2016,Alabama,Macon,1,0,1,Macon
+3/14/2016,Georgia,Dekalb,1,1,2,Dekalb
+3/14/2016,Virginia,Henrico,0,0,0,Henrico
+3/15/2016,Delaware,Kent,0,0,0,Kent
+3/15/2016,Ohio,Paulding,1,0,1,Paulding
+3/15/2016,Tennessee,Greene,0,0,0,Greene
+3/15/2016,West Virginia,Kanawha,0,1,1,Kanawha
+3/16/2016,Tennessee,Lawrence,0,0,0,Lawrence
+3/16/2016,Kentucky,Hopkins,0,0,0,Hopkins
+3/16/2016,Missouri,Bollinger,0,0,0,Bollinger
+3/16/2016,New Mexico,Eddy,0,0,0,Eddy
+3/16/2016,North Carolina,Lincoln,0,0,0,Lincoln
+3/16/2016,Alabama,Pike,0,1,1,Pike
+3/17/2016,Arkansas,Baxter,0,0,0,Baxter
+3/17/2016,North Carolina,Henderson,0,1,1,Henderson
+3/17/2016,Kentucky,Pulaski,0,0,0,Pulaski
+3/18/2016,Minnesota,Mille Lacs,0,0,0,Mille Lacs
+3/18/2016,Mississippi,Claiborne,1,0,1,Claiborne
+3/18/2016,South Carolina,Calhoun,0,0,0,Calhoun
+3/18/2016,Florida,Madison,1,0,1,Madison
+3/19/2016,Pennsylvania,Warren,1,0,1,Warren
+3/19/2016,Pennsylvania,Fayette,0,1,1,Fayette
+3/19/2016,South Carolina,Charleston,0,1,1,Charleston
+3/19/2016,Washington,Spokane,0,0,0,Spokane
+3/20/2016,North Carolina,Pitt,0,0,0,Pitt
+3/20/2016,South Carolina,Richland,0,0,0,Richland
+3/20/2016,South Carolina,Berkeley,0,1,1,Berkeley
+3/20/2016,Michigan,Wayne,0,1,1,Wayne
+3/20/2016,Missouri,Lincoln,0,1,1,Lincoln
+3/20/2016,West Virginia,Taylor,0,0,0,Taylor
+3/20/2016,Washington,Skagit,0,1,1,Skagit
+3/20/2016,Georgia,Gwinnett,0,0,0,Gwinnett
+3/20/2016,Delaware,New Castle,0,0,0,New Castle
+3/21/2016,North Carolina,Gaston,0,0,0,Gaston
+3/21/2016,North Carolina,Edgecombe,2,0,2,Edgecombe
+3/21/2016,North Carolina,Lincoln,0,1,1,Lincoln
+3/21/2016,Ohio,Hocking,0,0,0,Hocking
+3/21/2016,North Carolina,Craven,1,0,1,Craven
+3/21/2016,Texas,Smith,0,0,0,Smith
+3/21/2016,Texas,Webb,0,0,0,Webb
+3/21/2016,Mississippi,Harrison,0,0,0,Harrison
+3/22/2016,Tennessee,Bradley,0,1,1,Bradley
+3/22/2016,Virginia,Henrico,0,1,1,Henrico
+3/22/2016,Oklahoma,Canadian,0,0,0,Canadian
+3/23/2016,Alabama,Tallapoosa,0,0,0,Tallapoosa
+3/23/2016,Texas,Harris,0,0,0,Harris
+3/23/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+3/23/2016,Pennsylvania,Luzerne,2,0,2,Luzerne
+3/23/2016,Virginia,Henrico,0,0,0,Henrico
+3/23/2016,Iowa,Mahaska,0,1,1,Mahaska
+3/24/2016,California,Humboldt,0,0,0,Humboldt
+3/24/2016,South Carolina,Lexington,0,0,0,Lexington
+3/24/2016,Pennsylvania,Fayette,0,0,0,Fayette
+3/24/2016,Ohio,Gallia,0,1,1,Gallia
+3/24/2016,Virginia,Caroline,0,0,0,Caroline
+3/24/2016,Missouri,Callaway,0,1,1,Callaway
+3/24/2016,Idaho,Power,0,1,1,Power
+3/25/2016,Indiana,Putnam,0,1,1,Putnam
+3/25/2016,West Virginia,Boone,0,0,0,Boone
+3/25/2016,Mississippi,Carroll,0,1,1,Carroll
+3/25/2016,Virginia,Washington,1,2,3,Washington
+3/25/2016,Montana,Silver Bow,2,0,2,Silver Bow
+3/26/2016,Oklahoma,Logan,0,1,1,Logan
+3/26/2016,South Carolina,Laurens,1,0,1,Laurens
+3/26/2016,North Carolina,Gaston,0,0,0,Gaston
+3/26/2016,Missouri,Holt,0,0,0,Holt
+3/26/2016,North Carolina,Granville,0,1,1,Granville
+3/26/2016,Virginia,Henrico,0,1,1,Henrico
+3/26/2016,Texas,Harris,0,2,2,Harris
+3/26/2016,Kansas,Cowley,0,1,1,Cowley
+3/26/2016,Pennsylvania,Berks,0,1,1,Berks
+3/27/2016,Georgia,Baldwin,1,1,2,Baldwin
+3/27/2016,Arkansas,Lonoke,1,0,1,Lonoke
+3/27/2016,Virginia,Dinwiddie,0,2,2,Dinwiddie
+3/27/2016,Colorado,Larimer,2,0,2,Larimer
+3/27/2016,Delaware,Kent,0,1,1,Kent
+3/27/2016,Virginia,Henrico,2,0,2,Henrico
+3/27/2016,Mississippi,Covington,2,0,2,Covington
+3/28/2016,Maryland,Cecil,2,0,2,Cecil
+3/28/2016,South Carolina,Richland,0,1,1,Richland
+3/28/2016,Alabama,Tuscaloosa,1,0,1,Tuscaloosa
+3/28/2016,Alabama,Covington,1,0,1,Covington
+3/29/2016,Indiana,Steuben,0,0,0,Steuben
+3/29/2016,Florida,Polk,0,0,0,Polk
+3/29/2016,Indiana,Tippecanoe,0,0,0,Tippecanoe
+3/29/2016,Alabama,Jefferson,1,0,1,Jefferson
+3/29/2016,West Virginia,Barbour,0,0,0,Barbour
+3/30/2016,Texas,Harris,0,1,1,Harris
+3/30/2016,Alabama,Jefferson,1,0,1,Jefferson
+3/30/2016,Illinois,Hancock,0,0,0,Hancock
+3/30/2016,Texas,Harris,0,1,1,Harris
+3/30/2016,Texas,Harris,1,0,1,Harris
+3/30/2016,South Carolina,Lexington,0,1,1,Lexington
+3/31/2016,Mississippi,Pike,0,1,1,Pike
+3/31/2016,North Carolina,Polk,1,0,1,Polk
+3/31/2016,Louisiana,jefferson parish,0,2,2,jefferson parish
+3/31/2016,Mississippi,Alcorn,0,1,1,Alcorn
+4/1/2016,Arkansas,Craighead,0,0,0,Craighead
+4/1/2016,Georgia,Floyd,1,0,1,Floyd
+4/1/2016,Washington,Pierce,0,0,0,Pierce
+4/1/2016,Texas,Harris,0,1,1,Harris
+4/1/2016,North Carolina,Union,1,0,1,Union
+4/2/2016,Kentucky,Todd,0,1,1,Todd
+4/2/2016,Virginia,Prince William,0,0,0,Prince William
+4/3/2016,Oklahoma,Rogers,0,0,0,Rogers
+4/4/2016,South Carolina,Marion,1,1,2,Marion
+4/4/2016,Texas,Travis,0,0,0,Travis
+4/4/2016,Texas,Harris,0,1,1,Harris
+4/5/2016,North Carolina,Madison,1,0,1,Madison
+4/5/2016,South Carolina,Lancaster,1,0,1,Lancaster
+4/5/2016,California,Kings,1,0,1,Kings
+4/5/2016,Michigan,Gladwin,0,0,0,Gladwin
+4/5/2016,Texas,Bexar,0,1,1,Bexar
+4/5/2016,Washington,Clark,0,0,0,Clark
+4/5/2016,Virginia,Bedford,0,0,0,Bedford
+4/6/2016,Missouri,Saint Louis,1,1,2,Saint Louis
+4/6/2016,North Carolina,Caldwell,0,1,1,Caldwell
+4/7/2016,Texas,Montgomery,0,0,0,Montgomery
+4/7/2016,Mississippi,Jones,0,1,1,Jones
+4/7/2016,Virginia,Fairfax,0,0,0,Fairfax
+4/8/2016,North Carolina,Buncombe,0,0,0,Buncombe
+4/8/2016,California,Humboldt,0,1,1,Humboldt
+4/8/2016,Missouri,Texas,1,0,1,Texas
+4/8/2016,Washington,Thurston,0,0,0,Thurston
+4/9/2016,Virginia,Fluvanna,0,1,1,Fluvanna
+4/9/2016,Pennsylvania,Lehigh,0,0,0,Lehigh
+4/9/2016,Michigan,Oakland,0,0,0,Oakland
+4/9/2016,North Carolina,Orange,0,2,2,Orange
+4/9/2016,South Carolina,Horry,0,0,0,Horry
+4/9/2016,Georgia,Cobb,0,1,1,Cobb
+4/10/2016,Arizona,La Paz,3,0,3,La Paz
+4/10/2016,Alabama,Jefferson,0,0,0,Jefferson
+4/10/2016,Mississippi,Pontotoc,0,1,1,Pontotoc
+4/10/2016,Colorado,Weld,0,1,1,Weld
+4/10/2016,Kentucky,Henderson,0,0,0,Henderson
+4/10/2016,South Carolina,Dillon,0,2,2,Dillon
+4/11/2016,North Carolina,Robeson,0,2,2,Robeson
+4/11/2016,South Carolina,Richland,0,1,1,Richland
+4/11/2016,Mississippi,Jefferson Davis,1,1,2,Jefferson Davis
+4/11/2016,North Carolina,Scotland,0,0,0,Scotland
+4/11/2016,Texas,Aransas,0,0,0,Aransas
+4/11/2016,Texas,San Jacinto,0,0,0,San Jacinto
+4/12/2016,Kentucky,Mercer,1,0,1,Mercer
+4/12/2016,South Carolina,Dillon,1,1,2,Dillon
+4/12/2016,South Carolina,Horry,0,1,1,Horry
+4/13/2016,Texas,Webb,0,0,0,Webb
+4/13/2016,Florida,Martin,0,0,0,Martin
+4/13/2016,Alabama,Fayette,0,1,1,Fayette
+4/14/2016,North Carolina,Bertie,1,0,1,Bertie
+4/14/2016,North Carolina,Robeson,1,0,1,Robeson
+4/14/2016,Delaware,Kent,0,0,0,Kent
+4/14/2016,Alabama,Jefferson,0,1,1,Jefferson
+4/14/2016,Kansas,Mcpherson,1,0,1,Mcpherson
+4/14/2016,Arkansas,Benton,0,0,0,Benton
+4/15/2016,West Virginia,Roane,0,0,0,Roane
+4/15/2016,North Carolina,Iredell,0,1,1,Iredell
+4/16/2016,North Carolina,Columbus,0,0,0,Columbus
+4/16/2016,Michigan,Muskegon,0,0,0,Muskegon
+4/16/2016,Alabama,Sumter,1,0,1,Sumter
+4/16/2016,Texas,Montgomery,2,0,2,Montgomery
+4/16/2016,Mississippi,Lincoln,0,0,0,Lincoln
+4/17/2016,Pennsylvania,York,0,1,1,York
+4/17/2016,Kansas,Riley,0,0,0,Riley
+4/17/2016,Tennessee,Sumner,0,1,1,Sumner
+4/17/2016,North Carolina,Pitt,0,0,0,Pitt
+4/17/2016,Wisconsin,Rock,1,0,1,Rock
+4/17/2016,Pennsylvania,Washington,1,0,1,Washington
+4/17/2016,Ohio,Mercer,0,0,0,Mercer
+4/18/2016,Virginia,Henrico,0,0,0,Henrico
+4/18/2016,South Carolina,Georgetown,0,0,0,Georgetown
+4/18/2016,South Carolina,Jasper,1,0,1,Jasper
+4/18/2016,Mississippi,Jones,0,1,1,Jones
+4/18/2016,Mississippi,Jasper,1,0,1,Jasper
+4/19/2016,Wisconsin,Eau Claire,0,0,0,Eau Claire
+4/19/2016,Missouri,Cole,0,0,0,Cole
+4/19/2016,Colorado,Mesa,0,0,0,Mesa
+4/19/2016,North Carolina,Robeson,1,0,1,Robeson
+4/19/2016,North Carolina,Onslow,0,0,0,Onslow
+4/19/2016,Pennsylvania,Berks,0,0,0,Berks
+4/19/2016,Virginia,Henrico,1,0,1,Henrico
+4/20/2016,Georgia,Oconee,0,2,2,Oconee
+4/20/2016,Texas,Harris,1,0,1,Harris
+4/20/2016,West Virginia,Raleigh,0,0,0,Raleigh
+4/21/2016,California,Kern,1,0,1,Kern
+4/21/2016,Ohio,Sandusky,0,0,0,Sandusky
+4/21/2016,Oregon,Harney,0,1,1,Harney
+4/21/2016,South Carolina,Florence,0,0,0,Florence
+4/21/2016,South Carolina,Orangeburg,0,1,1,Orangeburg
+4/22/2016,North Dakota,Stark,0,0,0,Stark
+4/22/2016,Texas,Montgomery,0,0,0,Montgomery
+4/22/2016,Pennsylvania,Westmoreland,2,0,2,Westmoreland
+4/22/2016,Colorado,Mesa,0,0,0,Mesa
+4/22/2016,Tennessee,Madison,0,0,0,Madison
+4/23/2016,Wyoming,Natrona,0,0,0,Natrona
+4/23/2016,Texas,Harris,0,0,0,Harris
+4/23/2016,California,Placer,0,1,1,Placer
+4/23/2016,California,Los Angeles,1,0,1,Los Angeles
+4/23/2016,Mississippi,Holmes,1,0,1,Holmes
+4/23/2016,South Carolina,Richland,0,0,0,Richland
+4/23/2016,Mississippi,Harrison,0,0,0,Harrison
+4/24/2016,South Carolina,Richland,0,1,1,Richland
+4/24/2016,Texas,Brazos,0,0,0,Brazos
+4/25/2016,Kentucky,Henderson,0,0,0,Henderson
+4/25/2016,Florida,Franklin,0,0,0,Franklin
+4/25/2016,Missouri,Randolph,0,1,1,Randolph
+4/26/2016,North Carolina,Brunswick,0,0,0,Brunswick
+4/26/2016,Missouri,Callaway,2,0,2,Callaway
+4/26/2016,North Carolina,Robeson,1,0,1,Robeson
+4/27/2016,North Carolina,Buncombe,0,0,0,Buncombe
+4/27/2016,Indiana,Montgomery,0,1,1,Montgomery
+4/27/2016,Arkansas,Sebastian,0,0,0,Sebastian
+4/27/2016,Arkansas,White,0,1,1,White
+4/28/2016,Georgia,Dekalb,1,0,1,Dekalb
+4/28/2016,Texas,Montgomery,0,0,0,Montgomery
+4/28/2016,Indiana,St Joseph,0,0,0,St Joseph
+4/28/2016,Mississippi,Perry,0,0,0,Perry
+4/28/2016,North Carolina,Robeson,1,1,2,Robeson
+4/28/2016,Texas,Madison,0,1,1,Madison
+4/28/2016,Ohio,Logan,0,1,1,Logan
+4/29/2016,Washington,King,0,0,0,King
+4/30/2016,Arkansas,Garland,1,1,2,Garland
+4/30/2016,Nevada,Nye,0,0,0,Nye
+4/30/2016,Kansas,Johnson,0,0,0,Johnson
+4/30/2016,Pennsylvania,Washington,0,1,1,Washington
+4/30/2016,Arkansas,Pulaski,0,1,1,Pulaski
+4/30/2016,California,Kern,1,0,1,Kern
+5/1/2016,Wyoming,Campbell,0,0,0,Campbell
+5/1/2016,Texas,Liberty,0,1,1,Liberty
+5/1/2016,Virginia,Henrico,0,0,0,Henrico
+5/1/2016,South Carolina,Richland,0,2,2,Richland
+5/1/2016,Kentucky,Trigg,0,0,0,Trigg
+5/2/2016,Wisconsin,Racine,0,0,0,Racine
+5/2/2016,Virginia,Henrico,0,1,1,Henrico
+5/2/2016,Virginia,Roanoke,0,0,0,Roanoke
+5/2/2016,South Carolina,Berkeley,0,1,1,Berkeley
+5/3/2016,Kansas,Crawford,0,1,1,Crawford
+5/3/2016,Florida,Indian River,0,0,0,Indian River
+5/3/2016,North Carolina,Wake,0,1,1,Wake
+5/3/2016,Tennessee,Knox,0,0,0,Knox
+5/3/2016,New Mexico,Mckinley,0,0,0,Mckinley
+5/3/2016,Nebraska,Sarpy,0,1,1,Sarpy
+5/3/2016,Arkansas,Sharp,0,1,1,Sharp
+5/4/2016,North Carolina,Craven,0,1,1,Craven
+5/4/2016,California,Sacramento,0,1,1,Sacramento
+5/4/2016,Virginia,Henrico,0,1,1,Henrico
+5/4/2016,New Mexico,San Juan,0,0,0,San Juan
+5/5/2016,Alabama,Mobile,0,1,1,Mobile
+5/5/2016,Arkansas,Saline,0,0,0,Saline
+5/6/2016,Mississippi,Jones,0,0,0,Jones
+5/6/2016,Alabama,Jefferson,0,0,0,Jefferson
+5/6/2016,Alabama,Montgomery,0,0,0,Montgomery
+5/6/2016,Tennessee,Montgomery,0,0,0,Montgomery
+5/6/2016,Kentucky,Whitley,0,0,0,Whitley
+5/6/2016,Tennessee,Robertson,0,0,0,Robertson
+5/6/2016,South Carolina,Richland,0,0,0,Richland
+5/6/2016,California,Sacramento,1,0,1,Sacramento
+5/6/2016,Tennessee,Henry,0,0,0,Henry
+5/7/2016,Mississippi,Lamar,1,0,1,Lamar
+5/7/2016,Iowa,Fayette,1,0,1,Fayette
+5/7/2016,Texas,Io,0,0,0,Io
+5/7/2016,Mississippi,Warren,1,0,1,Warren
+5/7/2016,Ohio,Medina,0,0,0,Medina
+5/7/2016,Tennessee,Maury,0,0,0,Maury
+5/7/2016,Kentucky,Hopkins,0,1,1,Hopkins
+5/8/2016,Mississippi,Monroe,0,1,1,Monroe
+5/8/2016,Mississippi,Montgomery,0,1,1,Montgomery
+5/8/2016,California,Ventura,1,0,1,Ventura
+5/8/2016,Oklahoma,Pushmataha,0,1,1,Pushmataha
+5/8/2016,Tennessee,Hardeman,1,0,1,Hardeman
+5/8/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+5/9/2016,Virginia,James City,0,1,1,James City
+5/9/2016,Washington,Pend Oreille,0,0,0,Pend Oreille
+5/10/2016,Ohio,Belmont,0,1,1,Belmont
+5/10/2016,California,Kern,2,0,2,Kern
+5/10/2016,South Carolina,Dillon,1,0,1,Dillon
+5/10/2016,South Carolina,Lexington,1,0,1,Lexington
+5/10/2016,Missouri,Franklin,0,0,0,Franklin
+5/11/2016,South Carolina,Pickens,0,1,1,Pickens
+5/11/2016,North Carolina,Surry,1,0,1,Surry
+5/11/2016,New Mexico,Valencia,0,0,0,Valencia
+5/11/2016,California,Kern,1,0,1,Kern
+5/11/2016,Montana,Lewis And Clark,1,0,1,Lewis And Clark
+5/12/2016,Alabama,Pike,1,0,1,Pike
+5/12/2016,South Carolina,Richland,0,1,1,Richland
+5/12/2016,South Carolina,Richland,0,0,0,Richland
+5/12/2016,South Carolina,Horry,0,0,0,Horry
+5/12/2016,Texas,Harris,1,1,2,Harris
+5/12/2016,Oklahoma,Murray,0,1,1,Murray
+5/12/2016,Missouri,Callaway,0,1,1,Callaway
+5/12/2016,New Mexico,San Juan,0,0,0,San Juan
+5/13/2016,North Carolina,Robeson,1,0,1,Robeson
+5/13/2016,Arkansas,Craighead,0,0,0,Craighead
+5/13/2016,South Carolina,Lexington,0,1,1,Lexington
+5/13/2016,Alabama,Elmore,0,1,1,Elmore
+5/13/2016,North Carolina,Onslow,0,1,1,Onslow
+5/14/2016,Kansas,Sedgwick,0,1,1,Sedgwick
+5/14/2016,Texas,Rusk,0,0,0,Rusk
+5/14/2016,South Carolina,Sumter,0,0,0,Sumter
+5/14/2016,Tennessee,Crockett,0,0,0,Crockett
+5/14/2016,Michigan,Osceola,0,2,2,Osceola
+5/15/2016,North Carolina,Onslow,0,0,0,Onslow
+5/15/2016,North Carolina,Buncombe,0,0,0,Buncombe
+5/15/2016,Illinois,Randolph,0,0,0,Randolph
+5/16/2016,California,Humboldt,0,0,0,Humboldt
+5/16/2016,Texas,Montgomery,0,0,0,Montgomery
+5/16/2016,South Carolina,Richland,0,0,0,Richland
+5/17/2016,South Carolina,Horry,0,0,0,Horry
+5/17/2016,Tennessee,Bradley,0,0,0,Bradley
+5/17/2016,North Carolina,Scotland,1,1,2,Scotland
+5/17/2016,Texas,Harris,0,0,0,Harris
+5/17/2016,Ohio,Summit,0,0,0,Summit
+5/18/2016,North Carolina,Pitt,0,0,0,Pitt
+5/18/2016,Washington,Clark,0,0,0,Clark
+5/18/2016,North Carolina,Onslow,2,0,2,Onslow
+5/18/2016,South Carolina,Richland,0,1,1,Richland
+5/18/2016,Missouri,Jefferson,1,1,2,Jefferson
+5/18/2016,North Dakota,Billings,1,0,1,Billings
+5/19/2016,South Carolina,Williamsburg,0,1,1,Williamsburg
+5/19/2016,Colorado,Eagle,0,0,0,Eagle
+5/19/2016,Pennsylvania,Chester,0,0,0,Chester
+5/19/2016,Virginia,Henrico,0,1,1,Henrico
+5/19/2016,South Carolina,Kershaw,0,0,0,Kershaw
+5/19/2016,Mississippi,Lee,1,0,1,Lee
+5/20/2016,Texas,Bexar,1,0,1,Bexar
+5/20/2016,Kentucky,Nelson,0,1,1,Nelson
+5/20/2016,Michigan,Sanilac,0,1,1,Sanilac
+5/20/2016,Texas,Harris,0,1,1,Harris
+5/20/2016,Alabama,Chilton,0,0,0,Chilton
+5/20/2016,North Carolina,Sampson,0,1,1,Sampson
+5/21/2016,South Carolina,Sumter,0,1,1,Sumter
+5/21/2016,Texas,Travis,0,1,1,Travis
+5/22/2016,Texas,Orange,0,1,1,Orange
+5/23/2016,North Carolina,Scotland,1,0,1,Scotland
+5/23/2016,West Virginia,Ohio,0,0,0,Ohio
+5/23/2016,Arkansas,Baxter,0,0,0,Baxter
+5/23/2016,Alabama,Morgan,0,0,0,Morgan
+5/23/2016,Georgia,Clayton,1,0,1,Clayton
+5/24/2016,Oklahoma,Logan,0,0,0,Logan
+5/24/2016,South Carolina,Richland,0,1,1,Richland
+5/24/2016,Indiana,Hendricks,0,1,1,Hendricks
+5/24/2016,Pennsylvania,Butler,1,0,1,Butler
+5/24/2016,South Carolina,Darlington,0,2,2,Darlington
+5/25/2016,South Carolina,Richland,0,1,1,Richland
+5/25/2016,Texas,Lubbock,0,2,2,Lubbock
+5/25/2016,Texas,Harris,0,1,1,Harris
+5/25/2016,Nebraska,Merrick,0,0,0,Merrick
+5/25/2016,North Carolina,Rowan,0,1,1,Rowan
+5/25/2016,Tennessee,Washington,0,0,0,Washington
+5/26/2016,Texas,Bexar,1,1,2,Bexar
+5/26/2016,Virginia,Henrico,0,1,1,Henrico
+5/26/2016,Virginia,Henrico,0,1,1,Henrico
+5/26/2016,North Carolina,Robeson,1,0,1,Robeson
+5/27/2016,Georgia,Dekalb,0,1,1,Dekalb
+5/27/2016,Indiana,Clark,0,0,0,Clark
+5/27/2016,South Carolina,Colleton,1,1,2,Colleton
+5/27/2016,Indiana,Delaware,0,1,1,Delaware
+5/27/2016,Georgia,Fulton,0,2,2,Fulton
+5/27/2016,Tennessee,Washington,0,0,0,Washington
+5/27/2016,Indiana,Lake,0,0,0,Lake
+5/27/2016,Colorado,Larimer,1,0,1,Larimer
+5/28/2016,Kentucky,Bell,0,0,0,Bell
+5/28/2016,South Carolina,Lexington,0,1,1,Lexington
+5/28/2016,Georgia,Harris,0,1,1,Harris
+5/29/2016,Mississippi,Simpson,0,1,1,Simpson
+5/30/2016,Kentucky,Knox,0,2,2,Knox
+5/30/2016,Wyoming,Teton,0,0,0,Teton
+5/30/2016,Alabama,Walker,1,0,1,Walker
+5/30/2016,Georgia,Forsyth,0,2,2,Forsyth
+5/30/2016,Arkansas,Izard,0,0,0,Izard
+5/31/2016,Texas,Bexar,0,1,1,Bexar
+5/31/2016,Georgia,Peach,0,1,1,Peach
+5/31/2016,Virginia,Henrico,0,1,1,Henrico
+5/31/2016,California,Fresno,1,0,1,Fresno
+5/31/2016,California,Sacramento,1,0,1,Sacramento
+6/1/2016,Kansas,Hamilton,0,0,0,Hamilton
+6/1/2016,Minnesota,Mille Lacs,0,1,1,Mille Lacs
+6/1/2016,Missouri,Johnson,1,0,1,Johnson
+6/1/2016,New Mexico,Bernalillo,0,0,0,Bernalillo
+6/1/2016,North Carolina,Burke,1,0,1,Burke
+6/1/2016,Arkansas,Baxter,0,0,0,Baxter
+6/1/2016,Colorado,El Paso,0,0,0,El Paso
+6/2/2016,Pennsylvania,Franklin,1,0,1,Franklin
+6/2/2016,Indiana,Delaware,0,0,0,Delaware
+6/2/2016,Texas,Harris,0,1,1,Harris
+6/2/2016,Mississippi,Harrison,0,0,0,Harrison
+6/2/2016,North Carolina,Onslow,0,0,0,Onslow
+6/2/2016,South Carolina,Richland,0,1,1,Richland
+6/3/2016,Mississippi,Harrison,0,0,0,Harrison
+6/3/2016,Alabama,Jefferson,0,2,2,Jefferson
+6/3/2016,California,Riverside,1,0,1,Riverside
+6/3/2016,Texas,Fayette,0,0,0,Fayette
+6/4/2016,South Carolina,Richland,0,1,1,Richland
+6/4/2016,Georgia,Fulton,0,1,1,Fulton
+6/4/2016,Kentucky,Barren,0,3,3,Barren
+6/4/2016,Kentucky,Wolfe,2,0,2,Wolfe
+6/4/2016,Virginia,York,0,2,2,York
+6/4/2016,North Carolina,Hoke,0,1,1,Hoke
+6/4/2016,Georgia,Fulton,0,1,1,Fulton
+6/4/2016,Texas,Webb,0,0,0,Webb
+6/4/2016,Oregon,Linn,0,0,0,Linn
+6/5/2016,Virginia,Spotsylvania,0,1,1,Spotsylvania
+6/5/2016,Oregon,Linn,0,0,0,Linn
+6/5/2016,North Carolina,Columbus,0,0,0,Columbus
+6/5/2016,Mississippi,Lamar,0,1,1,Lamar
+6/6/2016,South Carolina,Colleton,1,1,2,Colleton
+6/6/2016,Ohio,Hamilton,0,0,0,Hamilton
+6/8/2016,North Carolina,Moore,0,0,0,Moore
+6/8/2016,Tennessee,Bradley,0,0,0,Bradley
+6/8/2016,South Carolina,Greenville,0,1,1,Greenville
+6/8/2016,North Carolina,Lee,0,1,1,Lee
+6/8/2016,South Carolina,Richland,0,0,0,Richland
+6/8/2016,Kentucky,Webster,1,0,1,Webster
+6/8/2016,South Carolina,Richland,0,0,0,Richland
+6/9/2016,South Carolina,Richland,0,0,0,Richland
+6/9/2016,Oregon,Jackson,0,0,0,Jackson
+6/9/2016,Colorado,Larimer,1,0,1,Larimer
+6/9/2016,North Carolina,Rowan,0,0,0,Rowan
+6/9/2016,Texas,Harris,1,0,1,Harris
+6/10/2016,South Carolina,Greenwood,0,0,0,Greenwood
+6/10/2016,Virginia,Henrico,0,0,0,Henrico
+6/10/2016,Arkansas,Crawford,0,0,0,Crawford
+6/10/2016,North Carolina,Iredell,1,0,1,Iredell
+6/10/2016,California,Santa Barbara,0,1,1,Santa Barbara
+6/10/2016,Arkansas,Jackson,0,0,0,Jackson
+6/10/2016,Texas,Harris,1,0,1,Harris
+6/11/2016,Mississippi,Simpson,1,1,2,Simpson
+6/11/2016,Louisiana,Jefferson,0,1,1,Jefferson
+6/12/2016,Michigan,Mecosta,0,1,1,Mecosta
+6/12/2016,North Carolina,Hoke,0,1,1,Hoke
+6/12/2016,Tennessee,Knox,0,1,1,Knox
+6/12/2016,Ohio,Muskingum,0,1,1,Muskingum
+6/12/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+6/12/2016,Arkansas,Craighead,0,0,0,Craighead
+6/13/2016,Indiana,Johnson,0,0,0,Johnson
+6/13/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+6/14/2016,Mississippi,Carroll,1,0,1,Carroll
+6/14/2016,Kentucky,Washington,1,0,1,Washington
+6/14/2016,Alabama,Blount,0,1,1,Blount
+6/14/2016,Texas,Van Zandt,0,1,1,Van Zandt
+6/14/2016,Michigan,Marquette,0,0,0,Marquette
+6/14/2016,California,Sacramento,1,0,1,Sacramento
+6/15/2016,South Dakota,Brookings,0,0,0,Brookings
+6/15/2016,South Carolina,Richland,0,0,0,Richland
+6/15/2016,Virginia,Henrico,0,0,0,Henrico
+6/16/2016,Illinois,Saint Clair,0,0,0,Saint Clair
+6/16/2016,Ohio,Williams,1,0,1,Williams
+6/16/2016,Mississippi,Winston,1,0,1,Winston
+6/16/2016,Mississippi,Tishomingo,0,1,1,Tishomingo
+6/16/2016,New Mexico,Bernalillo,0,0,0,Bernalillo
+6/16/2016,Kentucky,Boone,0,0,0,Boone
+6/18/2016,Ohio,Preble,0,1,1,Preble
+6/18/2016,Illinois,Franklin,0,0,0,Franklin
+6/18/2016,California,Humboldt,0,0,0,Humboldt
+6/18/2016,Mississippi,Lafayette,1,0,1,Lafayette
+6/18/2016,North Carolina,Bladen,0,1,1,Bladen
+6/19/2016,Missouri,Pulaski,1,1,2,Pulaski
+6/19/2016,South Carolina,Florence,0,1,1,Florence
+6/19/2016,Georgia,Bibb,0,0,0,Bibb
+6/19/2016,Alabama,Jefferson,0,1,1,Jefferson
+6/19/2016,Virginia,Chesterfield,0,1,1,Chesterfield
+6/19/2016,Alabama,Colbert,1,0,1,Colbert
+6/20/2016,Texas,Bexar,1,0,1,Bexar
+6/20/2016,Mississippi,Tippah,0,0,0,Tippah
+6/20/2016,Alabama,Perry,1,0,1,Perry
+6/20/2016,Kentucky,Floyd,0,1,1,Floyd
+6/20/2016,Kentucky,Henderson,0,0,0,Henderson
+6/20/2016,Colorado,Conejos,1,0,1,Conejos
+6/20/2016,Florida,Volusia,0,1,1,Volusia
+6/21/2016,Virginia,Surry,0,1,1,Surry
+6/21/2016,North Carolina,Cumberland,0,1,1,Cumberland
+6/21/2016,Florida,Nassau,0,0,0,Nassau
+6/21/2016,Colorado,Mesa,0,0,0,Mesa
+6/21/2016,Virginia,Henrico,0,1,1,Henrico
+6/21/2016,Texas,Rusk,0,1,1,Rusk
+6/21/2016,Tennessee,Fayette,0,1,1,Fayette
+6/22/2016,Michigan,Muskegon,0,0,0,Muskegon
+6/22/2016,Michigan,Iron,1,1,2,Iron
+6/22/2016,Minnesota,Crow Wing,0,0,0,Crow Wing
+6/22/2016,South Carolina,Berkeley,0,1,1,Berkeley
+6/22/2016,South Carolina,Horry,0,1,1,Horry
+6/22/2016,Alabama,Mobile,0,0,0,Mobile
+6/22/2016,Idaho,Kootenai,0,0,0,Kootenai
+6/22/2016,Georgia,Dekalb,1,4,5,Dekalb
+6/22/2016,Georgia,Fulton,1,0,1,Fulton
+6/22/2016,Oklahoma,Marshall,0,0,0,Marshall
+6/23/2016,Alabama,Jackson,0,0,0,Jackson
+6/23/2016,Wyoming,Natrona,0,0,0,Natrona
+6/23/2016,Missouri,Lincoln,1,0,1,Lincoln
+6/24/2016,Oklahoma,Delaware,1,0,1,Delaware
+6/24/2016,Virginia,Henrico,0,1,1,Henrico
+6/24/2016,Alabama,Walker,0,1,1,Walker
+6/24/2016,Tennessee,Unicoi,0,1,1,Unicoi
+6/24/2016,Alabama,Saint Clair,0,1,1,Saint Clair
+6/25/2016,North Carolina,Nash,0,1,1,Nash
+6/25/2016,Tennessee,Greene,1,0,1,Greene
+6/25/2016,Alabama,Morgan,0,0,0,Morgan
+6/25/2016,Texas,Harris,1,1,2,Harris
+6/25/2016,Virginia,Henrico,0,2,2,Henrico
+6/26/2016,Kentucky,Jackson,0,1,1,Jackson
+6/26/2016,South Carolina,Richland,0,1,1,Richland
+6/26/2016,North Carolina,Haywood,0,1,1,Haywood
+6/26/2016,Texas,Liberty,1,0,1,Liberty
+6/26/2016,Minnesota,Steele,1,0,1,Steele
+6/26/2016,Arkansas,Johnson,1,0,1,Johnson
+6/26/2016,North Carolina,Burke,1,0,1,Burke
+6/26/2016,Tennessee,Haywood,1,2,3,Haywood
+6/26/2016,Texas,Harris,0,1,1,Harris
+6/27/2016,South Carolina,Kershaw,0,0,0,Kershaw
+6/27/2016,Tennessee,Shelby,1,0,1,Shelby
+6/27/2016,Arkansas,Boone,1,0,1,Boone
+6/27/2016,Georgia,Bleckley,1,0,1,Bleckley
+6/27/2016,South Carolina,Horry,0,0,0,Horry
+6/27/2016,Colorado,Garfield,0,1,1,Garfield
+6/27/2016,West Virginia,Roane,0,0,0,Roane
+6/28/2016,North Carolina,Wake,0,1,1,Wake
+6/28/2016,Nebraska,Dodge,0,0,0,Dodge
+6/28/2016,Florida,Indian River,0,0,0,Indian River
+6/28/2016,West Virginia,Harrison,0,0,0,Harrison
+6/28/2016,North Carolina,Surry,1,0,1,Surry
+6/28/2016,Florida,Orange,0,0,0,Orange
+6/28/2016,Texas,Harris,1,0,1,Harris
+6/29/2016,Texas,Harris,0,1,1,Harris
+6/29/2016,Wisconsin,Manitowoc,0,0,0,Manitowoc
+6/29/2016,Mississippi,Tishomingo,0,1,1,Tishomingo
+6/30/2016,California,Sacramento,1,0,1,Sacramento
+6/30/2016,Alabama,Blount,0,0,0,Blount
+7/1/2016,Virginia,Henrico,0,0,0,Henrico
+7/1/2016,Virginia,York,1,0,1,York
+7/1/2016,Kentucky,Carlisle,1,1,2,Carlisle
+7/1/2016,Indiana,Vigo,0,0,0,Vigo
+7/1/2016,Missouri,Maries,0,0,0,Maries
+7/2/2016,South Carolina,Kershaw,0,0,0,Kershaw
+7/2/2016,Texas,Bexar,1,0,1,Bexar
+7/3/2016,South Carolina,Richland,0,1,1,Richland
+7/3/2016,Florida,Collier,0,0,0,Collier
+7/3/2016,Indiana,Vanderburgh,0,0,0,Vanderburgh
+7/3/2016,Mississippi,Holmes,1,0,1,Holmes
+7/4/2016,North Carolina,Cleveland,0,1,1,Cleveland
+7/4/2016,Mississippi,Oktibbeha,1,0,1,Oktibbeha
+7/4/2016,California,Merced,1,1,2,Merced
+7/4/2016,Michigan,Wayne,0,0,0,Wayne
+7/4/2016,Virginia,Henrico,0,0,0,Henrico
+7/5/2016,Tennessee,Hamilton,0,0,0,Hamilton
+7/5/2016,California,Sacramento,1,1,2,Sacramento
+7/5/2016,Tennessee,Knox,0,0,0,Knox
+7/5/2016,Virginia,Henrico,0,0,0,Henrico
+7/6/2016,Tennessee,Greene,1,0,1,Greene
+7/6/2016,Texas,Trinity,0,0,0,Trinity
+7/6/2016,Virginia,Henrico,0,1,1,Henrico
+7/6/2016,California,Tehama,0,0,0,Tehama
+7/6/2016,Wisconsin,Brown,1,0,1,Brown
+7/6/2016,South Carolina,Greenville,0,1,1,Greenville
+7/7/2016,Florida,Indian River,0,0,0,Indian River
+7/7/2016,Mississippi,Lauderdale,0,1,1,Lauderdale
+7/7/2016,Texas,Harris,1,0,1,Harris
+7/8/2016,South Carolina,Charleston,0,1,1,Charleston
+7/8/2016,North Carolina,Duplin,1,0,1,Duplin
+7/8/2016,South Carolina,Chester,0,1,1,Chester
+7/8/2016,Kentucky,Harlan,0,0,0,Harlan
+7/8/2016,Mississippi,George,0,1,1,George
+7/8/2016,Virginia,Surry,0,1,1,Surry
+7/8/2016,Mississippi,Marshall,1,0,1,Marshall
+7/9/2016,North Carolina,Hoke,0,1,1,Hoke
+7/9/2016,Tennessee,Marion,0,1,1,Marion
+7/10/2016,Virginia,Chesterfield,0,1,1,Chesterfield
+7/10/2016,Wyoming,Natrona,0,0,0,Natrona
+7/11/2016,Kentucky,Franklin,0,0,0,Franklin
+7/11/2016,Texas,Marion,1,0,1,Marion
+7/11/2016,Maryland,Prince Georges,0,0,0,Prince Georges
+7/11/2016,New Mexico,Bernalillo,0,0,0,Bernalillo
+7/12/2016,Pennsylvania,Berks,1,0,1,Berks
+7/12/2016,Georgia,Catoosa,0,1,1,Catoosa
+7/12/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+7/13/2016,Virginia,Henrico,0,1,1,Henrico
+7/13/2016,Maryland,Prince Georges,0,0,0,Prince Georges
+7/13/2016,North Carolina,Pitt,0,0,0,Pitt
+7/13/2016,Arkansas,Garland,1,0,1,Garland
+7/13/2016,Delaware,New Castle,0,2,2,New Castle
+7/14/2016,Virginia,Spotsylvania,0,0,0,Spotsylvania
+7/14/2016,Alabama,Jefferson,0,0,0,Jefferson
+7/14/2016,Mississippi,Wayne,1,0,1,Wayne
+7/14/2016,Oklahoma,Lincoln,1,0,1,Lincoln
+7/15/2016,South Carolina,Sumter,1,0,1,Sumter
+7/15/2016,West Virginia,Putnam,0,1,1,Putnam
+7/15/2016,Ohio,Scioto,0,0,0,Scioto
+7/15/2016,Mississippi,Forrest,1,0,1,Forrest
+7/16/2016,Texas,Titus,1,0,1,Titus
+7/16/2016,Colorado,Garfield,0,1,1,Garfield
+7/16/2016,Wyoming,Natrona,0,0,0,Natrona
+7/17/2016,Missouri,Jefferson,0,0,0,Jefferson
+7/17/2016,New Mexico,Taos,0,1,1,Taos
+7/17/2016,Florida,Orange,0,0,0,Orange
+7/18/2016,Oklahoma,Major,0,0,0,Major
+7/18/2016,Kentucky,Breckinridge,0,1,1,Breckinridge
+7/19/2016,Virginia,Gloucester,1,1,2,Gloucester
+7/19/2016,Kentucky,Calloway,1,0,1,Calloway
+7/19/2016,South Carolina,Richland,0,1,1,Richland
+7/20/2016,Tennessee,Knox,0,1,1,Knox
+7/20/2016,Georgia,Jones,1,0,1,Jones
+7/21/2016,Michigan,Livingston,0,0,0,Livingston
+7/21/2016,New Mexico,Chaves,0,0,0,Chaves
+7/21/2016,Mississippi,Rankin,0,0,0,Rankin
+7/21/2016,Georgia,Clayton,0,0,0,Clayton
+7/22/2016,Nebraska,Lincoln,0,0,0,Lincoln
+7/22/2016,Nebraska,Lincoln,0,0,0,Lincoln
+7/22/2016,Virginia,Henrico,0,0,0,Henrico
+7/22/2016,Arkansas,Pulaski,0,1,1,Pulaski
+7/22/2016,Alabama,Coffee,0,0,0,Coffee
+7/22/2016,North Carolina,Orange,2,0,2,Orange
+7/22/2016,Pennsylvania,Clearfield,0,1,1,Clearfield
+7/22/2016,Texas,Harris,0,0,0,Harris
+7/23/2016,Delaware,New Castle,0,0,0,New Castle
+7/23/2016,Delaware,New Castle,0,0,0,New Castle
+7/23/2016,Delaware,New Castle,0,0,0,New Castle
+7/23/2016,Texas,Harris,0,0,0,Harris
+7/23/2016,Texas,Polk,1,0,1,Polk
+7/24/2016,New Mexico,Taos,1,0,1,Taos
+7/24/2016,Wyoming,Natrona,0,0,0,Natrona
+7/24/2016,South Carolina,Beaufort,0,0,0,Beaufort
+7/24/2016,California,Riverside,1,0,1,Riverside
+7/24/2016,North Carolina,Mcdowell,0,0,0,Mcdowell
+7/25/2016,Ohio,Stark,0,0,0,Stark
+7/25/2016,Alabama,Lee,1,0,1,Lee
+7/25/2016,Alabama,Etowah,0,0,0,Etowah
+7/26/2016,Alabama,Perry,0,0,0,Perry
+7/26/2016,Florida,Volusia,0,0,0,Volusia
+7/26/2016,New Mexico,San Juan,0,0,0,San Juan
+7/27/2016,Mississippi,Itawamba,0,1,1,Itawamba
+7/27/2016,Virginia,Spotsylvania,0,1,1,Spotsylvania
+7/27/2016,Colorado,Pitkin,0,0,0,Pitkin
+7/28/2016,Mississippi,Pike,0,1,1,Pike
+7/28/2016,South Carolina,Horry,0,1,1,Horry
+7/28/2016,Virginia,Henrico,0,0,0,Henrico
+7/28/2016,Georgia,Dekalb,0,1,1,Dekalb
+7/28/2016,New Mexico,Chaves,0,0,0,Chaves
+7/29/2016,North Carolina,Pitt,0,0,0,Pitt
+7/30/2016,North Carolina,Gaston,1,0,1,Gaston
+7/30/2016,Virginia,Henrico,0,2,2,Henrico
+8/1/2016,South Carolina,Spartanburg,1,0,1,Spartanburg
+8/2/2016,Wyoming,Park,0,1,1,Park
+8/2/2016,Texas,Walker,0,0,0,Walker
+8/2/2016,Florida,Saint Johns,0,0,0,Saint Johns
+8/2/2016,Oklahoma,Grady,1,0,1,Grady
+8/2/2016,Mississippi,Covington,0,1,1,Covington
+8/3/2016,South Carolina,Richland,0,0,0,Richland
+8/3/2016,Ohio,Stark,0,0,0,Stark
+8/3/2016,South Carolina,Richland,0,1,1,Richland
+8/3/2016,South Carolina,Horry,0,0,0,Horry
+8/4/2016,Virginia,Scott,1,0,1,Scott
+8/4/2016,South Carolina,Richland,0,1,1,Richland
+8/4/2016,Tennessee,Madison,0,0,0,Madison
+8/4/2016,California,Madera,0,1,1,Madera
+8/4/2016,Michigan,Clare,0,1,1,Clare
+8/5/2016,Mississippi,Harrison,0,0,0,Harrison
+8/5/2016,Colorado,Elbert,0,1,1,Elbert
+8/5/2016,Oregon,Linn,0,0,0,Linn
+8/6/2016,Virginia,Henrico,0,1,1,Henrico
+8/6/2016,Missouri,Mcdonald,0,1,1,Mcdonald
+8/6/2016,Mississippi,Lauderdale,0,0,0,Lauderdale
+8/7/2016,Colorado,Mesa,0,0,0,Mesa
+8/7/2016,Missouri,Douglas,0,2,2,Douglas
+8/7/2016,Texas,Montgomery,0,0,0,Montgomery
+8/8/2016,Minnesota,Isanti,0,0,0,Isanti
+8/8/2016,Kansas,Barton,0,0,0,Barton
+8/8/2016,California,Sacramento,0,0,0,Sacramento
+8/8/2016,Florida,Pasco,0,0,0,Pasco
+8/8/2016,Mississippi,Scott,1,0,1,Scott
+8/8/2016,Tennessee,Hamilton,0,0,0,Hamilton
+8/8/2016,Kentucky,Scott,1,0,1,Scott
+8/8/2016,North Carolina,Wilkes,1,0,1,Wilkes
+8/8/2016,South Carolina,Marion,0,1,1,Marion
+8/9/2016,Virginia,Henrico,0,0,0,Henrico
+8/9/2016,Minnesota,Mahnomen,2,0,2,Mahnomen
+8/10/2016,California,Contra Costa,0,0,0,Contra Costa
+8/10/2016,Virginia,Henrico,0,0,0,Henrico
+8/10/2016,Arkansas,Sebastian,1,2,3,Sebastian
+8/10/2016,Illinois,Franklin,0,0,0,Franklin
+8/11/2016,Kentucky,Garrard,0,0,0,Garrard
+8/11/2016,Texas,Smith,0,0,0,Smith
+8/11/2016,North Carolina,Pitt,0,0,0,Pitt
+8/11/2016,North Carolina,Pitt,0,0,0,Pitt
+8/11/2016,Virginia,Henrico,0,1,1,Henrico
+8/12/2016,Virginia,Fairfax,0,1,1,Fairfax
+8/12/2016,New Mexico,Bernalillo,0,0,0,Bernalillo
+8/12/2016,Wisconsin,Washburn,0,0,0,Washburn
+8/12/2016,Florida,Martin,0,1,1,Martin
+8/13/2016,California,Sacramento,1,0,1,Sacramento
+8/13/2016,Delaware,New Castle,0,1,1,New Castle
+8/13/2016,North Carolina,Onslow,0,1,1,Onslow
+8/13/2016,Florida,Escambia,0,0,0,Escambia
+8/13/2016,Indiana,Johnson,2,0,2,Johnson
+8/14/2016,Texas,Harris,0,0,0,Harris
+8/14/2016,Tennessee,Knox,0,0,0,Knox
+8/14/2016,Oregon,Jackson,0,0,0,Jackson
+8/14/2016,Florida,Calhoun,0,0,0,Calhoun
+8/15/2016,Virginia,Pittsylvania,0,1,1,Pittsylvania
+8/15/2016,South Carolina,Richland,0,0,0,Richland
+8/15/2016,Tennessee,Anderson,0,0,0,Anderson
+8/16/2016,Virginia,King And Queen,1,0,1,King And Queen
+8/16/2016,Indiana,Lagrange,0,0,0,Lagrange
+8/17/2016,Mississippi,Lamar,0,0,0,Lamar
+8/17/2016,North Carolina,New Hanover,0,1,1,New Hanover
+8/17/2016,Alabama,Jefferson,0,0,0,Jefferson
+8/17/2016,Wyoming,Carbon,0,0,0,Carbon
+8/17/2016,Oklahoma,Mccurtain,1,0,1,Mccurtain
+8/18/2016,South Carolina,Richland,0,0,0,Richland
+8/18/2016,Alabama,Choctaw,1,0,1,Choctaw
+8/18/2016,Mississippi,Covington,1,0,1,Covington
+8/19/2016,Alabama,Jefferson,0,1,1,Jefferson
+8/19/2016,Tennessee,Weakley,0,0,0,Weakley
+8/19/2016,South Carolina,Sumter,1,0,1,Sumter
+8/20/2016,Alabama,Jefferson,0,0,0,Jefferson
+8/21/2016,North Carolina,Robeson,1,1,2,Robeson
+8/22/2016,California,Merced,0,0,0,Merced
+8/22/2016,Tennessee,Williamson,1,0,1,Williamson
+8/23/2016,California,Marin,0,0,0,Marin
+8/23/2016,West Virginia,Monongalia,0,1,1,Monongalia
+8/23/2016,Wyoming,Natrona,0,0,0,Natrona
+8/24/2016,Nebraska,Gosper,0,0,0,Gosper
+8/24/2016,Texas,Childress,0,1,1,Childress
+8/24/2016,South Carolina,Richland,0,0,0,Richland
+8/24/2016,North Carolina,Buncombe,0,0,0,Buncombe
+8/24/2016,Illinois,Lake,0,0,0,Lake
+8/24/2016,South Carolina,Beaufort,0,1,1,Beaufort
+8/25/2016,Utah,Utah,0,0,0,Utah
+8/25/2016,Wyoming,Natrona,0,0,0,Natrona
+8/25/2016,South Carolina,Newberry,0,0,0,Newberry
+8/25/2016,Illinois,Madison,0,0,0,Madison
+8/25/2016,Alabama,Cullman,0,1,1,Cullman
+8/25/2016,North Carolina,Cabarrus,0,1,1,Cabarrus
+8/26/2016,Alabama,DeKalb,0,1,1,DeKalb
+8/26/2016,Virginia,Henrico,0,0,0,Henrico
+8/27/2016,Virginia,Stafford,0,0,0,Stafford
+8/27/2016,Alabama,Franklin,0,0,0,Franklin
+8/28/2016,West Virginia,Pendleton,0,0,0,Pendleton
+8/28/2016,California,Tulare,0,1,1,Tulare
+8/28/2016,Alabama,Morgan,0,1,1,Morgan
+8/28/2016,Texas,Harris,0,0,0,Harris
+8/29/2016,Indiana,Clinton,0,0,0,Clinton
+8/30/2016,New Mexico,Santa Fe,0,0,0,Santa Fe
+8/30/2016,Texas,Jones,0,0,0,Jones
+8/30/2016,Michigan,Calhoun,0,0,0,Calhoun
+8/30/2016,Tennessee,Mcminn,0,1,1,Mcminn
+8/31/2016,California,Riverside,0,0,0,Riverside
+8/31/2016,Illinois,Macoupin,0,0,0,Macoupin
+8/31/2016,Texas,Lubbock,0,0,0,Lubbock
+8/31/2016,Indiana,Floyd,0,0,0,Floyd
+8/31/2016,Alabama,Lee,1,0,1,Lee
+9/1/2016,Mississippi,Pike,1,0,1,Pike
+9/1/2016,Mississippi,Lauderdale,1,1,2,Lauderdale
+9/1/2016,Colorado,El Paso,0,0,0,El Paso
+9/1/2016,West Virginia,Putnam,0,0,0,Putnam
+9/1/2016,Oklahoma,Creek,0,0,0,Creek
+9/1/2016,Ohio,Hocking,1,1,2,Hocking
+9/1/2016,Florida,Escambia,0,0,0,Escambia
+9/1/2016,Alabama,DeKalb,0,0,0,DeKalb
+9/1/2016,Indiana,Bartholomew,0,1,1,Bartholomew
+9/2/2016,Alabama,Mobile,1,0,1,Mobile
+9/2/2016,Indiana,Vanderburgh,0,0,0,Vanderburgh
+9/2/2016,South Carolina,Georgetown,0,0,0,Georgetown
+9/3/2016,Delaware,New Castle,0,0,0,New Castle
+9/3/2016,Kentucky,Laurel,0,0,0,Laurel
+9/3/2016,Wyoming,Natrona,0,0,0,Natrona
+9/4/2016,Virginia,Chesterfield,2,1,3,Chesterfield
+9/4/2016,Wyoming,Natrona,0,0,0,Natrona
+9/4/2016,Wyoming,Natrona,0,0,0,Natrona
+9/4/2016,Wyoming,Natrona,0,0,0,Natrona
+9/4/2016,Georgia,Cook,0,0,0,Cook
+9/4/2016,Kansas,Geary,0,1,1,Geary
+9/4/2016,Kentucky,Pike,0,1,1,Pike
+9/5/2016,Alabama,Macon,0,2,2,Macon
+9/5/2016,Alabama,Chambers,1,0,1,Chambers
+9/5/2016,Georgia,Baldwin,0,0,0,Baldwin
+9/5/2016,North Carolina,Forsyth,1,0,1,Forsyth
+9/5/2016,Ohio,Ross,0,1,1,Ross
+9/5/2016,Virginia,Caroline,0,1,1,Caroline
+9/6/2016,Florida,Flagler,0,1,1,Flagler
+9/6/2016,South Carolina,Darlington,0,1,1,Darlington
+9/6/2016,Colorado,Mesa,0,0,0,Mesa
+9/7/2016,Mississippi,George,0,1,1,George
+9/7/2016,Virginia,Henrico,0,1,1,Henrico
+9/7/2016,Wyoming,Natrona,0,0,0,Natrona
+9/7/2016,Georgia,Columbia,0,0,0,Columbia
+9/7/2016,Tennessee,Hamblen,0,0,0,Hamblen
+9/7/2016,Georgia,Bibb,0,0,0,Bibb
+9/7/2016,Indiana,Warrick,0,0,0,Warrick
+9/8/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+9/8/2016,South Carolina,Horry,0,0,0,Horry
+9/8/2016,South Carolina,Horry,0,0,0,Horry
+9/8/2016,California,Los Angeles,0,0,0,Los Angeles
+9/8/2016,Tennessee,Hamilton,0,1,1,Hamilton
+9/8/2016,Texas,Harris,1,0,1,Harris
+9/8/2016,Mississippi,Leflore,1,0,1,Leflore
+9/8/2016,South Carolina,Horry,0,0,0,Horry
+9/9/2016,Mississippi,Neshoba,0,1,1,Neshoba
+9/10/2016,Indiana,Clay,0,1,1,Clay
+9/11/2016,South Carolina,Anderson,0,0,0,Anderson
+9/11/2016,Indiana,Tippecanoe,0,0,0,Tippecanoe
+9/11/2016,Mississippi,Bolivar,1,0,1,Bolivar
+9/11/2016,North Carolina,Hoke,0,1,1,Hoke
+9/11/2016,Georgia,Troup,0,0,0,Troup
+9/11/2016,Pennsylvania,Cumberland,0,0,0,Cumberland
+9/12/2016,Michigan,Missaukee,1,0,1,Missaukee
+9/12/2016,Virginia,Montgomery,0,0,0,Montgomery
+9/13/2016,Illinois,Sangamon,0,0,0,Sangamon
+9/13/2016,Alabama,Madison,0,0,0,Madison
+9/13/2016,Tennessee,Sullivan,0,1,1,Sullivan
+9/14/2016,Tennessee,Shelby,1,0,1,Shelby
+9/14/2016,South Carolina,Aiken,1,0,1,Aiken
+9/14/2016,Texas,Bexar,1,0,1,Bexar
+9/14/2016,Georgia,Cobb,0,0,0,Cobb
+9/14/2016,New Mexico,Eddy,0,1,1,Eddy
+9/15/2016,Kansas,Ellsworth,0,1,1,Ellsworth
+9/15/2016,Washington,Pierce,0,0,0,Pierce
+9/16/2016,Georgia,Morgan,0,1,1,Morgan
+9/16/2016,Texas,Harris,0,1,1,Harris
+9/16/2016,Pennsylvania,Northampton,0,0,0,Northampton
+9/17/2016,California,Sacramento,1,0,1,Sacramento
+9/17/2016,Wyoming,Natrona,0,0,0,Natrona
+9/17/2016,Alabama,Cullman,0,1,1,Cullman
+9/17/2016,Florida,Seminole,0,0,0,Seminole
+9/17/2016,Georgia,Dekalb,0,1,1,Dekalb
+9/17/2016,Virginia,Spotsylvania,0,0,0,Spotsylvania
+9/17/2016,Colorado,Mesa,0,0,0,Mesa
+9/17/2016,Arkansas,Garland,0,0,0,Garland
+9/18/2016,South Carolina,Horry,0,0,0,Horry
+9/18/2016,South Carolina,Richland,0,0,0,Richland
+9/18/2016,Tennessee,Jefferson,0,0,0,Jefferson
+9/18/2016,Indiana,Vanderburgh,0,0,0,Vanderburgh
+9/19/2016,Mississippi,Grenada,1,0,1,Grenada
+9/19/2016,Utah,Cache,1,0,1,Cache
+9/19/2016,Mississippi,Simpson,0,1,1,Simpson
+9/19/2016,South Carolina,Edgefield,0,1,1,Edgefield
+9/19/2016,North Carolina,Stokes,1,0,1,Stokes
+9/20/2016,New York,Fulton,0,0,0,Fulton
+9/20/2016,Georgia,Dekalb,0,0,0,Dekalb
+9/20/2016,Tennessee,Decatur,1,0,1,Decatur
+9/21/2016,Pennsylvania,Lancaster,0,0,0,Lancaster
+9/21/2016,California,Sacramento,0,2,2,Sacramento
+9/21/2016,South Carolina,Berkeley,0,0,0,Berkeley
+9/21/2016,New Jersey,Gloucester,1,0,1,Gloucester
+9/22/2016,Michigan,Genessee,0,0,0,Genessee
+9/23/2016,Kentucky,Powell,0,1,1,Powell
+9/23/2016,Virginia,Henrico,1,0,1,Henrico
+9/23/2016,Alabama,Mobile,1,0,1,Mobile
+9/23/2016,South Carolina,Horry,0,0,0,Horry
+9/24/2016,Virginia,Floyd,0,1,1,Floyd
+9/24/2016,North Carolina,Columbus,1,0,1,Columbus
+9/24/2016,Texas,Harris,0,0,0,Harris
+9/25/2016,Virginia,James City,0,3,3,James City
+9/25/2016,Ohio,Gallia,1,0,1,Gallia
+9/25/2016,California,Los Angeles,1,0,1,Los Angeles
+9/25/2016,Utah,Kane,0,0,0,Kane
+9/25/2016,Pennsylvania,Bradford,0,0,0,Bradford
+9/26/2016,South Carolina,Richland,0,1,1,Richland
+9/26/2016,South Carolina,Lexington,0,2,2,Lexington
+9/26/2016,South Carolina,Dillon,0,1,1,Dillon
+9/26/2016,Georgia,Paulding,0,0,0,Paulding
+9/26/2016,California,El Dorado,1,0,1,El Dorado
+9/26/2016,Colorado,Mesa,0,0,0,Mesa
+9/27/2016,Tennessee,Hamblen,0,0,0,Hamblen
+9/27/2016,Colorado,Delta,0,0,0,Delta
+9/27/2016,Tennessee,Shelby,1,0,1,Shelby
+9/27/2016,Florida,Indian River,0,0,0,Indian River
+9/27/2016,California,Riverside,0,1,1,Riverside
+9/27/2016,Kentucky,Bell,0,0,0,Bell
+9/28/2016,Indiana,Johnson,0,0,0,Johnson
+9/28/2016,Mississippi,Lee,0,1,1,Lee
+9/28/2016,Texas,Taylor,0,1,1,Taylor
+9/28/2016,South Carolina,Richland,0,2,2,Richland
+9/28/2016,Tennessee,Meigs,0,1,1,Meigs
+9/28/2016,Ohio,Miami,0,0,0,Miami
+9/29/2016,Tennessee,Unicoi,0,0,0,Unicoi
+9/29/2016,Alabama,Montgomery,0,1,1,Montgomery
+9/29/2016,Texas,Harris,1,0,1,Harris
+9/29/2016,Georgia,Burke,0,1,1,Burke
+9/29/2016,Indiana,Clay,0,0,0,Clay
+9/29/2016,Georgia,Burke,0,1,1,Burke
+9/30/2016,South Carolina,Spartanburg,0,1,1,Spartanburg
+9/30/2016,California,Madera,0,1,1,Madera
+10/1/2016,West Virginia,Tyler,0,0,0,Tyler
+10/1/2016,Colorado,Montrose,0,0,0,Montrose
+10/1/2016,Pennsylvania,York,0,0,0,York
+10/1/2016,Pennsylvania,Lehigh,0,0,0,Lehigh
+10/1/2016,South Carolina,Richland,0,1,1,Richland
+10/1/2016,Arkansas,Carroll,2,0,2,Carroll
+10/1/2016,Maryland,Caroline,0,0,0,Caroline
+10/1/2016,Minnesota,Polk,0,0,0,Polk
+10/1/2016,Georgia,Gwinnett,0,0,0,Gwinnett
+10/2/2016,Virginia,Henrico,1,0,1,Henrico
+10/2/2016,Alabama,Montgomery,2,0,2,Montgomery
+10/2/2016,Tennessee,Knox,0,1,1,Knox
+10/3/2016,Texas,Harris,0,1,1,Harris
+10/3/2016,Ohio,Cuyahoga,0,0,0,Cuyahoga
+10/3/2016,Georgia,Richmond,0,0,0,Richmond
+10/3/2016,North Carolina,Pitt,1,0,1,Pitt
+10/4/2016,Mississippi,Leake,0,1,1,Leake
+10/4/2016,Texas,Trinity,1,0,1,Trinity
+10/4/2016,West Virginia,Hancock,0,0,0,Hancock
+10/4/2016,Nebraska,Dawson,1,0,1,Dawson
+10/4/2016,Virginia,Campbell,0,1,1,Campbell
+10/5/2016,Oregon,Douglas,0,1,1,Douglas
+10/5/2016,Kansas,Shawnee,0,0,0,Shawnee
+10/6/2016,West Virginia,Kanawha,0,0,0,Kanawha
+10/6/2016,Georgia,Forsyth,1,0,1,Forsyth
+10/6/2016,Mississippi,Harrison,0,0,0,Harrison
+10/6/2016,Mississippi,Harrison,0,1,1,Harrison
+10/6/2016,Iowa,Linn,0,0,0,Linn
+10/6/2016,Georgia,Fulton,1,0,1,Fulton
+10/7/2016,Texas,Harris,0,1,1,Harris
+10/7/2016,Ohio,Delaware,0,0,0,Delaware
+10/7/2016,Georgia,Richmond,1,0,1,Richmond
+10/7/2016,Alabama,Baldwin,1,0,1,Baldwin
+10/7/2016,Florida,Lee,0,1,1,Lee
+10/7/2016,Georgia,Taliaferro,0,0,0,Taliaferro
+10/8/2016,Alabama,Madison,0,1,1,Madison
+10/8/2016,Florida,Lee,0,0,0,Lee
+10/8/2016,Mississippi,Copiah,0,0,0,Copiah
+10/8/2016,Florida,Okaloosa,0,0,0,Okaloosa
+10/9/2016,Kentucky,Pike,0,0,0,Pike
+10/9/2016,Alabama,Etowah,0,1,1,Etowah
+10/9/2016,Kentucky,Mccracken,0,0,0,Mccracken
+10/9/2016,Oklahoma,Cherokee,0,0,0,Cherokee
+10/10/2016,Alabama,Jefferson,0,1,1,Jefferson
+10/10/2016,South Carolina,Calhoun,1,1,2,Calhoun
+10/11/2016,Wyoming,Natrona,0,0,0,Natrona
+10/11/2016,Minnesota,Beltrami,0,0,0,Beltrami
+10/12/2016,Missouri,Mississippi,0,1,1,Mississippi
+10/12/2016,Oklahoma,Mayes,1,0,1,Mayes
+10/13/2016,Mississippi,Copiah,0,0,0,Copiah
+10/13/2016,Texas,Harris,0,1,1,Harris
+10/14/2016,Georgia,Rockdale,0,0,0,Rockdale
+10/14/2016,Alabama,Marshall,0,0,0,Marshall
+10/14/2016,Michigan,Gratiot,0,0,0,Gratiot
+10/14/2016,Virginia,Stafford,0,0,0,Stafford
+10/15/2016,Michigan,Midland,0,1,1,Midland
+10/15/2016,Arkansas,Drew,0,1,1,Drew
+10/15/2016,North Carolina,Bladen,2,0,2,Bladen
+10/15/2016,Florida,Indian River,1,0,1,Indian River
+10/15/2016,Michigan,Saginaw,0,0,0,Saginaw
+10/15/2016,South Carolina,Charleston,1,0,1,Charleston
+10/15/2016,Alabama,Jefferson,0,1,1,Jefferson
+10/15/2016,Virginia,Louisa,0,0,0,Louisa
+10/16/2016,Virginia,Fairfax,0,1,1,Fairfax
+10/16/2016,Kentucky,Bullitt,0,0,0,Bullitt
+10/16/2016,Louisiana,Cameron Parish,0,0,0,Cameron Parish
+10/16/2016,Kansas,Cowley,0,1,1,Cowley
+10/17/2016,Arkansas,Baxter,0,0,0,Baxter
+10/17/2016,Mississippi,Jones,0,0,0,Jones
+10/17/2016,North Carolina,Wayne,1,0,1,Wayne
+10/17/2016,Arkansas,Jefferson,0,1,1,Jefferson
+10/18/2016,Tennessee,Rutherford,0,0,0,Rutherford
+10/18/2016,Tennessee,Wilson,0,1,1,Wilson
+10/18/2016,North Carolina,Rutherford,1,0,1,Rutherford
+10/18/2016,Virginia,Botetourt,0,0,0,Botetourt
+10/18/2016,Mississippi,Forrest,0,0,0,Forrest
+10/19/2016,North Carolina,Bladen,0,0,0,Bladen
+10/19/2016,California,Kings,0,1,1,Kings
+10/19/2016,West Virginia,Wayne,0,0,0,Wayne
+10/19/2016,California,Modoc,1,1,2,Modoc
+10/19/2016,Florida,Okeechobee,0,0,0,Okeechobee
+10/19/2016,New York,Orange,0,0,0,Orange
+10/20/2016,Virginia,Henrico,0,0,0,Henrico
+10/20/2016,Texas,Kaufman,0,1,1,Kaufman
+10/21/2016,North Carolina,Buncombe,0,1,1,Buncombe
+10/21/2016,Tennessee,Lawrence,0,0,0,Lawrence
+10/21/2016,Michigan,Charlevoix,0,1,1,Charlevoix
+10/22/2016,Georgia,Toombs,1,0,1,Toombs
+10/22/2016,South Carolina,Beaufort,0,1,1,Beaufort
+10/22/2016,North Carolina,Wayne,1,0,1,Wayne
+10/22/2016,West Virginia,Logan,0,0,0,Logan
+10/23/2016,North Dakota,Morton,0,1,1,Morton
+10/24/2016,Alabama,Jefferson,0,0,0,Jefferson
+10/24/2016,Alabama,Crenshaw,1,1,2,Crenshaw
+10/24/2016,New York,Greene,0,0,0,Greene
+10/24/2016,Tennessee,Dickson,0,0,0,Dickson
+10/24/2016,Colorado,El Paso,0,1,1,El Paso
+10/25/2016,Tennessee,Cocke,0,0,0,Cocke
+10/25/2016,Idaho,Jefferson,0,2,2,Jefferson
+10/25/2016,North Carolina,Pitt,0,0,0,Pitt
+10/25/2016,Georgia,Carroll,0,0,0,Carroll
+10/26/2016,Virginia,Henrico,0,0,0,Henrico
+10/26/2016,Alabama,Cullman,0,1,1,Cullman
+10/26/2016,Alabama,Jefferson,1,0,1,Jefferson
+10/26/2016,Arizona,Yavapai,1,0,1,Yavapai
+10/26/2016,Michigan,Bay,0,1,1,Bay
+10/27/2016,North Dakota,Morton,0,0,0,Morton
+10/27/2016,North Carolina,Wayne,0,1,1,Wayne
+10/27/2016,Texas,Angelina,0,0,0,Angelina
+10/27/2016,Florida,Orange,0,0,0,Orange
+10/27/2016,Florida,Hernando,0,1,1,Hernando
+10/28/2016,Minnesota,Traverse,1,0,1,Traverse
+10/28/2016,West Virginia,Kanawha,2,0,2,Kanawha
+10/28/2016,South Carolina,Colleton,2,0,2,Colleton
+10/28/2016,West Virginia,Marion,0,0,0,Marion
+10/29/2016,Virginia,Chesterfield,0,0,0,Chesterfield
+10/29/2016,South Carolina,Sumter,0,1,1,Sumter
+10/29/2016,West Virginia,Preston,0,2,2,Preston
+10/30/2016,California,Sacramento,0,0,0,Sacramento
+10/30/2016,Georgia,Gwinnett,0,1,1,Gwinnett
+10/30/2016,California,Stanislaus,0,1,1,Stanislaus
+10/30/2016,Arkansas,Mississippi,0,0,0,Mississippi
+10/31/2016,South Carolina,Horry,0,1,1,Horry
+10/31/2016,Arkansas,Polk,0,1,1,Polk
+10/31/2016,Arkansas,Sebastian,0,1,1,Sebastian
+10/31/2016,Georgia,Fulton,0,1,1,Fulton
+11/1/2016,West Virginia,Harrison,0,0,0,Harrison
+11/2/2016,California,Los Angeles,0,0,0,Los Angeles
+11/2/2016,Mississippi,Lee,0,1,1,Lee
+11/2/2016,South Carolina,Horry,0,1,1,Horry
+11/2/2016,Mississippi,Lamar,1,0,1,Lamar
+11/2/2016,Texas,Upshur,0,1,1,Upshur
+11/3/2016,California,Los Angeles,0,1,1,Los Angeles
+11/3/2016,South Carolina,Richland,1,0,1,Richland
+11/3/2016,Ohio,Warren,1,0,1,Warren
+11/3/2016,Texas,Titus,0,1,1,Titus
+11/4/2016,Texas,Grimes,1,0,1,Grimes
+11/4/2016,Virginia,Rockbridge,0,0,0,Rockbridge
+11/6/2016,Virginia,Henrico,0,1,1,Henrico
+11/6/2016,Tennessee,Shelby,0,0,0,Shelby
+11/6/2016,Arizona,Pinal,0,1,1,Pinal
+11/6/2016,South Carolina,Richland,0,1,1,Richland
+11/6/2016,Michigan,Wexford,0,1,1,Wexford
+11/6/2016,South Carolina,Berkeley,0,1,1,Berkeley
+11/7/2016,Delaware,New Castle,0,0,0,New Castle
+11/7/2016,West Virginia,Fayette,1,0,1,Fayette
+11/8/2016,South Carolina,Antreville,1,0,1,Antreville
+11/8/2016,Michigan,Muskegon,1,0,1,Muskegon
+11/8/2016,Virginia,Stafford,1,0,1,Stafford
+11/8/2016,California,Kings,0,0,0,Kings
+11/8/2016,California,Los Angeles,1,0,1,Los Angeles
+11/9/2016,West Virginia,Jefferson,0,0,0,Jefferson
+11/9/2016,South Carolina,Horry,0,0,0,Horry
+11/9/2016,West Virginia,Harrison,0,0,0,Harrison
+11/9/2016,Florida,Marion,0,0,0,Marion
+11/10/2016,Minnesota,Beltrami,0,0,0,Beltrami
+11/10/2016,Iowa,Madison,0,1,1,Madison
+11/10/2016,California,Humboldt,0,0,0,Humboldt
+11/10/2016,Arkansas,Pulaski,1,0,1,Pulaski
+11/11/2016,Georgia,Dekalb,0,2,2,Dekalb
+11/11/2016,Colorado,Montrose,1,1,2,Montrose
+11/11/2016,Colorado,Boulder,0,0,0,Boulder
+11/11/2016,Virginia,Albemarle,0,1,1,Albemarle
+11/11/2016,Wisconsin,Oconto,0,1,1,Oconto
+11/11/2016,California,Riverside,1,0,1,Riverside
+11/12/2016,Tennessee,Bradley,0,0,0,Bradley
+11/12/2016,Kansas,Cheyenne,0,0,0,Cheyenne
+11/12/2016,Illinois,Winnebago,0,0,0,Winnebago
+11/12/2016,Minnesota,Douglas,0,1,1,Douglas
+11/13/2016,Missouri,Douglas,0,1,1,Douglas
+11/13/2016,Colorado,Park,1,0,1,Park
+11/13/2016,Colorado,Mesa,0,0,0,Mesa
+11/13/2016,Georgia,Jasper,1,0,1,Jasper
+11/13/2016,Florida,Osceola,0,0,0,Osceola
+11/14/2016,Georgia,Bartow,0,0,0,Bartow
+11/14/2016,South Carolina,Orangeburg,0,0,0,Orangeburg
+11/14/2016,Kentucky,Daviess,1,0,1,Daviess
+11/14/2016,Kansas,Pratt,0,0,0,Pratt
+11/15/2016,Montana,Park,1,0,1,Park
+11/15/2016,Florida,Saint Lucie,0,0,0,Saint Lucie
+11/15/2016,Michigan,Alcona,0,1,1,Alcona
+11/15/2016,West Virginia,Kanawha,0,1,1,Kanawha
+11/15/2016,New Mexico,Chaves,0,0,0,Chaves
+11/15/2016,Oklahoma,Creek,2,0,2,Creek
+11/16/2016,Washington,Cowlitz,0,0,0,Cowlitz
+11/16/2016,North Carolina,Lenoir,0,0,0,Lenoir
+11/16/2016,West Virginia,Pendleton,0,0,0,Pendleton
+11/16/2016,South Carolina,Richland,0,1,1,Richland
+11/16/2016,Mississippi,Marion,0,1,1,Marion
+11/16/2016,Alabama,Macon,0,0,0,Macon
+11/16/2016,Florida,Santa Rosa,0,0,0,Santa Rosa
+11/17/2016,Florida,Jackson,0,0,0,Jackson
+11/17/2016,Illinois,Kankakee,1,0,1,Kankakee
+11/17/2016,Oregon,Marion,0,0,0,Marion
+11/17/2016,Colorado,Mesa,0,0,0,Mesa
+11/18/2016,South Carolina,Richland,0,1,1,Richland
+11/18/2016,Michigan,Lake,1,1,2,Lake
+11/18/2016,Ohio,Preble,0,1,1,Preble
+11/19/2016,South Carolina,Berkeley,0,0,0,Berkeley
+11/19/2016,New York,Schuyler,0,1,1,Schuyler
+11/19/2016,Georgia,Dougherty,0,0,0,Dougherty
+11/19/2016,Florida,Palm Beach,0,3,3,Palm Beach
+11/19/2016,Texas,Harris,0,1,1,Harris
+11/19/2016,Washington,Yakima,1,0,1,Yakima
+11/20/2016,South Carolina,Richland,0,1,1,Richland
+11/20/2016,South Carolina,Darlington,0,3,3,Darlington
+11/20/2016,Virginia,Dinwiddie,1,0,1,Dinwiddie
+11/20/2016,California,Fresno,0,1,1,Fresno
+11/20/2016,Tennessee,Robertson,0,0,0,Robertson
+11/20/2016,Alabama,Randolph,2,1,3,Randolph
+11/21/2016,Virginia,Henrico,1,0,1,Henrico
+11/22/2016,Arkansas,Searcy,1,0,1,Searcy
+11/23/2016,Virginia,Henrico,1,0,1,Henrico
+11/23/2016,Florida,Pinellas,0,0,0,Pinellas
+11/23/2016,Texas,Bandera,0,1,1,Bandera
+11/23/2016,Georgia,Burke,0,1,1,Burke
+11/23/2016,Minnesota,Olmsted,0,0,0,Olmsted
+11/23/2016,Virginia,Henrico,0,0,0,Henrico
+11/24/2016,Georgia,Carroll,0,0,0,Carroll
+11/24/2016,Florida,Levy,1,0,1,Levy
+11/25/2016,Virginia,Caroline,0,1,1,Caroline
+11/25/2016,California,Ventura,0,0,0,Ventura
+11/26/2016,Maryland,Cecil,0,1,1,Cecil
+11/26/2016,Michigan,Branch,1,0,1,Branch
+11/27/2016,Mississippi,Lamar,0,1,1,Lamar
+11/27/2016,South Carolina,Marlboro,1,0,1,Marlboro
+11/28/2016,Ohio,Mahoning,0,0,0,Mahoning
+11/28/2016,West Virginia,Nicholas,1,0,1,Nicholas
+11/28/2016,Tennessee,Hamilton,0,0,0,Hamilton
+11/28/2016,Georgia,Gwinnett,1,0,1,Gwinnett
+11/28/2016,Mississippi,Rankin,0,0,0,Rankin
+11/28/2016,Tennessee,Davidson,0,0,0,Davidson
+11/29/2016,Delaware,New Castle,0,0,0,New Castle
+11/29/2016,Virginia,Chesterfield,0,1,1,Chesterfield
+11/29/2016,Kentucky,Todd,0,0,0,Todd
+11/30/2016,Kansas,Cheyenne,0,1,1,Cheyenne
+11/30/2016,Oklahoma,Pontotoc,0,1,1,Pontotoc
+11/30/2016,Florida,Palm Beach,0,1,1,Palm Beach
+11/30/2016,California,San Diego,0,0,0,San Diego
+12/1/2016,Ohio,Ross,0,0,0,Ross
+12/1/2016,Georgia,Floyd,0,0,0,Floyd
+12/1/2016,Maine,Hancock,0,0,0,Hancock
+12/1/2016,West Virginia,Ohio,0,0,0,Ohio
+12/1/2016,Missouri,Barry,0,0,0,Barry
+12/1/2016,Ohio,Tuscarawas,0,0,0,Tuscarawas
+12/2/2016,Virginia,Henrico,1,0,1,Henrico
+12/2/2016,Michigan,Isabella,0,1,1,Isabella
+12/2/2016,Virginia,Charlotte,1,0,1,Charlotte
+12/2/2016,Virginia,Bedford,0,0,0,Bedford
+12/2/2016,North Carolina,Wake,0,0,0,Wake
+12/3/2016,Michigan,Gratiot,0,1,1,Gratiot
+12/3/2016,North Carolina,Davidson,0,1,1,Davidson
+12/3/2016,Florida,Calhoun,0,2,2,Calhoun
+12/3/2016,Georgia,Toombs,0,1,1,Toombs
+12/3/2016,South Carolina,Orangeburg,0,1,1,Orangeburg
+12/3/2016,Alabama,Lowndes,1,0,1,Lowndes
+12/4/2016,Georgia,Haralson,0,1,1,Haralson
+12/4/2016,Mississippi,Lauderdale,1,0,1,Lauderdale
+12/4/2016,South Carolina,Orangeburg,0,2,2,Orangeburg
+12/5/2016,Indiana,Kosciusko,0,0,0,Kosciusko
+12/5/2016,Colorado,Adams,0,0,0,Adams
+12/5/2016,Michigan,Midland,2,0,2,Midland
+12/5/2016,New Mexico,Taos,0,0,0,Taos
+12/5/2016,Florida,Holmes,0,0,0,Holmes
+12/6/2016,Virginia,Henrico,0,1,1,Henrico
+12/6/2016,Georgia,Gwinnett,1,0,1,Gwinnett
+12/7/2016,California,Humboldt,0,0,0,Humboldt
+12/7/2016,Georgia,Floyd,0,0,0,Floyd
+12/7/2016,Georgia,Oconee,0,1,1,Oconee
+12/7/2016,Tennessee,Bradley,0,1,1,Bradley
+12/8/2016,South Carolina,Lexington,0,1,1,Lexington
+12/9/2016,South Carolina,Sumter,0,1,1,Sumter
+12/9/2016,Mississippi,Desoto,0,1,1,Desoto
+12/9/2016,Oklahoma,Pittsburg,0,1,1,Pittsburg
+12/9/2016,Alabama,Montgomery,0,1,1,Montgomery
+12/10/2016,Minnesota,Mower,0,0,0,Mower
+12/10/2016,South Carolina,Richland,0,1,1,Richland
+12/10/2016,South Carolina,Richland,0,1,1,Richland
+12/11/2016,Washington,Grant,0,0,0,Grant
+12/11/2016,Texas,Harris,0,0,0,Harris
+12/11/2016,Texas,Grimes,1,0,1,Grimes
+12/11/2016,Washington,Thurston,0,0,0,Thurston
+12/11/2016,Texas,Marion,0,0,0,Marion
+12/12/2016,Georgia,Thomas,1,0,1,Thomas
+12/13/2016,Alabama,Tuscaloosa,0,0,0,Tuscaloosa
+12/13/2016,South Carolina,Darlington,0,0,0,Darlington
+12/13/2016,Tennessee,Rutherford,0,0,0,Rutherford
+12/13/2016,Georgia,Oconee,0,0,0,Oconee
+12/13/2016,South Dakota,Brookings,0,1,1,Brookings
+12/13/2016,Mississippi,Hancock,0,1,1,Hancock
+12/14/2016,Georgia,Clayton,0,1,1,Clayton
+12/14/2016,South Carolina,Pickens,1,0,1,Pickens
+12/14/2016,Georgia,Coweta,0,1,1,Coweta
+12/14/2016,Alabama,Shelby,1,0,1,Shelby
+12/15/2016,Mississippi,Lauderdale,0,1,1,Lauderdale
+12/15/2016,Arkansas,Clark,0,0,0,Clark
+12/15/2016,Alabama,Mobile,2,0,2,Mobile
+12/15/2016,Georgia,Madison,0,0,0,Madison
+12/16/2016,California,Tehama,0,0,0,Tehama
+12/16/2016,North Dakota,Williams,0,0,0,Williams
+12/17/2016,Alabama,Elmore,1,0,1,Elmore
+12/17/2016,South Carolina,York,0,1,1,York
+12/17/2016,California,Humboldt,1,0,1,Humboldt
+12/18/2016,Florida,Flagler,0,1,1,Flagler
+12/18/2016,Virginia,Chesterfield,0,1,1,Chesterfield
+12/19/2016,Arkansas,Miller,1,0,1,Miller
+12/19/2016,Texas,Medina,0,1,1,Medina
+12/19/2016,Mississippi,Desoto,1,0,1,Desoto
+12/19/2016,Virginia,Stafford,0,0,0,Stafford
+12/19/2016,California,Tehama,0,0,0,Tehama
+12/19/2016,California,San Joaquin,1,0,1,San Joaquin
+12/19/2016,New York,Monroe,0,0,0,Monroe
+12/20/2016,Arkansas,Randolph,0,0,0,Randolph
+12/20/2016,Virginia,York,0,0,0,York
+12/20/2016,Virginia,Henrico,0,0,0,Henrico
+12/20/2016,Ohio,Gallia,0,1,1,Gallia
+12/21/2016,Louisiana,Acadia,0,0,0,Acadia
+12/21/2016,West Virginia,Kanawha,0,1,1,Kanawha
+12/21/2016,Virginia,Washington,0,0,0,Washington
+12/21/2016,Illinois,Lee,0,0,0,Lee
+12/21/2016,Kansas,Ellsworth,0,0,0,Ellsworth
+12/21/2016,Georgia,Coweta,0,1,1,Coweta
+12/22/2016,Alabama,Geneva,1,0,1,Geneva
+12/22/2016,Alabama,Macon,0,0,0,Macon
+12/22/2016,North Carolina,Union,1,0,1,Union
+12/22/2016,Georgia,Cobb,0,1,1,Cobb
+12/23/2016,Georgia,Gwinnett,0,0,0,Gwinnett
+12/23/2016,Mississippi,Leake,1,0,1,Leake
+12/24/2016,North Carolina,Gaston,0,0,0,Gaston
+12/24/2016,Texas,Hays,1,0,1,Hays
+12/24/2016,Georgia,Dekalb,1,0,1,Dekalb
+12/25/2016,North Carolina,Carteret,0,1,1,Carteret
+12/25/2016,Tennessee,Henderson,1,0,1,Henderson
+12/26/2016,Texas,Brazos,1,0,1,Brazos
+12/26/2016,Virginia,Louisa,0,1,1,Louisa
+12/26/2016,North Carolina,Sampson,0,0,0,Sampson
+12/27/2016,Florida,Escambia,0,0,0,Escambia
+12/27/2016,Virginia,Stafford,0,2,2,Stafford
+12/27/2016,Ohio,Wayne,0,1,1,Wayne
+12/27/2016,Oklahoma,Choctaw,0,0,0,Choctaw
+12/28/2016,Indiana,Randolph,0,0,0,Randolph
+12/28/2016,Virginia,Washington,0,1,1,Washington
+12/28/2016,Florida,Orange,0,0,0,Orange
+12/28/2016,North Carolina,Bladen,0,0,0,Bladen
+12/28/2016,Texas,Hunt,0,0,0,Hunt
+12/28/2016,Florida,Columbia,0,0,0,Columbia
+12/28/2016,Wisconsin,Clark,0,0,0,Clark
+12/28/2016,Texas,Walker,0,0,0,Walker
+12/29/2016,Alabama,Shelby,0,0,0,Shelby
+12/29/2016,Mississippi,Lauderdale,0,0,0,Lauderdale
+12/29/2016,Illinois,Williamson,0,3,3,Williamson
+12/29/2016,North Carolina,Durham,0,1,1,Durham
+12/29/2016,Mississippi,Leake,1,0,1,Leake
+12/29/2016,Georgia,Henry,0,0,0,Henry
+12/29/2016,Indiana,Carroll,0,0,0,Carroll
+12/30/2016,Georgia,Webster,1,0,1,Webster
+12/30/2016,Mississippi,Harrison,0,0,0,Harrison
+12/30/2016,South Carolina,Richland,0,1,1,Richland
+12/30/2016,South Carolina,Beaufort,0,0,0,Beaufort
+12/31/2016,North Carolina,Rowan,1,0,1,Rowan
+12/31/2016,North Carolina,Burke,0,1,1,Burke
+12/31/2016,California,Monterey,1,0,1,Monterey
+12/31/2016,North Carolina,Pitt,0,1,1,Pitt
+1/1/2017,Florida,Marion,0,1,1,Marion
+1/1/2017,West Virginia,Harrison,0,0,0,Harrison
+1/1/2017,Kentucky,Wolfe,0,0,0,Wolfe
+1/1/2017,North Dakota,Mclean,0,0,0,Mclean
+1/1/2017,West Virginia,Hancock,0,0,0,Hancock
+1/1/2017,Texas,Bowie,0,0,0,Bowie
+1/1/2017,Arkansas,Bradley,0,0,0,Bradley
+1/1/2017,Indiana,La Porte,0,0,0,La Porte
+1/2/2017,North Carolina,Guilford,0,0,0,Guilford
+1/2/2017,Tennessee,Hamilton,0,1,1,Hamilton
+1/2/2017,Kentucky,Calloway,0,0,0,Calloway
+1/3/2017,Virginia,Carroll,0,1,1,Carroll
+1/4/2017,Oklahoma,Washington,0,0,0,Washington
+1/4/2017,Indiana,Crawford,1,0,1,Crawford
+1/4/2017,Kentucky,Trigg,0,1,1,Trigg
+1/4/2017,Georgia,Bartow,0,1,1,Bartow
+1/4/2017,Georgia,Bartow,0,1,1,Bartow
+1/5/2017,New York,Ontario,0,0,0,Ontario
+1/6/2017,California,San Bernardino,0,0,0,San Bernardino
+1/7/2017,Florida,Monroe,0,0,0,Monroe
+1/7/2017,California,Fresno,1,0,1,Fresno
+1/8/2017,California,Contra Costa,0,0,0,Contra Costa
+1/8/2017,Florida,Jackson,0,0,0,Jackson
+1/9/2017,Ohio,Scioto,1,0,1,Scioto
+1/9/2017,Virginia,Washington,1,0,1,Washington
+1/10/2017,Texas,Webb,1,0,1,Webb
+1/10/2017,Illinois,Kankakee,0,0,0,Kankakee
+1/10/2017,Florida,Sumter,0,1,1,Sumter
+1/11/2017,Ohio,Ashtabula,0,0,0,Ashtabula
+1/11/2017,Florida,Jackson,0,0,0,Jackson
+1/12/2017,Florida,Jackson,0,0,0,Jackson
+1/12/2017,Ohio,Franklin,0,0,0,Franklin
+1/13/2017,Alabama,Montgomery,0,0,0,Montgomery
+1/14/2017,Georgia,Forsyth,0,1,1,Forsyth
+1/14/2017,South Carolina,Union,0,1,1,Union
+1/15/2017,Texas,Hill,0,0,0,Hill
+1/15/2017,Michigan,Cass,0,1,1,Cass
+1/16/2017,Georgia,Walton,0,0,0,Walton
+1/16/2017,Delaware,Kent,0,1,1,Kent
+1/16/2017,Montana,Lincoln,1,0,1,Lincoln
+1/17/2017,Indiana,Marshall,0,0,0,Marshall
+1/17/2017,Louisiana,Bossier,0,0,0,Bossier
+1/18/2017,South Carolina,Berkeley,0,1,1,Berkeley
+1/18/2017,Virginia,Henrico,1,0,1,Henrico
+1/18/2017,Tennessee,Washington,0,1,1,Washington
+1/19/2017,California,Los Angeles,0,1,1,Los Angeles
+1/19/2017,South Carolina,Jasper,1,0,1,Jasper
+1/19/2017,Florida,Liberty,0,0,0,Liberty
+1/20/2017,Florida,Palm Beach,1,0,1,Palm Beach
+1/20/2017,West Virginia,Berkeley,0,0,0,Berkeley
+1/20/2017,Michigan,Oakland,0,0,0,Oakland
+1/20/2017,South Carolina,Orangeburg,0,0,0,Orangeburg
+1/20/2017,Kentucky,Ohio,0,0,0,Ohio
+1/21/2017,Oklahoma,Haskell,0,1,1,Haskell
+1/21/2017,Tennessee,Lewis,1,0,1,Lewis
+1/21/2017,Arkansas,Faulkner,0,0,0,Faulkner
+1/21/2017,Georgia,Gilmer,1,0,1,Gilmer
+1/22/2017,Virginia,Stafford,1,0,1,Stafford
+1/22/2017,Florida,Jackson,0,0,0,Jackson
+1/22/2017,North Carolina,Caswell,0,1,1,Caswell
+1/23/2017,Texas,Brazos,0,1,1,Brazos
+1/25/2017,Texas,Bexar,0,0,0,Bexar
+1/26/2017,California,San Bernardino,0,1,1,San Bernardino
+1/26/2017,Florida,Pasco,0,0,0,Pasco
+1/26/2017,Illinois,Jefferson,0,0,0,Jefferson
+1/27/2017,Alabama,Limestone,0,0,0,Limestone
+1/27/2017,South Carolina,Richland,0,0,0,Richland
+1/27/2017,Texas,Montgomery,0,0,0,Montgomery
+1/28/2017,California,Sacramento,0,2,2,Sacramento
+1/29/2017,North Carolina,Haywood,1,0,1,Haywood
+1/29/2017,Virginia,Henrico,0,1,1,Henrico
+1/31/2017,Michigan,Grand Traverse,0,0,0,Grand Traverse
+1/31/2017,Kentucky,Mccracken,0,1,1,Mccracken
+1/31/2017,Indiana,Greene,1,0,1,Greene
+2/1/2017,Alabama,Lauderdale,0,1,1,Lauderdale
+2/1/2017,West Virginia,Taylor,0,0,0,Taylor
+2/1/2017,Florida,Jackson,0,0,0,Jackson
+2/1/2017,California,Placer,0,0,0,Placer
+2/1/2017,Virginia,Roanoke,0,0,0,Roanoke
+2/1/2017,Alabama,Lawrence,0,0,0,Lawrence
+2/1/2017,Illinois,Kendall,0,0,0,Kendall
+2/1/2017,South Carolina,Berkeley,0,1,1,Berkeley
+2/1/2017,South Carolina,Dillon,0,1,1,Dillon
+2/1/2017,Alabama,Calhoun,0,0,0,Calhoun
+2/3/2017,Texas,Kaufman,1,0,1,Kaufman
+2/3/2017,Ohio,Mahoning,0,0,0,Mahoning
+2/3/2017,Illinois,Monroe,0,0,0,Monroe
+2/4/2017,Maryland,Anne Arundel,0,1,1,Anne Arundel
+2/4/2017,Florida,Volusia,0,0,0,Volusia
+2/4/2017,California,Stanislaus,0,0,0,Stanislaus
+2/4/2017,California,Stanislaus,0,0,0,Stanislaus
+2/4/2017,Washington,Pierce,1,0,1,Pierce
+2/5/2017,California,Los Angeles,1,1,2,Los Angeles
+2/5/2017,Indiana,Kosciusko,0,0,0,Kosciusko
+2/6/2017,Michigan,Gladwin,0,0,0,Gladwin
+2/7/2017,South Carolina,Beaufort,0,1,1,Beaufort
+2/7/2017,Virginia,Tazewell,1,0,1,Tazewell
+2/7/2017,California,Humboldt,0,0,0,Humboldt
+2/7/2017,North Carolina,Stokes,1,0,1,Stokes
+2/7/2017,Texas,Angelina,0,0,0,Angelina
+2/7/2017,Illinois,Champaign,0,1,1,Champaign
+2/9/2017,Colorado,Montrose,0,0,0,Montrose
+2/9/2017,Michigan,Saginaw,0,1,1,Saginaw
+2/10/2017,California,Tehama,0,0,0,Tehama
+2/10/2017,Indiana,Kosciusko,0,0,0,Kosciusko
+2/10/2017,Texas,Grimes,1,0,1,Grimes
+2/11/2017,Indiana,Dubois,0,0,0,Dubois
+2/11/2017,Texas,Callahan,0,0,0,Callahan
+2/12/2017,Indiana,Bartholomew,0,1,1,Bartholomew
+2/12/2017,Indiana,Vanderburgh,0,0,0,Vanderburgh
+2/12/2017,Virginia,Greensville,0,1,1,Greensville
+2/14/2017,Wisconsin,Grant,0,0,0,Grant
+2/14/2017,Ohio,Clark,1,0,1,Clark
+2/14/2017,Florida,Jackson,1,0,1,Jackson
+2/16/2017,Florida,Alachua,0,0,0,Alachua
+2/17/2017,Indiana,Sullivan,0,0,0,Sullivan
+2/17/2017,South Carolina,Beaufort,0,0,0,Beaufort
+2/18/2017,Tennessee,Henry,1,0,1,Henry
+2/18/2017,Kentucky,Trigg,0,0,0,Trigg
+2/18/2017,North Carolina,Wilkes,1,0,1,Wilkes
+2/19/2017,Kentucky,Marshall,0,0,0,Marshall
+2/21/2017,Ohio,Cuyahoga,0,0,0,Cuyahoga
+2/21/2017,South Carolina,Aiken,0,0,0,Aiken
+2/22/2017,Georgia,Forsyth,0,1,1,Forsyth
+2/23/2017,South Carolina,Berkeley,0,0,0,Berkeley
+2/24/2017,Michigan,Genesee,0,0,0,Genesee
+2/25/2017,West Virginia,Kanawha,0,1,1,Kanawha
+2/25/2017,Oregon,Clackamas,0,0,0,Clackamas
+2/25/2017,Ohio,Belmont,0,1,1,Belmont
+2/26/2017,Pennsylvania,Indiana,0,0,0,Indiana
+2/26/2017,Virginia,Botetourt,0,0,0,Botetourt
+2/26/2017,South Carolina,Horry,0,1,1,Horry
+2/27/2017,Florida,Broward,0,0,0,Broward
+2/27/2017,South Carolina,Beaufort,0,1,1,Beaufort
+2/28/2017,Indiana,Johnson,0,0,0,Johnson
+2/28/2017,Louisiana,Iberville Parish,0,0,0,Iberville Parish
+2/28/2017,Mississippi,Quitman,0,1,1,Quitman
+3/1/2017,California,Riverside,0,0,0,Riverside
+3/1/2017,Kentucky,Casey,0,1,1,Casey
+3/1/2017,Illinois,Saline,0,0,0,Saline
+3/2/2017,Florida,Jackson,0,0,0,Jackson
+3/2/2017,Georgia,Forsyth,0,0,0,Forsyth
+3/3/2017,Indiana,Monroe,0,0,0,Monroe
+3/3/2017,California,Ventura,0,0,0,Ventura
+3/3/2017,Illinois,Livingston,0,0,0,Livingston
+3/3/2017,Tennessee,Henderson,1,0,1,Henderson
+3/3/2017,New York,Orange,0,0,0,Orange
+3/4/2017,Louisiana,Rapides,0,0,0,Rapides
+3/4/2017,Virginia,Henrico,0,0,0,Henrico
+3/5/2017,Ohio,Butler,0,0,0,Butler
+3/5/2017,Missouri,Cooper,1,0,1,Cooper
+3/5/2017,California,San Bernardino,0,0,0,San Bernardino
+3/5/2017,Virginia,Smyth,0,1,1,Smyth
+3/5/2017,Florida,Jackson,0,0,0,Jackson
+3/5/2017,Illinois,Marion County,0,0,0,Marion County
+3/6/2017,Virginia,Chesterfield,0,0,0,Chesterfield
+3/6/2017,Washington,Snohomish,0,1,1,Snohomish
+3/6/2017,Georgia,Bulloch,0,0,0,Bulloch
+3/6/2017,Kentucky,Henry,0,0,0,Henry
+3/8/2017,Ohio,Cuyahoga,0,0,0,Cuyahoga
+3/9/2017,California,San Diego,0,0,0,San Diego
+3/9/2017,Oklahoma,Bryan,0,0,0,Bryan
+3/9/2017,South Carolina,Darlington,0,0,0,Darlington
+3/10/2017,Florida,Jackson,0,0,0,Jackson
+3/10/2017,Texas,Potter,0,0,0,Potter
+3/10/2017,Virginia,Henrico,2,0,2,Henrico
+3/11/2017,Missouri,Maries,0,0,0,Maries
+3/11/2017,Indiana,Steuben,0,0,0,Steuben
+3/11/2017,California,Ventura,0,0,0,Ventura
+3/13/2017,Kentucky,Graves,0,0,0,Graves
+3/13/2017,Florida,Washington,0,0,0,Washington
+3/14/2017,Wisconsin,Brown,0,0,0,Brown
+3/14/2017,Tennessee,Davidson,0,0,0,Davidson
+3/16/2017,Michigan,Chippewa,0,0,0,Chippewa
+3/18/2017,South Carolina,Berkeley,0,0,0,Berkeley
+3/18/2017,Pennsylvania,Westmoreland,0,0,0,Westmoreland
+3/19/2017,South Dakota,Charles Mix,1,0,1,Charles Mix
+3/19/2017,Tennessee,Stewart,0,0,0,Stewart
+3/19/2017,Tennessee,Stewart,0,0,0,Stewart
+3/19/2017,South Carolina,Beaufort,0,0,0,Beaufort
+3/20/2017,Florida,Broward,0,0,0,Broward
+3/20/2017,Maryland,Frederick,0,1,1,Frederick
+3/20/2017,Kentucky,Grayson,0,1,1,Grayson
+3/21/2017,Tennessee,Sullivan,0,0,0,Sullivan
+3/21/2017,Georgia,Washington,0,0,0,Washington
+3/22/2017,Ohio,Summit,0,0,0,Summit
+3/22/2017,Virginia,Henrico,0,2,2,Henrico
+3/22/2017,Nebraska,Sarpy,0,0,0,Sarpy
+3/22/2017,Illinois,Kankakee,0,0,0,Kankakee
+3/23/2017,Washington,Pierce,0,2,2,Pierce
+3/24/2017,Georgia,Henry,1,0,1,Henry
+3/25/2017,California,Los Angeles,1,0,1,Los Angeles
+3/26/2017,Texas,Brazoria,1,0,1,Brazoria
+3/26/2017,Florida,Jackson,0,0,0,Jackson
+3/26/2017,Kentucky,Franklin,0,0,0,Franklin
+3/27/2017,Florida,Broward,0,0,0,Broward
+3/27/2017,Virginia,Stafford,0,0,0,Stafford
+3/27/2017,Missouri,Barry,0,0,0,Barry
+3/28/2017,Florida,Jackson,0,0,0,Jackson
+3/28/2017,North Carolina,Hoke,1,0,1,Hoke
+3/28/2017,California,Sacramento,1,0,1,Sacramento
+3/28/2017,California,Kern,1,0,1,Kern
+3/29/2017,Kentucky,Lewis,1,0,1,Lewis
+3/29/2017,North Carolina,Gaston,1,0,1,Gaston
+3/29/2017,Florida,Jackson,0,0,0,Jackson
+3/29/2017,North Dakota,Ward,0,1,1,Ward
+3/30/2017,Virginia,Greene,0,1,1,Greene
+3/30/2017,New Jersey,Morris,0,0,0,Morris
+4/1/2017,Ohio,Cuyahoga,0,0,0,Cuyahoga
+4/2/2017,Tennessee,Grundy,0,0,0,Grundy
+4/3/2017,Ohio,Knox,1,0,1,Knox
+4/3/2017,West Virginia,Raleigh,2,0,2,Raleigh
+4/3/2017,Georgia,Fulton,0,0,0,Fulton
+4/4/2017,Texas,Harris,0,0,0,Harris
+4/4/2017,Mississippi,Kemper,0,0,0,Kemper
+4/4/2017,Texas,Harrison,0,0,0,Harrison
+4/4/2017,Florida,Jackson,0,0,0,Jackson
+4/4/2017,Kentucky,Graves,0,0,0,Graves
+4/5/2017,Tennessee,Wilson,0,0,0,Wilson
+4/5/2017,West Virginia,Mason,0,1,1,Mason
+4/5/2017,Washington,Clark,0,0,0,Clark
+4/6/2017,Michigan,Grand Traverse,0,0,0,Grand Traverse
+4/6/2017,Ohio,Champaign,0,1,1,Champaign
+4/6/2017,Kentucky,Marshall,0,0,0,Marshall
+4/6/2017,Wyoming,Natrona,0,0,0,Natrona
+4/6/2017,Texas,Taylor,0,0,0,Taylor
+4/7/2017,Georgia,Crawford,1,0,1,Crawford
+4/8/2017,Kentucky,Graves,0,0,0,Graves
+4/9/2017,Florida,Jackson,0,0,0,Jackson
+4/10/2017,West Virginia,Lincoln,0,0,0,Lincoln
+4/10/2017,Florida,Jackson,0,0,0,Jackson
+4/10/2017,Mississippi,Wayne,1,0,1,Wayne
+4/11/2017,Mississippi,Jones,0,0,0,Jones
+4/11/2017,South Carolina,Pickens,0,1,1,Pickens
+4/11/2017,Mississippi,Jasper,0,0,0,Jasper
+4/12/2017,Mississippi,Washington,0,0,0,Washington
+4/12/2017,Kansas,Butler,1,0,1,Butler
+4/12/2017,Mississippi,Tippah,1,0,1,Tippah
+4/13/2017,North Carolina,Columbus,0,1,1,Columbus
+4/13/2017,South Carolina,Beaufort,0,1,1,Beaufort
+4/13/2017,California,Placer,1,0,1,Placer
+4/15/2017,Colorado,Elbert,0,0,0,Elbert
+4/16/2017,Florida,Jackson,0,0,0,Jackson
+4/17/2017,Florida,Jackson,0,0,0,Jackson
+4/17/2017,Oklahoma,Seminole,1,0,1,Seminole
+4/17/2017,Kansas,Shawnee,0,0,0,Shawnee
+4/17/2017,Mississippi,Chickasaw,0,1,1,Chickasaw
+4/18/2017,Florida,Clay,0,0,0,Clay
+4/19/2017,South Carolina,Lexington,0,0,0,Lexington
+4/19/2017,North Carolina,Brunswick,0,0,0,Brunswick
+4/19/2017,Kentucky,Daviess,0,1,1,Daviess
+4/19/2017,South Carolina,York,0,0,0,York
+4/20/2017,Alabama,Blount,0,1,1,Blount
+4/20/2017,Texas,Smith,0,0,0,Smith
+4/20/2017,South Carolina,Lexington,0,0,0,Lexington
+4/20/2017,Tennessee,Davidson,0,0,0,Davidson
+4/22/2017,South Carolina,Marion,0,1,1,Marion
+4/23/2017,South Dakota,Pennington,1,0,1,Pennington
+4/23/2017,Michigan,Wexford,0,0,0,Wexford
+4/23/2017,Virginia,Campbell,0,0,0,Campbell
+4/23/2017,Pennsylvania,Lebanon,0,0,0,Lebanon
+4/24/2017,North Carolina,Cumberland,1,0,1,Cumberland
+4/24/2017,Hawaii,Hawaii,0,0,0,Hawaii
+4/24/2017,Tennessee,Cheatham,0,0,0,Cheatham
+4/25/2017,North Carolina,Davidson,1,0,1,Davidson
+4/26/2017,Oklahoma,Comanche,0,1,1,Comanche
+4/26/2017,Georgia,Oglethorpe,0,1,1,Oglethorpe
+4/26/2017,Ohio,Marion,1,0,1,Marion
+4/27/2017,Florida,Walton,0,0,0,Walton
+4/27/2017,Washington,Mason,0,0,0,Mason
+4/27/2017,Kansas,Barton,0,1,1,Barton
+4/27/2017,South Carolina,Orangeburg,0,0,0,Orangeburg
+4/28/2017,Ohio,Morgan,0,1,1,Morgan
+4/28/2017,North Carolina,Gaston,0,0,0,Gaston
+4/29/2017,Virginia,Fluvanna,0,1,1,Fluvanna
+4/29/2017,Oklahoma,Pittsburg,0,1,1,Pittsburg
+4/29/2017,Indiana,Shelby,0,1,1,Shelby
+4/30/2017,California,Los Angeles,1,0,1,Los Angeles
+5/1/2017,Missouri,Saint Charles,0,0,0,Saint Charles
+5/2/2017,North Carolina,Carteret,0,1,1,Carteret
+5/3/2017,Washington,Spokane,1,0,1,Spokane
+5/4/2017,Tennessee,Carter,0,0,0,Carter
+5/4/2017,Virginia,Mathews,1,1,2,Mathews
+5/4/2017,Ohio,Franklin,1,1,2,Franklin
+5/5/2017,Georgia,Richmond,0,1,1,Richmond
+5/6/2017,Alabama,Chilton,0,1,1,Chilton
+5/6/2017,Nebraska,Butler,0,1,1,Butler
+5/6/2017,Alabama,Macon,1,0,1,Macon
+5/7/2017,Florida,Orange,0,1,1,Orange
+5/7/2017,Michigan,Clare,0,0,0,Clare
+5/7/2017,Georgia,Laurens,0,1,1,Laurens
+5/8/2017,Florida,Taylor,1,0,1,Taylor
+5/8/2017,South Carolina,Berkeley,0,1,1,Berkeley
+5/8/2017,South Carolina,Horry,0,0,0,Horry
+5/9/2017,Mississippi,Alcorn,0,1,1,Alcorn
+5/9/2017,Oklahoma,Grady,0,0,0,Grady
+5/9/2017,Texas,Cherokee,0,0,0,Cherokee
+5/10/2017,Ohio,Licking,0,1,1,Licking
+5/10/2017,Virginia,Roanoke,1,0,1,Roanoke
+5/10/2017,Indiana,Parke,0,0,0,Parke
+5/11/2017,Kentucky,Greenup,0,1,1,Greenup
+5/11/2017,Indiana,Vanderburgh,0,0,0,Vanderburgh
+5/11/2017,Mississippi,Jackson,0,0,0,Jackson
+5/12/2017,Texas,Van Zandt,1,0,1,Van Zandt
+5/12/2017,Mississippi,Monroe,0,0,0,Monroe
+5/13/2017,New Mexico,Bernalillo,0,0,0,Bernalillo
+5/14/2017,West Virginia,Kanawha,0,1,1,Kanawha
+5/15/2017,Alabama,Mobile,0,0,0,Mobile
+5/16/2017,Georgia,Candler,0,0,0,Candler
+5/16/2017,Tennessee,Shelby,0,0,0,Shelby
+5/16/2017,West Virginia,Wayne,0,0,0,Wayne
+5/17/2017,Texas,Hopkins,0,0,0,Hopkins
+5/17/2017,Wyoming,Teton,0,0,0,Teton
+5/17/2017,Tennessee,Washington,0,0,0,Washington
+5/18/2017,Virginia,Spotsylvania,0,1,1,Spotsylvania
+5/20/2017,Texas,Hunt,1,0,1,Hunt
+5/20/2017,North Carolina,Nash,0,0,0,Nash
+5/21/2017,Ohio,Miami,0,0,0,Miami
+5/21/2017,Alabama,Tuscaloosa,1,0,1,Tuscaloosa
+5/21/2017,Virginia,Spotsylvania,1,0,1,Spotsylvania
+5/21/2017,Kentucky,Boyle,0,0,0,Boyle
+5/22/2017,Tennessee,McMinn,0,1,1,McMinn
+5/24/2017,Washington,Clark,0,0,0,Clark
+5/24/2017,South Carolina,York,0,1,1,York
+5/25/2017,Florida,Jackson,0,0,0,Jackson
+5/25/2017,Mississippi,Tippah,2,0,2,Tippah
+5/25/2017,Washington,Lewis,0,0,0,Lewis
+5/26/2017,Michigan,Isabella,0,0,0,Isabella
+5/26/2017,Colorado,Eagle,0,1,1,Eagle
+5/26/2017,Virginia,Henrico,0,0,0,Henrico
+5/27/2017,Oregon,Marion,0,0,0,Marion
+5/28/2017,Washington,Adams,0,0,0,Adams
+5/29/2017,Washington,Pierce,0,0,0,Pierce
+5/29/2017,Alabama,Marengo,1,0,1,Marengo
+5/30/2017,Michigan,Sanilac,0,0,0,Sanilac
+5/30/2017,West Virginia,Raleigh,1,0,1,Raleigh
+5/30/2017,North Dakota,Barnes,0,1,1,Barnes
+5/31/2017,Missouri,Cole,0,0,0,Cole
+6/2/2017,California,Tehama,0,0,0,Tehama
+6/2/2017,Arkansas,Cleburne,0,1,1,Cleburne
+6/2/2017,Ohio,Cuyahoga,0,0,0,Cuyahoga
+6/3/2017,Arkansas,Ouachita,0,0,0,Ouachita
+6/3/2017,Kansas,Brown,0,1,1,Brown
+6/3/2017,Mississippi,Tishomingo,0,1,1,Tishomingo
+6/3/2017,Alabama,Shelby,0,0,0,Shelby
+6/3/2017,Missouri,Texas,1,0,1,Texas
+6/4/2017,Georgia,Dekalb,0,1,1,Dekalb
+6/4/2017,Virginia,Fairfax,0,0,0,Fairfax
+6/4/2017,California,Butte,0,1,1,Butte
+6/5/2017,Alaska,Prince Of Wales Hyder,0,0,0,Prince Of Wales Hyder
+6/5/2017,Ohio,Cuyahoga,0,0,0,Cuyahoga
+6/5/2017,Ohio,Cuyahoga,0,0,0,Cuyahoga
+6/5/2017,Alabama,Dallas,0,1,1,Dallas
+6/5/2017,Kentucky,Daviess,0,1,1,Daviess
+6/5/2017,Washington,Spokane,0,0,0,Spokane
+6/5/2017,Illinois,Marion,0,0,0,Marion
+6/7/2017,North Carolina,Caldwell,1,0,1,Caldwell
+6/7/2017,Alabama,Jefferson,0,1,1,Jefferson
+6/8/2017,California,Fresno,1,0,1,Fresno
+6/8/2017,Michigan,Genesee,0,1,1,Genesee
+6/8/2017,Missouri,Montgomery,1,0,1,Montgomery
+6/9/2017,Ohio,Cuyahoga,0,0,0,Cuyahoga
+6/9/2017,Utah,Utah,0,0,0,Utah
+6/10/2017,South Dakota,Tripp,1,0,1,Tripp
+6/10/2017,Florida,Osceola,0,0,0,Osceola
+6/11/2017,Washington,Pierce,0,2,2,Pierce
+6/14/2017,Alaska,Prince Of Wales Hyder,0,0,0,Prince Of Wales Hyder
+6/15/2017,Georgia,Dougherty,0,1,1,Dougherty
+6/15/2017,California,Ventura,0,0,0,Ventura
+6/16/2017,Tennessee,Marion,0,1,1,Marion
+6/17/2017,South Carolina,Calhoun,0,1,1,Calhoun
+6/18/2017,Florida,Polk,0,0,0,Polk
+6/18/2017,Georgia,Oconee,0,1,1,Oconee
+6/19/2017,Mississippi,Holmes,0,0,0,Holmes
+6/19/2017,Missouri,Pemiscot,0,1,1,Pemiscot
+6/21/2017,Georgia,White,0,0,0,White
+6/24/2017,Virginia,Pulaski,0,0,0,Pulaski
+6/25/2017,California,Humboldt County,0,0,0,Humboldt County
+6/25/2017,Florida,Marion,0,0,0,Marion
+6/25/2017,California,San Joaquin County,0,0,0,San Joaquin County
+6/26/2017,Alaska,Prince Of Wales Hyder,0,0,0,Prince Of Wales Hyder
+6/26/2017,New Mexico,Taos,0,0,0,Taos
+6/28/2017,California,Humboldt,0,0,0,Humboldt
+6/28/2017,Florida,Okaloosa,0,0,0,Okaloosa
+6/29/2017,California,Humboldt County,0,0,0,Humboldt County
+6/30/2017,Delaware,New Castle,0,1,1,New Castle
+6/30/2017,Georgia,Jenkins,1,0,1,Jenkins
+7/1/2017,Colorado,Park,0,0,0,Park
+7/2/2017,Florida,Lee,0,0,0,Lee
+7/3/2017,North Carolina,Cumberland,0,3,3,Cumberland
+7/3/2017,Colorado,Mesa,0,0,0,Mesa
+7/3/2017,California,Humboldt County,0,0,0,Humboldt County
+7/5/2017,Florida,Palm Beach,1,0,1,Palm Beach
+7/5/2017,Wyoming,Teton,0,0,0,Teton
+7/6/2017,Virginia,Henrico,0,0,0,Henrico
+7/6/2017,South Dakota,Pennington,0,0,0,Pennington
+7/6/2017,California,Humboldt County,0,0,0,Humboldt County
+7/6/2017,Texas,Henderson,0,0,0,Henderson
+7/9/2017,California,Humboldt,0,0,0,Humboldt
+7/9/2017,Maryland,Baltimore,0,0,0,Baltimore
+7/10/2017,Louisiana,Grant,0,0,0,Grant
+7/10/2017,California,Humboldt,0,0,0,Humboldt
+7/12/2017,New York,Putnam,0,0,0,Putnam
+7/12/2017,South Carolina,Berkeley,1,0,1,Berkeley
+7/12/2017,North Carolina,Yancey,1,0,1,Yancey
+7/13/2017,North Carolina,Cumberland,0,0,0,Cumberland
+7/13/2017,Tennessee,Dyer,0,1,1,Dyer
+7/13/2017,California,Contra Costa,0,0,0,Contra Costa
+7/13/2017,California,Merced County,0,0,0,Merced County
+7/14/2017,California,Riverside,0,0,0,Riverside
+7/14/2017,Florida,Santa Rosa,0,0,0,Santa Rosa
+7/15/2017,Texas,Lubbock,0,0,0,Lubbock
+7/16/2017,Oklahoma,Cherokee,0,0,0,Cherokee
+7/16/2017,Tennessee,Marshall,1,0,1,Marshall
+7/16/2017,Mississippi,Panola,1,0,1,Panola
+7/16/2017,Indiana,Fayette,0,0,0,Fayette
+7/17/2017,Florida,Saint Lucie,0,0,0,Saint Lucie
+7/18/2017,South Carolina,Berkeley,0,0,0,Berkeley
+7/18/2017,South Carolina,Berkeley,0,0,0,Berkeley
+7/18/2017,North Carolina,Beaufort,0,1,1,Beaufort
+7/18/2017,Alabama,Etowah,0,0,0,Etowah
+7/18/2017,Kentucky,Graves,0,0,0,Graves
+7/19/2017,California,Trinity,0,1,1,Trinity
+7/19/2017,South Carolina,Sumter,0,1,1,Sumter
+7/20/2017,Georgia,Haralson,1,0,1,Haralson
+7/21/2017,South Carolina,Marion,0,0,0,Marion
+7/21/2017,Indiana,Shelby,0,1,1,Shelby
+7/22/2017,Indiana,Dekalb,0,1,1,Dekalb
+7/24/2017,Montana,Gallatin,0,1,1,Gallatin
+7/24/2017,California,Humboldt,0,0,0,Humboldt
+7/24/2017,Hawaii,Hawaii,0,0,0,Hawaii
+7/24/2017,Florida,Bay,0,1,1,Bay
+7/24/2017,Georgia,Chattooga,0,0,0,Chattooga
+7/24/2017,Florida,Volusia,0,0,0,Volusia
+7/25/2017,Tennessee,Madison,0,0,0,Madison
+7/25/2017,South Carolina,Orangeburg,0,1,1,Orangeburg
+7/26/2017,Florida,Lee,0,0,0,Lee
+7/26/2017,Florida,Washington,0,0,0,Washington
+7/27/2017,Washington,King,0,0,0,King
+7/27/2017,South Carolina,Marion,1,0,1,Marion
+7/30/2017,Missouri,Greene,2,0,2,Greene
+7/30/2017,Indiana,Johnson,0,0,0,Johnson
+7/31/2017,Illinois,Williamson,0,0,0,Williamson
+7/31/2017,Mississippi,Kemper,1,0,1,Kemper
+7/31/2017,Oregon,Douglas,0,0,0,Douglas
+8/2/2017,West Virginia,Marion,1,0,1,Marion
+8/3/2017,Iowa,Cerro Gordo,0,0,0,Cerro Gordo
+8/3/2017,Indiana,Vigo,1,0,1,Vigo
+8/4/2017,West Virginia,Braxton,0,0,0,Braxton
+8/4/2017,Ohio,Paulding,1,0,1,Paulding
+8/4/2017,South Carolina,Orangeburg,0,0,0,Orangeburg
+8/4/2017,Florida,Levy,1,1,2,Levy
+8/5/2017,Kentucky,Henderson,0,0,0,Henderson
+8/5/2017,Alabama,Madison,0,1,1,Madison
+8/6/2017,Texas,Smith,0,3,3,Smith
+8/6/2017,Missouri,Lincoln,0,0,0,Lincoln
+8/6/2017,Mississippi,Jones,0,1,1,Jones
+8/6/2017,Arizona,Coconino,1,0,1,Coconino
+8/6/2017,Missouri,Barton,0,1,1,Barton
+8/8/2017,Mississippi,Monroe,0,0,0,Monroe
+8/8/2017,Kentucky,Ohio,0,1,1,Ohio
+8/8/2017,Arizona,Coconino,0,0,0,Coconino
+8/10/2017,Arizona,Graham,1,0,1,Graham
+8/11/2017,New Mexico,Valencia,0,0,0,Valencia
+8/11/2017,North Carolina,Davie,0,1,1,Davie
+8/11/2017,Hawaii,Hawaii,0,0,0,Hawaii
+8/12/2017,Texas,Bexar,0,0,0,Bexar
+8/13/2017,Arizona,Graham,0,0,0,Graham
+8/14/2017,Georgia,Bibb,0,0,0,Bibb
+8/15/2017,North Carolina,Robeson,0,1,1,Robeson
+8/16/2017,Illinois,Jefferson,0,0,0,Jefferson
+8/16/2017,Georgia,Polk,0,0,0,Polk
+8/16/2017,South Carolina,Jasper,0,0,0,Jasper
+8/17/2017,Alabama,Crenshaw,1,0,1,Crenshaw
+8/17/2017,Kentucky,Owsley,0,1,1,Owsley
+8/18/2017,Mississippi,Jones,0,1,1,Jones
+8/18/2017,California,Placer,0,0,0,Placer
+8/19/2017,South Carolina,Dillon,1,1,2,Dillon
+8/19/2017,Arkansas,Searcy,1,0,1,Searcy
+8/19/2017,Alabama,Geneva,0,1,1,Geneva
+8/20/2017,Delaware,New Castle,0,0,0,New Castle
+8/20/2017,Florida,Saint Johns,0,0,0,Saint Johns
+8/21/2017,Indiana,Johnson,1,0,1,Johnson
+8/25/2017,California,Riverside,0,1,1,Riverside
+8/25/2017,Georgia,Jasper,0,0,0,Jasper
+8/25/2017,South Carolina,Beaufort,0,0,0,Beaufort
+8/26/2017,Oklahoma,Texas,1,0,1,Texas
+8/28/2017,West Virginia,Upshur,0,0,0,Upshur
+8/30/2017,New Mexico,Santa Fe,0,0,0,Santa Fe
+8/30/2017,North Carolina,Pitt,0,0,0,Pitt
+8/31/2017,California,Kern,0,0,0,Kern
+8/31/2017,Arkansas,Cleburne,1,0,1,Cleburne
+9/1/2017,Idaho,Caribou,0,0,0,Caribou
+9/1/2017,North Carolina,Pitt,0,0,0,Pitt
+9/3/2017,Georgia,Cobb,0,0,0,Cobb
+9/3/2017,Georgia,Cobb,0,0,0,Cobb
+9/3/2017,Kentucky,Calloway,0,0,0,Calloway
+9/5/2017,Iowa,Jasper,0,0,0,Jasper
+9/5/2017,Arizona,Mohave,0,0,0,Mohave
+9/5/2017,Indiana,Warren,0,0,0,Warren
+9/8/2017,California,San Diego,0,1,1,San Diego
+9/9/2017,South Carolina,Marlboro,0,1,1,Marlboro
+9/9/2017,California,Humboldt,0,0,0,Humboldt
+9/10/2017,Mississippi,Winston,0,1,1,Winston
+9/11/2017,Arizona,Pinal,1,0,1,Pinal
+9/11/2017,California,Los Angeles,1,0,1,Los Angeles
+9/11/2017,California,Shasta,0,0,0,Shasta
+9/12/2017,Louisiana,East Feliciana,0,1,1,East Feliciana
+9/13/2017,New Jersey,Monmouth,0,0,0,Monmouth
+9/15/2017,North Carolina,Wilson,0,0,0,Wilson
+9/15/2017,Oklahoma,Mcintosh,0,0,0,Mcintosh
+9/16/2017,Maryland,Wicomico,0,0,0,Wicomico
+9/18/2017,Virginia,Roanoke,0,0,0,Roanoke
+9/18/2017,California,Monterey,0,0,0,Monterey
+9/18/2017,Virginia,Henrico,0,1,1,Henrico
+9/19/2017,Arkansas,Newton,1,0,1,Newton
+9/19/2017,Mississippi,Holmes,0,0,0,Holmes
+9/20/2017,Texas,Williamson,0,0,0,Williamson
+9/20/2017,Florida,Escambia,0,0,0,Escambia
+9/20/2017,Iowa,Sioux,0,0,0,Sioux
+9/20/2017,West Virginia,Upshur,0,0,0,Upshur
+9/22/2017,California,Tehama,0,0,0,Tehama
+9/22/2017,Virginia,Gloucester,1,0,1,Gloucester
+9/22/2017,Kansas,Scott,1,0,1,Scott
+9/23/2017,Oklahoma,Ellis,0,1,1,Ellis
+9/25/2017,Virginia,Henrico,0,2,2,Henrico
+9/27/2017,Louisiana,Plaquemines,0,0,0,Plaquemines
+9/28/2017,Texas,Henderson,0,1,1,Henderson
+9/29/2017,Indiana,Floyd,0,0,0,Floyd
+9/29/2017,Indiana,Clark,0,0,0,Clark
+10/1/2017,Florida,Manatee,0,0,0,Manatee
+10/2/2017,South Carolina,Spartanburg,0,0,0,Spartanburg
+10/3/2017,Florida,Calhoun,0,1,1,Calhoun
+10/3/2017,Maine,Aroostook,0,1,1,Aroostook
+10/6/2017,Oregon,Linn,0,0,0,Linn
+10/6/2017,Maine,Oxford,0,1,1,Oxford
+10/7/2017,Nevada,Lyon,2,0,2,Lyon
+10/8/2017,West Virginia,Monroe,1,0,1,Monroe
+10/9/2017,Washington,Grant,0,0,0,Grant
+10/11/2017,Tennessee,Unicoi County,2,0,2,Unicoi County
+10/12/2017,Oklahoma,Washington,0,1,1,Washington
+10/12/2017,Mississippi,Panola,0,0,0,Panola
+10/12/2017,Iowa,Pottawattamie,0,0,0,Pottawattamie
+10/13/2017,Kentucky,Henderson,0,0,0,Henderson
+10/13/2017,Arkansas,Sebastian,0,0,0,Sebastian
+10/14/2017,New York,Cattaraugus,0,0,0,Cattaraugus
+10/15/2017,Arkansas,Pulaski,0,0,0,Pulaski
+10/15/2017,Virginia,Henrico,1,0,1,Henrico
+10/16/2017,Arkansas,Jackson,0,0,0,Jackson
+10/16/2017,Florida,Jackson,0,0,0,Jackson
+10/16/2017,Alabama,Houston,0,1,1,Houston
+10/16/2017,Alabama,Macon,2,0,2,Macon
+10/17/2017,Georgia,Pike,0,0,0,Pike
+10/18/2017,Florida,Palm Beach,0,0,0,Palm Beach
+10/18/2017,Utah,Summit,0,1,1,Summit
+10/18/2017,Missouri,Reynolds,2,1,3,Reynolds
+10/18/2017,Oklahoma,Delaware,0,1,1,Delaware
+10/19/2017,Montana,Jefferson,1,0,1,Jefferson
+10/19/2017,Wisconsin,Sawyer,0,1,1,Sawyer
+10/20/2017,Tennessee,Davidson,0,0,0,Davidson
+10/22/2017,Pennsylvania,Bedford,1,0,1,Bedford
+10/25/2017,Wisconsin,Sheboygan,0,1,1,Sheboygan
+10/27/2017,Oregon,Union,0,0,0,Union
+10/27/2017,Arkansas,Craighead,0,0,0,Craighead
+10/28/2017,Maryland,Dorchester,0,1,1,Dorchester
+10/29/2017,North Carolina,Wayne,0,1,1,Wayne
+10/30/2017,New Jersey,Burlington,0,0,0,Burlington
+10/31/2017,Virginia,Chesterfield,0,0,0,Chesterfield
+11/1/2017,Louisiana,Beauregard,0,0,0,Beauregard
+11/2/2017,Oklahoma,Pawnee,0,0,0,Pawnee
+11/3/2017,Oregon,Jackson,0,0,0,Jackson
+11/3/2017,Maryland,Montgomery County,0,0,0,Montgomery County
+11/3/2017,Kansas,Shawnee,0,0,0,Shawnee
+11/3/2017,Kansas,Shawnee,0,0,0,Shawnee
+11/4/2017,Minnesota,Redwood,0,1,1,Redwood
+11/5/2017,Mississippi,Rankin,0,0,0,Rankin
+11/6/2017,Alabama,Lawrence,0,0,0,Lawrence
+11/7/2017,Oklahoma,Rogers,0,0,0,Rogers
+11/8/2017,Oregon,Douglas,0,0,0,Douglas
+11/8/2017,Ohio,Ross,0,0,0,Ross
+11/9/2017,North Dakota,Ward,0,0,0,Ward
+11/9/2017,West Virginia,Nicholas,0,1,1,Nicholas
+11/10/2017,South Carolina,Colleton,0,1,1,Colleton
+11/10/2017,West Virginia,Clay,1,0,1,Clay
+11/11/2017,Idaho,Jefferson,1,1,2,Jefferson
+11/11/2017,Georgia,Hall,0,0,0,Hall
+11/11/2017,Kentucky,Johnson,0,0,0,Johnson
+11/14/2017,Kentucky,Nelson,0,0,0,Nelson
+11/14/2017,Illinois,Jefferson,0,0,0,Jefferson
+11/14/2017,South Carolina,Orangeburg,0,1,1,Orangeburg
+11/15/2017,Missouri,Maries,0,0,0,Maries
+11/15/2017,Oklahoma,Creek,0,0,0,Creek
+11/15/2017,Indiana,Grant,0,0,0,Grant
+11/15/2017,Mississippi,Rankin,0,0,0,Rankin
+11/15/2017,West Virginia,Raleigh,0,0,0,Raleigh
+11/16/2017,Oklahoma,Pottawatomie,0,0,0,Pottawatomie
+11/16/2017,Oklahoma,Tulsa,0,0,0,Tulsa
+11/17/2017,Alabama,Winston,0,0,0,Winston
+11/18/2017,Colorado,Moffat,0,1,1,Moffat
+11/18/2017,Wisconsin,Marquette,1,0,1,Marquette
+11/18/2017,Wisconsin,Forest,0,1,1,Forest
+11/18/2017,Wisconsin,Shawano,0,1,1,Shawano
+11/18/2017,Wisconsin,Brown,0,1,1,Brown
+11/20/2017,West Virginia,Braxton,0,1,1,Braxton
+11/20/2017,Kentucky,McCracken,0,0,0,McCracken
+11/21/2017,Massachusetts,Barnstable,0,0,0,Barnstable
+11/21/2017,Florida,Osceola,0,0,0,Osceola
+11/22/2017,Missouri,Cole,0,1,1,Cole
+11/23/2017,Iowa,Appanoose,1,0,1,Appanoose
+11/26/2017,New York,Ulster,0,0,0,Ulster
+11/26/2017,Alabama,Lauderdale,0,1,1,Lauderdale
+11/27/2017,Virginia,Chesterfield,0,1,1,Chesterfield
+11/28/2017,Florida,Franklin,0,0,0,Franklin
+11/28/2017,South Carolina,Darlington,0,1,1,Darlington
+11/29/2017,Florida,Jackson,0,0,0,Jackson
+12/1/2017,Ohio,Clermont,1,0,1,Clermont
+12/1/2017,Oklahoma,Rogers,0,0,0,Rogers
+12/1/2017,Ohio,Clermont,2,0,2,Clermont
+12/1/2017,Pennsylvania,Pike,0,0,0,Pike
+12/2/2017,Washington,Pierce,0,0,0,Pierce
+12/2/2017,Florida,Broward,0,0,0,Broward
+12/3/2017,Wisconsin,Barron,1,0,1,Barron
+12/6/2017,Ohio,Madison,0,0,0,Madison
+12/7/2017,Kansas,Montgomery,1,0,1,Montgomery
+12/8/2017,Colorado,Grand,0,0,0,Grand
+12/15/2017,South Carolina,Horry,0,0,0,Horry
+12/15/2017,Missouri,Moniteau,0,0,0,Moniteau
+12/18/2017,Florida,Franklin,0,0,0,Franklin
+12/18/2017,Minnesota,Mower,0,0,0,Mower
+12/23/2017,Georgia,Colquitt,0,0,0,Colquitt
+12/27/2017,Colorado,Mesa,0,0,0,Mesa
+12/27/2017,North Carolina,Mcdowell,0,0,0,Mcdowell
+12/29/2017,Colorado,Adams,1,0,1,Adams
+12/30/2017,Georgia,Jackson,0,0,0,Jackson
+12/31/2017,Florida,Hillsborough,0,0,0,Hillsborough
+1/2/2018,Texas,Newton,0,0,0,Newton
+1/2/2018,Texas,Angelina,0,0,0,Angelina
+1/12/2018,Wisconsin,Crawford,0,1,1,Crawford
+1/14/2018,Florida,Jackson,0,0,0,Jackson
+1/15/2018,North Carolina,Stanly,0,0,0,Stanly
+1/18/2018,Ohio,Jefferson,0,2,2,Jefferson
+1/19/2018,Tennessee,Mcnairy,0,0,0,Mcnairy
+1/24/2018,Missouri,Greene,0,0,0,Greene
+1/25/2018,Pennsylvania,Fayette,0,0,0,Fayette
+1/25/2018,Delaware,New Castle,0,0,0,New Castle
+1/25/2018,Michigan,Muskegon,0,0,0,Muskegon
+1/26/2018,Kansas,Decatur,1,0,1,Decatur
+1/26/2018,Michigan,Oakland,0,1,1,Oakland
+1/29/2018,Colorado,Pueblo,0,0,0,Pueblo
+1/30/2018,Florida,Orange,0,0,0,Orange
+1/31/2018,Colorado,El Paso,0,0,0,El Paso
+1/31/2018,Kentucky,Mccracken,0,0,0,Mccracken
+2/2/2018,Idaho,Kootenai,0,0,0,Kootenai
+2/3/2018,Missouri,Greene,0,0,0,Greene
+2/3/2018,Michigan,Monroe,0,0,0,Monroe
+2/4/2018,Mississippi,Hancock,0,0,0,Hancock
+2/6/2018,Iowa,Webster,0,0,0,Webster
+2/8/2018,New York,Orange,0,0,0,Orange
+2/9/2018,Alabama,Cherokee,0,0,0,Cherokee
+2/10/2018,New Mexico,Taos,0,0,0,Taos
+2/10/2018,Nebraska,Lancaster,0,1,1,Lancaster
+2/15/2018,California,Humboldt,0,0,0,Humboldt
+2/15/2018,California,San Bernardino,0,0,0,San Bernardino
+2/17/2018,Alabama,Calhoun,0,0,0,Calhoun
+2/18/2018,Kansas,Stafford,0,0,0,Stafford
+2/18/2018,Georgia,Peach,0,0,0,Peach
+2/20/2018,Missouri,Osage,0,0,0,Osage
+2/23/2018,Minnesota,Mower,0,0,0,Mower
+2/26/2018,Georgia,Burke,0,0,0,Burke
+3/1/2018,Mississippi,Tishomingo,0,0,0,Tishomingo
+3/1/2018,South Carolina,Berkeley,0,0,0,Berkeley
+3/3/2018,South Carolina,Greenville,0,0,0,Greenville
+3/5/2018,Georgia,Haralson,0,1,1,Haralson
+3/5/2018,Mississippi,Lawrence,0,0,0,Lawrence
+3/8/2018,Florida,Palm Beach,0,0,0,Palm Beach
+3/9/2018,New Jersey,Ocean,0,0,0,Ocean
+3/10/2018,Oklahoma,Pontotoc,0,0,0,Pontotoc
+3/10/2018,Texas,Gregg,0,0,0,Gregg
+3/10/2018,Mississippi,Jones,1,0,1,Jones
+3/11/2018,South Carolina,Calhoun,0,0,0,Calhoun
+3/11/2018,Indiana,Vigo,0,0,0,Vigo
+3/12/2018,Oklahoma,Love,0,0,0,Love
+3/13/2018,Alabama,Russell,0,0,0,Russell
+3/14/2018,Colorado,Jefferson,0,0,0,Jefferson
+3/15/2018,Michigan,Saginaw,0,0,0,Saginaw
+3/15/2018,Tennessee,Sullivan,0,0,0,Sullivan
+3/15/2018,Indiana,Lagrange,0,0,0,Lagrange
+3/17/2018,Minnesota,Chisago,0,0,0,Chisago
+3/17/2018,Mississippi,Monroe,1,0,1,Monroe
+3/17/2018,New York,Orleans,0,0,0,Orleans
+3/18/2018,Georgia,Dawson,0,0,0,Dawson
+3/22/2018,Texas,Grayson,0,1,1,Grayson
+3/23/2018,Mississippi,Rankin,0,0,0,Rankin
+3/24/2018,California,Santa Cruz,0,0,0,Santa Cruz
+3/24/2018,Indiana,Fulton,0,2,2,Fulton
+3/24/2018,California,Marin,0,0,0,Marin
+3/25/2018,South Carolina,Darlington,0,1,1,Darlington
+3/25/2018,Maryland,Carroll,0,0,0,Carroll
+3/25/2018,Florida,Baker,0,0,0,Baker
+3/26/2018,Georgia,Warren,0,0,0,Warren
+3/27/2018,Kansas,Dickinson,1,0,1,Dickinson
+3/28/2018,Michigan,Branch,0,1,1,Branch
+3/29/2018,Georgia,Troup,0,1,1,Troup
+3/29/2018,Oregon,Cowlitz,0,0,0,Cowlitz
+3/31/2018,Georgia,Chattooga,0,1,1,Chattooga
