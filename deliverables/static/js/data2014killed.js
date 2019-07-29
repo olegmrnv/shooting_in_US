@@ -1,4 +1,4 @@
-var Data2014 = {
+var Data2014killed = {
     max: 8,
     data: [
 

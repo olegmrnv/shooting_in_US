@@ -1,0 +1,1009 @@
+date,state_name,state_id,county_name,city_or_county,city,n_killed,n_injured,n_total
+1/1/2014,Alabama,AL,Crenshaw,Crenshaw,,1,0,1
+1/1/2014,Mississippi,MS,Franklin,Franklin,,0,0,0
+1/2/2014,California,CA,Huntington,Huntington,,0,1,1
+1/3/2014,West Virginia,WV,Wilkinson,Wilkinson,,0,1,1
+1/3/2014,Florida,FL,Broward,Broward,,0,0,0
+1/4/2014,Arkansas,AR,Leflore,Leflore,,0,0,0
+1/4/2014,Florida,FL,Broward,Broward,,0,0,0
+1/4/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+1/5/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+1/5/2014,Ohio,OH,Erie,Erie,,1,3,4
+1/5/2014,Florida,FL,Charlotte,Charlotte,,0,0,0
+1/5/2014,New Jersey,NJ,Orange,Orange,,0,1,1
+1/5/2014,Maryland,MD,Washington,Washington,,0,0,0
+1/6/2014,Louisiana,LA,Bossier,Bossier,,0,0,0
+1/6/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+1/7/2014,Florida,FL,Broward,Broward,,0,0,0
+1/8/2014,New York,NY,Amherst,Amherst,,0,0,0
+1/9/2014,Florida,FL,Manatee,Manatee,,0,0,0
+1/10/2014,Florida,FL,Collier,Collier,,0,0,0
+1/10/2014,Florida,FL,Bay,Bay,,0,0,0
+1/12/2014,Florida,FL,Miami-Dade,Miami-Dade,,1,0,1
+1/12/2014,Alabama,AL,Blount,Blount,,1,0,1
+1/12/2014,New Hampshire,NH,Windham,Windham,,0,0,0
+1/12/2014,Alabama,AL,Tallapoosa,Tallapoosa,,1,0,1
+1/13/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+1/13/2014,Mississippi,MS,Claiborne,Claiborne,,1,0,1
+1/13/2014,California,CA,Mesa,Mesa,,0,1,1
+1/13/2014,Virginia,VA,York,York,,0,0,0
+1/13/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+1/14/2014,New York,NY,Clay,Clay,,0,0,0
+1/14/2014,Mississippi,MS,Warren,Warren,,0,2,2
+1/15/2014,Massachusetts,MA,Dorchester,Dorchester,,1,0,1
+1/15/2014,Florida,FL,Broward,Broward,,0,1,1
+1/16/2014,Virginia,VA,Middlesex,Middlesex,,0,0,0
+1/19/2014,Georgia,GA,Cobb,Cobb,,0,0,0
+1/19/2014,Texas,TX,Tulsa,Tulsa,,1,0,1
+1/20/2014,Florida,FL,Putnam,Putnam,,0,1,1
+1/21/2014,Florida,FL,Manatee,Manatee,,0,2,2
+1/21/2014,Washington,WA,Thurston,Thurston,,0,1,1
+1/22/2014,Virginia,VA,York,York,,0,2,2
+1/23/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+1/24/2014,Massachusetts,MA,Dorchester,Dorchester,,1,0,1
+1/24/2014,Florida,FL,Manatee,Manatee,,1,0,1
+1/25/2014,Florida,FL,Manatee,Manatee,,0,0,0
+1/25/2014,Florida,FL,Broward,Broward,,0,0,0
+1/26/2014,Florida,FL,Volusia,Volusia,,0,1,1
+1/26/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+1/26/2014,Connecticut,CT,Stafford,Stafford,,0,0,0
+1/27/2014,Florida,FL,Manatee,Manatee,,0,1,1
+1/27/2014,Florida,FL,Collier,Collier,,0,0,0
+1/28/2014,New York,NY,Amherst,Amherst,,0,0,0
+1/29/2014,Florida,FL,Collier,Collier,,0,0,0
+2/1/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+2/2/2014,North Carolina,NC,Clarendon,Clarendon,,1,0,1
+2/4/2014,Alaska,AK,Barrow,Barrow,,1,0,1
+2/6/2014,Florida,FL,Broward,Broward,,0,0,0
+2/6/2014,New York,NY,Knox,Knox,,0,0,0
+2/7/2014,Florida,FL,Hillsborough,Hillsborough,,0,0,0
+2/8/2014,New York,NY,Amherst,Amherst,,0,1,1
+2/9/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+2/10/2014,Tennessee,TN,Madison,Madison,,1,0,1
+2/10/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,2,2
+2/14/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+2/15/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+2/18/2014,North Carolina,NC,Colfax,Colfax,,0,0,0
+2/22/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+2/23/2014,Florida,FL,Manatee,Manatee,,1,1,2
+3/2/2014,Michigan,MI,Erie,Erie,,0,0,0
+3/5/2014,Massachusetts,MA,Ashland,Ashland,,0,0,0
+3/14/2014,South Carolina,SC,Berkeley,Berkeley,,0,0,0
+3/14/2014,Connecticut,CT,Windsor,Windsor,,0,0,0
+3/15/2014,Massachusetts,MA,Dorchester,Dorchester,,0,1,1
+3/16/2014,Hawaii,HI,Kauai,Kauai,,0,1,1
+3/17/2014,Texas,TX,Porter,Porter,,1,0,1
+3/19/2014,Wisconsin,WI,Union,Union,,0,0,0
+3/20/2014,Maine,ME,Bristol,Bristol,,0,1,1
+3/21/2014,New Jersey,NJ,Orange,Orange,,0,0,0
+3/21/2014,Maine,ME,Litchfield,Litchfield,,0,0,0
+3/24/2014,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+3/27/2014,Tennessee,TN,Raleigh,Raleigh,,0,0,0
+3/28/2014,Massachusetts,MA,Dorchester,Dorchester,,0,1,1
+3/29/2014,Connecticut,CT,Vernon,Vernon,,0,0,0
+3/30/2014,South Carolina,SC,Colleton,Colleton,,0,2,2
+3/30/2014,New York,NY,Gates,Gates,,0,0,0
+4/1/2014,Connecticut,CT,Lebanon,Lebanon,,0,0,0
+4/3/2014,North Carolina,NC,Watauga,Watauga,,1,0,1
+4/4/2014,Wisconsin,WI,Morris,Morris,,0,0,0
+4/4/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+4/5/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+4/6/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+4/7/2014,Texas,TX,San Jacinto,San Jacinto,,0,1,1
+4/8/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+4/9/2014,Tennessee,TN,Buchanan,Buchanan,,0,0,0
+4/12/2014,Maine,ME,Windham,Windham,,1,0,1
+4/12/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+4/13/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+4/13/2014,New York,NY,Evans,Evans,,0,0,0
+4/14/2014,Michigan,MI,Lyon,Lyon,,0,1,1
+4/14/2014,Michigan,MI,Lyon,Lyon,,0,0,0
+4/14/2014,Pennsylvania,PA,Garfield,Garfield,,0,0,0
+4/15/2014,Mississippi,MS,Wayne,Wayne,,1,0,1
+4/18/2014,Mississippi,MS,Monroe,Monroe,,0,0,0
+4/19/2014,New Jersey,NJ,Jackson,Jackson,,0,0,0
+4/20/2014,Iowa,IA,Sterling,Sterling,,0,0,0
+4/20/2014,Florida,FL,Miami-Dade,Miami-Dade,,1,0,1
+4/21/2014,Florida,FL,Manatee,Manatee,,0,1,1
+4/21/2014,Rhode Island,RI,Lincoln,Lincoln,,0,0,0
+4/23/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+4/24/2014,Pennsylvania,PA,Elliott,Elliott,,1,0,1
+4/24/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+4/25/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+4/26/2014,Vermont,VT,Essex,Essex,,1,0,1
+4/30/2014,Pennsylvania,PA,Garfield,Garfield,,2,0,2
+5/2/2014,Wisconsin,WI,Rutland,Rutland,,0,1,1
+5/3/2014,Tennessee,TN,Madison,Madison,,0,1,1
+5/3/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+5/4/2014,Michigan,MI,Highland,Highland,,0,0,0
+5/4/2014,Texas,TX,Tulsa,Tulsa,,1,0,1
+5/6/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+5/6/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+5/6/2014,Rhode Island,RI,Warren,Warren,,0,1,1
+5/7/2014,Connecticut,CT,Oxford,Oxford,,1,1,2
+5/9/2014,New Jersey,NJ,Livingston,Livingston,,0,1,1
+5/11/2014,Kentucky,KY,LaGrange,LaGrange,,1,0,1
+5/11/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+5/12/2014,Florida,FL,Manatee,Manatee,,0,0,0
+5/14/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+5/16/2014,New York,NY,Niagara,Niagara,,0,0,0
+5/16/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+5/16/2014,Texas,TX,Porter,Porter,,0,0,0
+5/20/2014,Hawaii,HI,Maui,Maui,,1,0,1
+5/22/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+5/24/2014,New Jersey,NJ,Wayne,Wayne,,0,1,1
+5/25/2014,Rhode Island,RI,Bristol,Bristol,,0,1,1
+5/26/2014,California,CA,Mesa,Mesa,,0,0,0
+5/26/2014,South Dakota,SD,Black Hawk,Black Hawk,,0,1,1
+5/29/2014,Tennessee,TN,Madison,Madison,,0,0,0
+6/1/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+6/2/2014,Wisconsin,WI,Vernon,Vernon,,0,1,1
+6/3/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+6/4/2014,New Jersey,NJ,Howell,Howell,,1,0,1
+6/6/2014,Mississippi,MS,Lamar,Lamar,,0,0,0
+6/6/2014,Massachusetts,MA,Dorchester,Dorchester,,1,0,1
+6/7/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+6/7/2014,North Carolina,NC,Racine,Racine,,0,0,0
+6/9/2014,Maine,ME,Monroe,Monroe,,0,0,0
+6/13/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+6/17/2014,Tennessee,TN,Madison,Madison,,0,0,0
+6/22/2014,Kentucky,KY,Clearfield,Clearfield,,1,0,1
+6/24/2014,Tennessee,TN,Madison,Madison,,0,0,0
+6/25/2014,Connecticut,CT,Fairfield,Fairfield,,1,0,1
+6/25/2014,California,CA,Westchester,Westchester,,2,0,2
+6/25/2014,Texas,TX,Porter,Porter,,1,0,1
+6/27/2014,North Carolina,NC,Alexander,Alexander,,0,0,0
+6/28/2014,Virginia,VA,Henrico,Henrico,,1,2,3
+6/29/2014,Virginia,VA,Henrico,Henrico,,2,0,2
+6/30/2014,Mississippi,MS,Russell,Russell,,0,0,0
+7/1/2014,New York,NY,Porter,Porter,,0,0,0
+7/4/2014,Texas,TX,Harris,Harris,,1,0,1
+7/4/2014,Mississippi,MS,Lamar,Lamar,,1,0,1
+7/4/2014,Kentucky,KY,Graham,Graham,,0,0,0
+7/5/2014,Arkansas,AR,Choctaw,Choctaw,,2,0,2
+7/5/2014,Florida,FL,Levy,Levy,,1,0,1
+7/5/2014,Virginia,VA,Amelia,Amelia,,1,0,1
+7/6/2014,Arkansas,AR,Norfolk,Norfolk,,0,1,1
+7/7/2014,Florida,FL,Volusia,Volusia,,0,0,0
+7/7/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+7/7/2014,Michigan,MI,Berrien,Berrien,,2,0,2
+7/10/2014,Tennessee,TN,Madison,Madison,,0,1,1
+7/10/2014,Georgia,GA,Muscogee,Muscogee,,0,0,0
+7/13/2014,North Carolina,NC,Rowan,Rowan,,1,0,1
+7/14/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+7/15/2014,Michigan,MI,Macomb,Macomb,,0,0,0
+7/15/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+7/15/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+7/16/2014,Florida,FL,Hillsborough,Hillsborough,,1,0,1
+7/17/2014,New York,NY,Amherst,Amherst,,0,0,0
+7/17/2014,Maine,ME,Bristol,Bristol,,0,0,0
+7/20/2014,Virginia,VA,Henrico,Henrico,,1,0,1
+7/20/2014,Rhode Island,RI,Johnston,Johnston,,0,0,0
+7/20/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+7/20/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+7/21/2014,New Jersey,NJ,Greenville,Greenville,,0,1,1
+7/22/2014,Vermont,VT,Montgomery,Montgomery,,0,0,0
+7/23/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+7/23/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+7/24/2014,Connecticut,CT,Columbia,Columbia,,0,0,0
+7/26/2014,New York,NY,Amherst,Amherst,,0,0,0
+7/26/2014,Maine,ME,York,York,,0,0,0
+7/27/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+7/27/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+7/27/2014,Maine,ME,York,York,,1,0,1
+7/27/2014,Kentucky,KY,Stone,Stone,,1,2,3
+7/28/2014,Florida,FL,Florida,Florida,,0,0,0
+7/28/2014,South Carolina,SC,Litchfield,Litchfield,,0,1,1
+7/28/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+7/29/2014,Tennessee,TN,Madison,Madison,,0,1,1
+7/29/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+7/29/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+7/29/2014,Massachusetts,MA,Rockland,Rockland,,0,0,0
+7/31/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+7/31/2014,Kentucky,KY,Gray,Gray,,0,1,1
+7/31/2014,West Virginia,WV,Rock,Rock,,0,1,1
+7/31/2014,Tennessee,TN,Raleigh,Raleigh,,0,0,0
+8/2/2014,Florida,FL,Florida,Florida,,0,1,1
+8/3/2014,Florida,FL,Arlington,Arlington,,0,1,1
+8/3/2014,Rhode Island,RI,Johnston,Johnston,,0,0,0
+8/3/2014,Georgia,GA,Midland,Midland,,0,0,0
+8/4/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+8/4/2014,Tennessee,TN,Raleigh,Raleigh,,0,1,1
+8/5/2014,Florida,FL,Miami-Dade,Miami-Dade,,3,0,3
+8/7/2014,Maryland,MD,Hanover,Hanover,,1,0,1
+8/7/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+8/8/2014,New Jersey,NJ,Stafford,Stafford,,0,0,0
+8/8/2014,New Jersey,NJ,Stafford,Stafford,,0,0,0
+8/10/2014,Tennessee,TN,Madison,Madison,,0,1,1
+8/10/2014,Wisconsin,WI,Dunn,Dunn,,0,0,0
+8/11/2014,Rhode Island,RI,Lincoln,Lincoln,,0,0,0
+8/11/2014,Virginia,VA,Henrico,Henrico,,1,0,1
+8/12/2014,New Jersey,NJ,Lawrence,Lawrence,,0,0,0
+8/12/2014,Mississippi,MS,Choctaw,Choctaw,,1,1,2
+8/14/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+8/14/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+8/15/2014,New Jersey,NJ,Orange,Orange,,0,1,1
+8/16/2014,New Jersey,NJ,Orange,Orange,,0,0,0
+8/16/2014,Vermont,VT,Guilford,Guilford,,0,1,1
+8/16/2014,Delaware,DE,Lincoln,Lincoln,,0,1,1
+8/19/2014,New Jersey,NJ,Orange,Orange,,0,1,1
+8/19/2014,Tennessee,TN,Madison,Madison,,0,0,0
+8/19/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+8/22/2014,New York,NY,Amherst,Amherst,,0,0,0
+8/22/2014,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+8/24/2014,Tennessee,TN,Madison,Madison,,0,0,0
+8/29/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+8/29/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+8/29/2014,New York,NY,York,York,,0,0,0
+8/29/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+9/1/2014,New Jersey,NJ,Howell,Howell,,0,1,1
+9/1/2014,Virginia,VA,Dinwiddie,Dinwiddie,,0,1,1
+9/1/2014,New Jersey,NJ,Howell,Howell,,0,0,0
+9/2/2014,New Hampshire,NH,Fremont,Fremont,,0,0,0
+9/3/2014,Connecticut,CT,Cheshire,Cheshire,,0,0,0
+9/4/2014,Florida,FL,Santa Rosa,Santa Rosa,,0,1,1
+9/5/2014,North Carolina,NC,Charleston,Charleston,,0,0,0
+9/5/2014,Kentucky,KY,Walker,Walker,,1,0,1
+9/5/2014,New Hampshire,NH,Salem,Salem,,0,0,0
+9/6/2014,New Jersey,NJ,Union,Union,,0,1,1
+9/6/2014,Tennessee,TN,Madison,Madison,,0,0,0
+9/8/2014,New Hampshire,NH,Bedford,Bedford,,0,0,0
+9/8/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+9/8/2014,New York,NY,Onondaga,Onondaga,,0,1,1
+9/8/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+9/9/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+9/10/2014,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+9/10/2014,Tennessee,TN,Madison,Madison,,0,0,0
+9/11/2014,California,CA,Valencia,Valencia,,0,0,0
+9/11/2014,Maine,ME,Warren,Warren,,0,0,0
+9/11/2014,Florida,FL,Santa Rosa,Santa Rosa,,0,0,0
+9/11/2014,California,CA,Valencia,Valencia,,0,0,0
+9/12/2014,Florida,FL,San Mateo,San Mateo,,0,0,0
+9/13/2014,Wisconsin,WI,Eaton,Eaton,,2,0,2
+9/15/2014,Virginia,VA,York,York,,0,0,0
+9/16/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+9/18/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+9/19/2014,Maine,ME,Bristol,Bristol,,0,0,0
+9/21/2014,Virginia,VA,Henrico,Henrico,,1,0,1
+9/21/2014,Vermont,VT,Orange,Orange,,0,0,0
+9/23/2014,Delaware,DE,Lincoln,Lincoln,,0,0,0
+9/23/2014,Connecticut,CT,Vernon,Vernon,,0,0,0
+9/23/2014,New York,NY,Rush,Rush,,1,0,1
+9/26/2014,Maine,ME,Athens,Athens,,0,0,0
+9/27/2014,Maine,ME,Chester,Chester,,1,0,1
+9/29/2014,Maryland,MD,Hampden,Hampden,,0,0,0
+9/30/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+10/1/2014,Massachusetts,MA,Montague,Montague,,0,0,0
+10/1/2014,Connecticut,CT,Stafford,Stafford,,0,0,0
+10/2/2014,New Jersey,NJ,Fairfield,Fairfield,,0,0,0
+10/3/2014,Connecticut,CT,Cheshire,Cheshire,,0,0,0
+10/4/2014,Tennessee,TN,Madison,Madison,,1,0,1
+10/5/2014,Maryland,MD,Hanover,Hanover,,0,0,0
+10/8/2014,West Virginia,WV,Hanover,Hanover,,0,0,0
+10/8/2014,Vermont,VT,Goshen,Goshen,,0,0,0
+10/11/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+10/11/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+10/12/2014,Maine,ME,Mercer,Mercer,,0,0,0
+10/13/2014,Maine,ME,York,York,,0,0,0
+10/14/2014,Connecticut,CT,Oxford,Oxford,,0,0,0
+10/17/2014,New Hampshire,NH,Fremont,Fremont,,1,0,1
+10/17/2014,Tennessee,TN,Buchanan,Buchanan,,1,0,1
+10/17/2014,Arizona,AZ,Dewey,Dewey,,1,1,2
+10/20/2014,Virginia,VA,Henrico,Henrico,,1,0,1
+10/21/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+10/22/2014,New York,NY,Russell,Russell,,0,0,0
+10/22/2014,New York,NY,Ulster,Ulster,,0,0,0
+10/23/2014,Michigan,MI,Chesterfield,Chesterfield,,0,0,0
+10/23/2014,Georgia,GA,Darlington,Darlington,,0,0,0
+10/25/2014,Alabama,AL,Columbus,Columbus,,0,0,0
+10/26/2014,New Jersey,NJ,Orange,Orange,,0,2,2
+10/27/2014,Virginia,VA,Henrico,Henrico,,0,1,1
+10/28/2014,New Hampshire,NH,Salem,Salem,,0,0,0
+10/28/2014,West Virginia,WV,Josephine,Josephine,,0,0,0
+10/28/2014,Connecticut,CT,Vernon,Vernon,,0,0,0
+10/29/2014,New York,NY,Clay,Clay,,0,0,0
+10/29/2014,New York,NY,Ulster,Ulster,,0,0,0
+10/29/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+10/30/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+10/30/2014,Rhode Island,RI,Johnston,Johnston,,0,0,0
+10/31/2014,Florida,FL,Lackawanna,Lackawanna,,0,1,1
+11/10/2014,Michigan,MI,Wallace,Wallace,,1,0,1
+11/10/2014,New Jersey,NJ,Greenville,Greenville,,0,0,0
+11/11/2014,Tennessee,TN,Houston,Houston,,0,1,1
+11/11/2014,Texas,TX,Greenwood,Greenwood,,2,0,2
+11/11/2014,Tennessee,TN,Madison,Madison,,0,0,0
+11/11/2014,Pennsylvania,PA,Dubois,Dubois,,0,0,0
+11/13/2014,Massachusetts,MA,Montague,Montague,,0,0,0
+11/14/2014,Wisconsin,WI,Lafayette,Lafayette,,1,1,2
+11/15/2014,Delaware,DE,Lincoln,Lincoln,,0,1,1
+11/17/2014,New Jersey,NJ,Wayne,Wayne,,0,0,0
+11/18/2014,Massachusetts,MA,Dorchester,Dorchester,,0,1,1
+11/20/2014,Vermont,VT,Grafton,Grafton,,0,0,0
+11/20/2014,Vermont,VT,New Haven,New Haven,,0,0,0
+11/21/2014,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+11/22/2014,New York,NY,Amherst,Amherst,,0,0,0
+11/23/2014,New York,NY,York,York,,0,1,1
+11/23/2014,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+11/23/2014,New York,NY,Stafford,Stafford,,0,0,0
+11/27/2014,New Jersey,NJ,Jackson,Jackson,,0,0,0
+11/29/2014,Texas,TX,Randall,Randall,,0,1,1
+12/2/2014,Virginia,VA,Ringgold,Ringgold,,0,0,0
+12/4/2014,California,CA,Humboldt,Humboldt,,0,0,0
+12/4/2014,Connecticut,CT,Vernon,Vernon,,0,0,0
+12/6/2014,Mississippi,MS,Copiah,Copiah,,1,0,1
+12/7/2014,Florida,FL,Broward,Broward,,0,1,1
+12/7/2014,Mississippi,MS,Monroe,Monroe,,0,0,0
+12/8/2014,Missouri,MO,Warren,Warren,,0,0,0
+12/8/2014,Alaska,AK,Barrow,Barrow,,1,0,1
+12/9/2014,Utah,UT,Box Elder,Box Elder,,0,0,0
+12/9/2014,Mississippi,MS,Lee,Lee,,2,0,2
+12/11/2014,Michigan,MI,Oakland,Oakland,,0,0,0
+12/12/2014,Virginia,VA,Henrico,Henrico,,0,0,0
+12/15/2014,West Virginia,WV,Liberty,Liberty,,0,0,0
+12/16/2014,Connecticut,CT,Cheshire,Cheshire,,2,0,2
+12/16/2014,Maine,ME,Benton,Benton,,1,0,1
+12/17/2014,Vermont,VT,Vernon,Vernon,,0,0,0
+12/17/2014,Maine,ME,Windsor,Windsor,,0,0,0
+12/18/2014,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+12/18/2014,Massachusetts,MA,Berkshire,Berkshire,,0,0,0
+12/19/2014,Virginia,VA,Grafton,Grafton,,1,0,1
+12/20/2014,Maine,ME,York,York,,0,0,0
+12/21/2014,Maine,ME,Mercer,Mercer,,0,0,0
+12/21/2014,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+12/22/2014,Vermont,VT,Guilford,Guilford,,0,0,0
+12/23/2014,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+12/23/2014,West Virginia,WV,Terry,Terry,,0,1,1
+12/24/2014,Vermont,VT,Montgomery,Montgomery,,0,0,0
+12/25/2014,Massachusetts,MA,Dorchester,Dorchester,,0,3,3
+12/28/2014,Connecticut,CT,Monroe,Monroe,,0,0,0
+12/31/2014,New York,NY,Niagara,Niagara,,0,1,1
+12/31/2014,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+12/31/2014,Georgia,GA,LaGrange,LaGrange,,0,1,1
+1/1/2015,Massachusetts,MA,Richmond,Richmond,,0,0,0
+1/1/2015,Virginia,VA,Henrico,Henrico,,0,2,2
+1/2/2015,Maryland,MD,Anne Arundel,Anne Arundel,,0,1,1
+1/4/2015,Massachusetts,MA,Dorchester,Dorchester,,0,1,1
+1/5/2015,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+1/6/2015,New Hampshire,NH,Salem,Salem,,0,0,0
+1/7/2015,Virginia,VA,Henrico,Henrico,,0,0,0
+1/8/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,0,0
+1/8/2015,Delaware,DE,Kent,Kent,,0,1,1
+1/9/2015,Maine,ME,Windsor,Windsor,,0,1,1
+1/10/2015,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+1/12/2015,Maine,ME,Jefferson,Jefferson,,0,0,0
+1/13/2015,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+1/13/2015,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+1/13/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,0,0
+1/13/2015,New Jersey,NJ,Warren,Warren,,0,0,0
+1/13/2015,Florida,FL,Jackson,Jackson,,0,0,0
+1/14/2015,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+1/14/2015,Wisconsin,WI,Campbell,Campbell,,0,0,0
+1/14/2015,Texas,TX,Fort Bend,Fort Bend,,0,1,1
+1/15/2015,Delaware,DE,Sussex,Sussex,,0,0,0
+1/16/2015,Virginia,VA,Henrico,Henrico,,1,0,1
+1/16/2015,Rhode Island,RI,Richmond,Richmond,,0,0,0
+1/18/2015,Texas,TX,Fort Bend,Fort Bend,,1,0,1
+1/20/2015,Virginia,VA,Ringgold,Ringgold,,0,0,0
+1/20/2015,Vermont,VT,New Haven,New Haven,,0,0,0
+1/20/2015,Tennessee,TN,Madison,Madison,,0,1,1
+1/25/2015,Maine,ME,Bristol,Bristol,,0,0,0
+1/25/2015,Texas,TX,Porter,Porter,,0,1,1
+1/29/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,0,0
+1/30/2015,Vermont,VT,Hartford,Hartford,,0,0,0
+2/2/2015,North Carolina,NC,Anderson,Anderson,,1,0,1
+2/2/2015,Michigan,MI,Erie,Erie,,0,0,0
+2/3/2015,Tennessee,TN,Deer Lodge,Deer Lodge,,1,0,1
+2/3/2015,Pennsylvania,PA,Jackson,Jackson,,0,1,1
+2/3/2015,New York,NY,Dickinson,Dickinson,,0,0,0
+2/5/2015,Georgia,GA,Fulton,Fulton,,0,1,1
+2/9/2015,Virginia,VA,Henrico,Henrico,,0,1,1
+2/10/2015,Virginia,VA,Dinwiddie,Dinwiddie,,1,0,1
+2/11/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,0,0
+2/11/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,0,0
+2/12/2015,Mississippi,MS,Lamar,Lamar,,0,1,1
+2/15/2015,New Jersey,NJ,Montague,Montague,,0,1,1
+2/15/2015,Massachusetts,MA,Ashland,Ashland,,0,0,0
+2/16/2015,Louisiana,LA,Morehouse,Morehouse,,0,0,0
+2/17/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+2/18/2015,Texas,TX,Porter,Porter,,0,0,0
+2/19/2015,Virginia,VA,Amelia,Amelia,,0,1,1
+2/21/2015,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+2/21/2015,Florida,FL,Miami-Dade,Miami-Dade,,1,0,1
+2/23/2015,Michigan,MI,Highland,Highland,,0,0,0
+2/24/2015,Maryland,MD,Hanover,Hanover,,0,1,1
+2/25/2015,New York,NY,Gates,Gates,,1,0,1
+2/25/2015,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+2/26/2015,Massachusetts,MA,Dorchester,Dorchester,,0,1,1
+2/27/2015,New Hampshire,NH,Litchfield,Litchfield,,0,0,0
+2/27/2015,Virginia,VA,James City,James City,,0,1,1
+2/27/2015,New Hampshire,NH,Salem,Salem,,0,0,0
+3/2/2015,Delaware,DE,Sussex,Sussex,,0,0,0
+3/3/2015,Connecticut,CT,Madison,Madison,,0,0,0
+3/4/2015,New Jersey,NJ,Orange,Orange,,0,0,0
+3/7/2015,Arkansas,AR,Madera,Madera,,0,0,0
+3/8/2015,Connecticut,CT,Monroe,Monroe,,0,1,1
+3/8/2015,New York,NY,Ulster,Ulster,,0,0,0
+3/10/2015,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+3/11/2015,Massachusetts,MA,Rockland,Rockland,,0,0,0
+3/13/2015,Wisconsin,WI,Fairfield,Fairfield,,0,0,0
+3/13/2015,Vermont,VT,Charlotte,Charlotte,,0,1,1
+3/13/2015,New York,NY,York,York,,0,0,0
+3/13/2015,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+3/13/2015,New Hampshire,NH,Salem,Salem,,0,0,0
+3/14/2015,Rhode Island,RI,Richmond,Richmond,,0,0,0
+3/15/2015,New Jersey,NJ,Gloucester,Gloucester,,0,1,1
+3/17/2015,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+3/18/2015,New Hampshire,NH,Chesterfield,Chesterfield,,0,0,0
+3/19/2015,Tennessee,TN,Madison,Madison,,0,1,1
+3/20/2015,New York,NY,Cambria,Cambria,,0,0,0
+3/26/2015,New York,NY,Harford,Harford,,0,0,0
+3/27/2015,Kentucky,KY,LaGrange,LaGrange,,0,0,0
+3/28/2015,Virginia,VA,Henrico,Henrico,,1,0,1
+3/28/2015,New Hampshire,NH,Bedford,Bedford,,3,0,3
+3/30/2015,Wisconsin,WI,Salem,Salem,,0,2,2
+3/31/2015,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+3/31/2015,Texas,TX,San Jacinto,San Jacinto,,0,1,1
+3/31/2015,Tennessee,TN,Madison,Madison,,1,0,1
+4/1/2015,New Hampshire,NH,Merrimack,Merrimack,,0,0,0
+4/1/2015,Connecticut,CT,Hampton,Hampton,,0,0,0
+4/4/2015,Wisconsin,WI,Saratoga,Saratoga,,0,0,0
+4/8/2015,Pennsylvania,PA,Highland,Highland,,0,0,0
+4/8/2015,New Jersey,NJ,Fairfield,Fairfield,,0,0,0
+4/9/2015,New Jersey,NJ,Jackson,Jackson,,1,0,1
+4/16/2015,Michigan,MI,Ray,Ray,,0,0,0
+4/17/2015,Florida,FL,Manatee,Manatee,,0,1,1
+4/17/2015,Florida,FL,Manatee,Manatee,,0,1,1
+4/18/2015,Virginia,VA,Henrico,Henrico,,0,1,1
+4/22/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,0,0
+4/22/2015,Tennessee,TN,Buchanan,Buchanan,,0,1,1
+4/23/2015,Indiana,IN,Tippecanoe,Tippecanoe,,0,0,0
+4/24/2015,New York,NY,Gates,Gates,,0,0,0
+4/25/2015,New York,NY,Gates,Gates,,1,6,7
+4/26/2015,Rhode Island,RI,Lincoln,Lincoln,,0,0,0
+4/30/2015,New Hampshire,NH,Merrimack,Merrimack,,1,0,1
+5/3/2015,New Hampshire,NH,Merrimack,Merrimack,,0,0,0
+5/9/2015,Indiana,IN,Hamblen,Hamblen,,1,0,1
+5/9/2015,New Hampshire,NH,Mason,Mason,,0,0,0
+5/10/2015,Maine,ME,Union,Union,,0,0,0
+5/11/2015,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+5/11/2015,Maryland,MD,Prince George,Prince George,,1,0,1
+5/13/2015,Florida,FL,Volusia,Volusia,,0,0,0
+5/13/2015,Wisconsin,WI,Saratoga,Saratoga,,0,0,0
+5/14/2015,Virginia,VA,Henrico,Henrico,,1,0,1
+5/14/2015,Massachusetts,MA,Amherst,Amherst,,0,0,0
+5/16/2015,Illinois,IL,Ozark,Ozark,,1,0,1
+5/16/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+5/17/2015,Michigan,MI,Erie,Erie,,0,0,0
+5/17/2015,Wisconsin,WI,Newton,Newton,,1,0,1
+5/18/2015,Florida,FL,Miami-Dade,Miami-Dade,,1,1,2
+5/19/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+5/21/2015,Louisiana,LA,Morehouse,Morehouse,,0,1,1
+5/22/2015,Wisconsin,WI,Saratoga,Saratoga,,0,0,0
+5/22/2015,North Carolina,NC,Charleston,Charleston,,0,2,2
+5/24/2015,Maine,ME,Windsor,Windsor,,0,0,0
+5/24/2015,Tennessee,TN,Madison,Madison,,0,0,0
+5/25/2015,Virginia,VA,Henrico,Henrico,,0,0,0
+5/26/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,1,1
+5/26/2015,Florida,FL,Miami-Dade,Miami-Dade,,0,2,2
+5/26/2015,Maryland,MD,McHenry,McHenry,,0,0,0
+6/1/2015,Kentucky,KY,Bledsoe,Bledsoe,,0,1,1
+6/4/2015,Tennessee,TN,Madison,Madison,,1,0,1
+6/6/2015,Ohio,OH,Liberty,Liberty,,0,1,1
+6/8/2015,Wisconsin,WI,Saratoga,Saratoga,,0,0,0
+6/10/2015,New Hampshire,NH,Chesterfield,Chesterfield,,0,0,0
+6/12/2015,Maine,ME,York,York,,0,0,0
+6/16/2015,Massachusetts,MA,Montague,Montague,,0,1,1
+6/20/2015,New Jersey,NJ,Orange,Orange,,0,1,1
+6/21/2015,North Carolina,NC,Candler,Candler,,0,0,0
+6/22/2015,Maine,ME,York,York,,0,0,0
+7/6/2015,Tennessee,TN,Madison,Madison,,0,1,1
+7/6/2015,New Hampshire,NH,Bath,Bath,,1,0,1
+7/9/2015,Virginia,VA,Henrico,Henrico,,0,1,1
+7/9/2015,Virginia,VA,Henrico,Henrico,,0,0,0
+7/12/2015,Florida,FL,Miami-Dade,Miami-Dade,,1,0,1
+7/16/2015,Maine,ME,Lee,Lee,,2,4,6
+7/16/2015,New York,NY,Clay,Clay,,0,0,0
+7/16/2015,Michigan,MI,Erie,Erie,,0,1,1
+7/19/2015,Maine,ME,Greene,Greene,,0,1,1
+7/22/2015,Massachusetts,MA,Bedford,Bedford,,0,3,3
+7/22/2015,Rhode Island,RI,Johnston,Johnston,,0,0,0
+7/26/2015,Texas,TX,Porter,Porter,,0,1,1
+7/27/2015,Massachusetts,MA,Ashland,Ashland,,0,0,0
+7/30/2015,New Hampshire,NH,Salem,Salem,,0,0,0
+8/2/2015,Connecticut,CT,Goshen,Goshen,,0,1,1
+8/4/2015,Virginia,VA,Henrico,Henrico,,0,0,0
+8/5/2015,Virginia,VA,Henrico,Henrico,,0,1,1
+8/8/2015,New Hampshire,NH,Lee,Lee,,0,0,0
+8/8/2015,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+8/9/2015,Delaware,DE,Lincoln,Lincoln,,0,2,2
+8/15/2015,New York,NY,Summit,Summit,,0,0,0
+8/16/2015,New Jersey,NJ,Warren,Warren,,3,0,3
+8/17/2015,Wisconsin,WI,Saratoga,Saratoga,,1,1,2
+8/18/2015,New Hampshire,NH,Salem,Salem,,0,0,0
+8/23/2015,Massachusetts,MA,Norfolk,Norfolk,,0,0,0
+8/23/2015,Maine,ME,Windsor,Windsor,,0,0,0
+8/23/2015,Virginia,VA,Hardy,Hardy,,1,0,1
+8/24/2015,New York,NY,Fayette,Fayette,,1,0,1
+8/29/2015,New York,NY,Clay,Clay,,0,0,0
+8/29/2015,Tennessee,TN,Buchanan,Buchanan,,1,0,1
+8/30/2015,Tennessee,TN,Madison,Madison,,0,1,1
+8/30/2015,Pennsylvania,PA,White,White,,0,1,1
+9/2/2015,Oregon,OR,Clackamas,Clackamas,,2,0,2
+9/3/2015,Pennsylvania,PA,Jackson,Jackson,,0,0,0
+9/3/2015,New Hampshire,NH,Merrimack,Merrimack,,1,0,1
+9/5/2015,Maine,ME,York,York,,0,0,0
+9/6/2015,Tennessee,TN,Madison,Madison,,0,0,0
+9/6/2015,Tennessee,TN,Madison,Madison,,0,1,1
+9/7/2015,Ohio,OH,Houston,Houston,,0,0,0
+9/9/2015,New Jersey,NJ,Union,Union,,0,0,0
+9/9/2015,New Jersey,NJ,Union,Union,,0,1,1
+9/13/2015,California,CA,Greenwood,Greenwood,,3,0,3
+9/14/2015,New Jersey,NJ,Orange,Orange,,1,0,1
+9/15/2015,Connecticut,CT,Preston,Preston,,0,1,1
+9/19/2015,New Jersey,NJ,Randolph,Randolph,,1,0,1
+9/20/2015,Tennessee,TN,Madison,Madison,,0,1,1
+9/22/2015,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+9/23/2015,New Hampshire,NH,Salem,Salem,,1,0,1
+10/9/2015,Massachusetts,MA,Carver,Carver,,0,0,0
+10/12/2015,New York,NY,Bethel,Bethel,,1,0,1
+10/13/2015,New Hampshire,NH,Merrimack,Merrimack,,0,0,0
+10/14/2015,Massachusetts,MA,Weston,Weston,,0,1,1
+10/14/2015,Connecticut,CT,Weston,Weston,,0,1,1
+10/21/2015,New Jersey,NJ,Jackson,Jackson,,0,1,1
+10/22/2015,New York,NY,Plymouth,Plymouth,,0,0,0
+10/25/2015,Massachusetts,MA,Amherst,Amherst,,0,0,0
+10/26/2015,New Hampshire,NH,Newton,Newton,,0,0,0
+10/27/2015,Massachusetts,MA,Hanover,Hanover,,0,1,1
+11/1/2015,Connecticut,CT,Essex,Essex,,0,0,0
+11/1/2015,Massachusetts,MA,Norton,Norton,,0,0,0
+11/2/2015,Tennessee,TN,Madison,Madison,,0,1,1
+11/5/2015,Rhode Island,RI,Johnston,Johnston,,0,0,0
+11/5/2015,Michigan,MI,Macomb,Macomb,,0,0,0
+11/6/2015,Massachusetts,MA,Amherst,Amherst,,0,0,0
+11/10/2015,Connecticut,CT,Windham,Windham,,0,1,1
+11/13/2015,Virginia,VA,Henrico,Henrico,,0,1,1
+11/15/2015,California,CA,Valencia,Valencia,,2,0,2
+11/15/2015,New Jersey,NJ,Orange,Orange,,0,2,2
+11/16/2015,Maine,ME,Wells,Wells,,0,0,0
+11/16/2015,Connecticut,CT,Lebanon,Lebanon,,0,0,0
+11/16/2015,New York,NY,Russell,Russell,,0,0,0
+11/22/2015,Massachusetts,MA,Norton,Norton,,1,0,1
+11/26/2015,Maine,ME,York,York,,0,0,0
+11/28/2015,California,CA,Somerset,Somerset,,0,0,0
+11/30/2015,Tennessee,TN,Madison,Madison,,0,0,0
+11/30/2015,Kentucky,KY,Gray,Gray,,0,0,0
+11/30/2015,New Jersey,NJ,Randolph,Randolph,,1,0,1
+12/2/2015,Connecticut,CT,Cheshire,Cheshire,,0,0,0
+12/3/2015,Connecticut,CT,Monroe,Monroe,,0,0,0
+12/5/2015,Maine,ME,Litchfield,Litchfield,,0,0,0
+12/8/2015,New York,NY,Kendall,Kendall,,0,0,0
+12/10/2015,Connecticut,CT,Kent,Kent,,0,0,0
+12/11/2015,Tennessee,TN,Madison,Madison,,0,1,1
+12/15/2015,Tennessee,TN,Madison,Madison,,0,2,2
+12/16/2015,Connecticut,CT,Burlington,Burlington,,0,1,1
+12/17/2015,Colorado,CO,Pine,Pine,,0,1,1
+12/19/2015,Tennessee,TN,Madison,Madison,,0,1,1
+12/19/2015,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+12/26/2015,Delaware,DE,Lincoln,Lincoln,,0,1,1
+12/27/2015,Michigan,MI,Lake,Lake,,0,1,1
+12/31/2015,Tennessee,TN,Madison,Madison,,0,1,1
+1/11/2016,Tennessee,TN,Madison,Madison,,0,0,0
+1/11/2016,Maine,ME,Union,Union,,0,0,0
+1/12/2016,Connecticut,CT,Guilford,Guilford,,0,0,0
+1/12/2016,Tennessee,TN,Madison,Madison,,0,1,1
+1/14/2016,Maine,ME,Windham,Windham,,1,0,1
+1/16/2016,New Hampshire,NH,Bedford,Bedford,,0,1,1
+1/17/2016,Maine,ME,York,York,,0,0,0
+1/18/2016,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+1/20/2016,New York,NY,Preble,Preble,,0,1,1
+1/20/2016,Louisiana,LA,Mora,Mora,,0,1,1
+1/23/2016,Massachusetts,MA,Amherst,Amherst,,0,0,0
+1/25/2016,Arizona,AZ,Apache,Apache,,0,1,1
+1/25/2016,Connecticut,CT,Windsor,Windsor,,0,1,1
+1/29/2016,Virginia,VA,Woodford,Woodford,,2,2,4
+2/2/2016,New Hampshire,NH,Lee,Lee,,0,0,0
+2/6/2016,Massachusetts,MA,Bedford,Bedford,,0,0,0
+2/10/2016,Alaska,AK,Barrow,Barrow,,1,0,1
+2/13/2016,Massachusetts,MA,Rockland,Rockland,,0,0,0
+2/14/2016,Kentucky,KY,Baxter,Baxter,,0,1,1
+2/14/2016,Connecticut,CT,Madison,Madison,,0,1,1
+2/15/2016,Michigan,MI,Macomb,Macomb,,1,0,1
+2/16/2016,Connecticut,CT,Fairfield,Fairfield,,1,0,1
+2/17/2016,New York,NY,Carlton,Carlton,,0,0,0
+2/17/2016,Maine,ME,Brooks,Brooks,,0,0,0
+2/17/2016,Maine,ME,Windsor,Windsor,,0,0,0
+2/18/2016,Massachusetts,MA,Amherst,Amherst,,0,1,1
+2/20/2016,Tennessee,TN,Madison,Madison,,1,0,1
+2/25/2016,South Dakota,SD,Black Hawk,Black Hawk,,0,0,0
+2/25/2016,New York,NY,Plymouth,Plymouth,,0,0,0
+3/2/2016,Virginia,VA,Dinwiddie,Dinwiddie,,0,1,1
+3/5/2016,North Carolina,NC,Candler,Candler,,0,1,1
+3/5/2016,North Carolina,NC,Candler,Candler,,0,1,1
+3/5/2016,Michigan,MI,Bedford,Bedford,,0,0,0
+3/11/2016,Tennessee,TN,Madison,Madison,,0,1,1
+3/14/2016,New Jersey,NJ,Howell,Howell,,0,0,0
+3/18/2016,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+3/23/2016,New York,NY,Clay,Clay,,0,0,0
+3/24/2016,Kentucky,KY,Garfield,Garfield,,2,0,2
+3/27/2016,Tennessee,TN,Madison,Madison,,0,0,0
+3/28/2016,New York,NY,Russell,Russell,,0,0,0
+3/29/2016,Indiana,IN,Williamsburg,Williamsburg,,0,0,0
+4/4/2016,Maine,ME,Jay,Jay,,0,0,0
+4/8/2016,Connecticut,CT,Kent,Kent,,0,0,0
+4/9/2016,Virginia,VA,Henrico,Henrico,,0,0,0
+4/10/2016,Oregon,OR,Clackamas,Clackamas,,0,0,0
+4/11/2016,New York,NY,Clay,Clay,,0,0,0
+4/12/2016,Oregon,OR,Clackamas,Clackamas,,0,1,1
+4/14/2016,New Jersey,NJ,Orange,Orange,,1,2,3
+4/14/2016,Maine,ME,Lebanon,Lebanon,,0,0,0
+4/15/2016,Virginia,VA,Ringgold,Ringgold,,0,0,0
+4/17/2016,New Jersey,NJ,Orange,Orange,,1,0,1
+4/19/2016,California,CA,Llano,Llano,,1,0,1
+4/20/2016,West Virginia,WV,Wharton,Wharton,,0,0,0
+4/20/2016,West Virginia,WV,Webster,Webster,,0,0,0
+4/22/2016,New Hampshire,NH,Bedford,Bedford,,0,0,0
+4/23/2016,New Jersey,NJ,Hillsborough,Hillsborough,,0,0,0
+4/29/2016,Rhode Island,RI,Lincoln,Lincoln,,0,1,1
+5/2/2016,New York,NY,Hinsdale,Hinsdale,,0,0,0
+5/3/2016,South Carolina,SC,Richland,Richland,,0,1,1
+5/4/2016,Kentucky,KY,Walker,Walker,,1,1,2
+5/8/2016,South Carolina,SC,Richland,Richland,,0,2,2
+5/13/2016,New Jersey,NJ,Union,Union,,1,0,1
+5/14/2016,New York,NY,Ulster,Ulster,,0,0,0
+5/20/2016,North Carolina,NC,Candler,Candler,,2,0,2
+5/22/2016,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+5/27/2016,New Jersey,NJ,Orange,Orange,,0,1,1
+5/27/2016,Virginia,VA,Hardy,Hardy,,0,0,0
+5/28/2016,Pennsylvania,PA,Pulaski,Pulaski,,0,0,0
+5/30/2016,Alaska,AK,Barrow,Barrow,,0,0,0
+6/1/2016,Maine,ME,York,York,,0,0,0
+6/2/2016,Virginia,VA,Dinwiddie,Dinwiddie,,0,0,0
+6/5/2016,Rhode Island,RI,Johnston,Johnston,,0,0,0
+6/5/2016,Tennessee,TN,Madison,Madison,,1,0,1
+6/7/2016,New Jersey,NJ,Howell,Howell,,0,0,0
+6/7/2016,West Virginia,WV,Hansford,Hansford,,0,0,0
+6/8/2016,Tennessee,TN,Madison,Madison,,0,1,1
+6/11/2016,Minnesota,MN,Webster,Webster,,0,4,4
+6/14/2016,Oregon,OR,Clackamas,Clackamas,,0,0,0
+6/18/2016,Kentucky,KY,Gray,Gray,,1,0,1
+6/20/2016,Texas,TX,Atascosa,Atascosa,,0,0,0
+6/20/2016,North Carolina,NC,Candler,Candler,,2,0,2
+6/27/2016,New Jersey,NJ,Orange,Orange,,0,2,2
+6/29/2016,Alaska,AK,Barrow,Barrow,,0,0,0
+7/2/2016,Connecticut,CT,Tolland,Tolland,,0,0,0
+7/2/2016,Ohio,OH,Randolph,Randolph,,0,1,1
+7/3/2016,Texas,TX,Atascosa,Atascosa,,1,0,1
+7/4/2016,New Jersey,NJ,Orange,Orange,,0,1,1
+7/6/2016,New York,NY,Carlisle,Carlisle,,0,0,0
+7/6/2016,Vermont,VT,Essex,Essex,,0,0,0
+7/7/2016,Massachusetts,MA,Rockland,Rockland,,0,0,0
+7/9/2016,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+7/11/2016,New York,NY,Stafford,Stafford,,0,0,0
+7/12/2016,North Carolina,NC,Vilas,Vilas,,0,0,0
+7/12/2016,North Carolina,NC,Vilas,Vilas,,0,0,0
+7/13/2016,New Jersey,NJ,Orange,Orange,,0,3,3
+7/18/2016,Tennessee,TN,Madison,Madison,,1,0,1
+7/20/2016,New Jersey,NJ,Orange,Orange,,1,2,3
+7/23/2016,New Jersey,NJ,Howell,Howell,,0,0,0
+7/23/2016,North Carolina,NC,Candler,Candler,,0,0,0
+7/26/2016,New Jersey,NJ,Orange,Orange,,1,1,2
+7/28/2016,New Jersey,NJ,Orange,Orange,,1,0,1
+7/28/2016,Tennessee,TN,Buchanan,Buchanan,,2,0,2
+8/3/2016,New Jersey,NJ,Union,Union,,0,1,1
+8/9/2016,Tennessee,TN,Madison,Madison,,0,1,1
+8/11/2016,Virginia,VA,Henrico,Henrico,,0,0,0
+8/12/2016,Maine,ME,Lebanon,Lebanon,,0,0,0
+8/13/2016,Delaware,DE,Lincoln,Lincoln,,0,1,1
+8/15/2016,Maine,ME,Jefferson,Jefferson,,1,1,2
+8/16/2016,Missouri,MO,Williamsburg,Williamsburg,,0,0,0
+8/17/2016,Vermont,VT,Montgomery,Montgomery,,0,0,0
+8/20/2016,North Carolina,NC,Candler,Candler,,0,0,0
+8/20/2016,Michigan,MI,Oakland,Oakland,,0,0,0
+8/21/2016,Virginia,VA,Dinwiddie,Dinwiddie,,1,0,1
+8/25/2016,Massachusetts,MA,Dorchester,Dorchester,,0,1,1
+8/26/2016,Tennessee,TN,Madison,Madison,,0,1,1
+8/27/2016,Maine,ME,Windham,Windham,,0,0,0
+9/6/2016,New Jersey,NJ,Orange,Orange,,0,2,2
+9/10/2016,Alaska,AK,Barrow,Barrow,,1,1,2
+9/11/2016,New Hampshire,NH,Salem,Salem,,0,0,0
+9/13/2016,Missouri,MO,Beaufort,Beaufort,,0,0,0
+9/13/2016,Tennessee,TN,Madison,Madison,,0,1,1
+9/13/2016,Maine,ME,York,York,,0,0,0
+9/17/2016,New York,NY,Stafford,Stafford,,0,0,0
+9/20/2016,New Jersey,NJ,Clark,Clark,,0,1,1
+9/21/2016,Maine,ME,Jay,Jay,,0,0,0
+9/22/2016,Alaska,AK,Barrow,Barrow,,1,0,1
+9/22/2016,Alabama,AL,Sunflower,Sunflower,,0,1,1
+9/27/2016,Illinois,IL,Bristol,Bristol,,0,0,0
+9/28/2016,Louisiana,LA,Pointe Coupee,Pointe Coupee,,3,0,3
+9/29/2016,Tennessee,TN,Madison,Madison,,0,1,1
+10/2/2016,West Virginia,WV,Miami,Miami,,0,1,1
+10/5/2016,Connecticut,CT,Cheshire,Cheshire,,0,1,1
+10/11/2016,Virginia,VA,Henrico,Henrico,,0,1,1
+10/15/2016,Massachusetts,MA,Amherst,Amherst,,1,1,2
+10/16/2016,Maine,ME,Sherman,Sherman,,0,0,0
+10/18/2016,New Hampshire,NH,Merrimack,Merrimack,,0,0,0
+10/25/2016,Michigan,MI,Highland,Highland,,0,0,0
+10/25/2016,Texas,TX,Larue,Larue,,1,0,1
+10/30/2016,Massachusetts,MA,Southampton,Southampton,,0,1,1
+10/30/2016,Massachusetts,MA,Amherst,Amherst,,0,2,2
+10/31/2016,Vermont,VT,Huntington,Huntington,,0,0,0
+10/31/2016,Tennessee,TN,Madison,Madison,,0,1,1
+10/31/2016,New Jersey,NJ,Orange,Orange,,0,2,2
+11/1/2016,Tennessee,TN,Madison,Madison,,0,1,1
+11/1/2016,Connecticut,CT,Sterling,Sterling,,0,0,0
+11/3/2016,New Jersey,NJ,Orange,Orange,,2,2,4
+11/4/2016,Washington,WA,Beaver,Beaver,,1,0,1
+11/5/2016,New Jersey,NJ,Howell,Howell,,0,0,0
+11/9/2016,Massachusetts,MA,Norton,Norton,,0,0,0
+11/12/2016,New Jersey,NJ,Orange,Orange,,0,1,1
+11/15/2016,Oregon,OR,Clackamas,Clackamas,,0,1,1
+11/15/2016,Vermont,VT,Essex,Essex,,0,0,0
+11/17/2016,Massachusetts,MA,Norton,Norton,,0,0,0
+11/26/2016,Michigan,MI,Newport,Newport,,1,1,2
+11/28/2016,New Hampshire,NH,Effingham,Effingham,,1,0,1
+11/28/2016,Maine,ME,Litchfield,Litchfield,,0,0,0
+11/30/2016,New Jersey,NJ,Orange,Orange,,1,0,1
+12/2/2016,Tennessee,TN,Madison,Madison,,1,0,1
+12/8/2016,Louisiana,LA,St. James,St. James,,1,1,2
+12/10/2016,Texas,TX,Porter,Porter,,0,0,0
+12/10/2016,Maine,ME,Jay,Jay,,0,0,0
+12/12/2016,Massachusetts,MA,Sutton,Sutton,,0,0,0
+12/13/2016,Tennessee,TN,Madison,Madison,,0,1,1
+12/22/2016,Connecticut,CT,Windsor,Windsor,,0,0,0
+12/23/2016,North Carolina,NC,Candler,Candler,,1,0,1
+12/23/2016,Tennessee,TN,Madison,Madison,,0,0,0
+12/24/2016,Rhode Island,RI,Johnston,Johnston,,1,0,1
+12/26/2016,Louisiana,LA,St. Landry,St. Landry,,0,0,0
+12/26/2016,New Jersey,NJ,Orange,Orange,,1,0,1
+12/27/2016,Tennessee,TN,Whiteside,Whiteside,,1,0,1
+12/29/2016,Maine,ME,York,York,,0,0,0
+1/1/2017,Maine,ME,Lebanon,Lebanon,,0,0,0
+1/1/2017,Rhode Island,RI,Warren,Warren,,0,0,0
+1/2/2017,North Carolina,NC,Pendleton,Pendleton,,1,0,1
+1/3/2017,Connecticut,CT,Burlington,Burlington,,0,1,1
+1/5/2017,Virginia,VA,Henrico,Henrico,,0,1,1
+1/7/2017,New Hampshire,NH,Salem,Salem,,0,0,0
+1/7/2017,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+1/8/2017,Michigan,MI,Highland,Highland,,2,1,3
+1/8/2017,Virginia,VA,Henrico,Henrico,,0,1,1
+1/9/2017,New Jersey,NJ,Wayne,Wayne,,2,0,2
+1/13/2017,Virginia,VA,Dinwiddie,Dinwiddie,,0,0,0
+1/14/2017,Virginia,VA,Henrico,Henrico,,0,0,0
+1/19/2017,Virginia,VA,Woodford,Woodford,,1,0,1
+1/20/2017,Virginia,VA,Callaway,Callaway,,0,1,1
+1/21/2017,New Jersey,NJ,Orange,Orange,,0,1,1
+1/21/2017,New Jersey,NJ,Orange,Orange,,0,1,1
+1/25/2017,New Jersey,NJ,Orange,Orange,,0,1,1
+1/25/2017,Tennessee,TN,Madison,Madison,,1,0,1
+1/25/2017,New Jersey,NJ,Orange,Orange,,0,1,1
+1/25/2017,Louisiana,LA,Iberia,Iberia,,0,0,0
+1/28/2017,New Hampshire,NH,Merrimack,Merrimack,,0,0,0
+1/28/2017,Tennessee,TN,Madison,Madison,,1,1,2
+1/28/2017,Massachusetts,MA,Dorchester,Dorchester,,0,0,0
+1/29/2017,New Hampshire,NH,Sullivan,Sullivan,,0,0,0
+1/31/2017,New Hampshire,NH,Bedford,Bedford,,0,0,0
+2/4/2017,New Hampshire,NH,Merrimack,Merrimack,,0,0,0
+2/8/2017,Alaska,AK,Barrow,Barrow,,1,0,1
+2/9/2017,Tennessee,TN,Madison,Madison,,0,0,0
+2/9/2017,New Hampshire,NH,Stoddard,Stoddard,,1,0,1
+2/11/2017,Tennessee,TN,Madison,Madison,,0,1,1
+2/12/2017,Virginia,VA,Hayes,Hayes,,0,0,0
+2/16/2017,Virginia,VA,Henrico,Henrico,,1,0,1
+2/16/2017,New York,NY,Kent,Kent,,0,0,0
+2/23/2017,Louisiana,LA,Caldwell,Caldwell,,0,1,1
+3/2/2017,Virginia,VA,Henrico,Henrico,,1,0,1
+3/2/2017,Vermont,VT,New Haven,New Haven,,0,1,1
+3/12/2017,New Hampshire,NH,Salem,Salem,,0,0,0
+3/18/2017,Virginia,VA,Henrico,Henrico,,0,0,0
+3/24/2017,Connecticut,CT,Fairfield,Fairfield,,0,1,1
+3/28/2017,Connecticut,CT,Preston,Preston,,0,0,0
+3/30/2017,Illinois,IL,Bristol,Bristol,,0,0,0
+3/30/2017,Connecticut,CT,Lebanon,Lebanon,,0,0,0
+4/2/2017,Virginia,VA,Newport,Newport,,0,1,1
+4/3/2017,New Hampshire,NH,Salem,Salem,,1,0,1
+4/4/2017,Virginia,VA,Newport,Newport,,0,0,0
+4/4/2017,Connecticut,CT,Columbia,Columbia,,0,1,1
+4/5/2017,Virginia,VA,Henrico,Henrico,,1,0,1
+4/9/2017,Massachusetts,MA,Whitman,Whitman,,0,0,0
+4/10/2017,Virginia,VA,Henrico,Henrico,,0,0,0
+4/12/2017,Ohio,OH,Bath,Bath,,0,0,0
+4/13/2017,Michigan,MI,Washington,Washington,,0,0,0
+4/15/2017,New Hampshire,NH,Northumberland,Northumberland,,0,0,0
+4/17/2017,Virginia,VA,Hardy,Hardy,,0,1,1
+4/17/2017,New Hampshire,NH,Windham,Windham,,0,0,0
+4/17/2017,Vermont,VT,Hancock,Hancock,,0,0,0
+4/19/2017,West Virginia,WV,Walker,Walker,,0,1,1
+4/24/2017,Texas,TX,Porter,Porter,,1,0,1
+4/25/2017,Vermont,VT,Vernon,Vernon,,0,1,1
+4/26/2017,Tennessee,TN,Madison,Madison,,0,1,1
+4/29/2017,Tennessee,TN,Madison,Madison,,0,1,1
+4/29/2017,Alaska,AK,Barrow,Barrow,,1,0,1
+4/30/2017,Virginia,VA,Henrico,Henrico,,1,0,1
+5/1/2017,Pennsylvania,PA,Pulaski,Pulaski,,0,0,0
+5/2/2017,New Hampshire,NH,Merrimack,Merrimack,,0,1,1
+5/2/2017,New Hampshire,NH,Windham,Windham,,0,1,1
+5/5/2017,South Carolina,SC,Habersham,Habersham,,0,0,0
+5/7/2017,New Hampshire,NH,Merrimack,Merrimack,,0,1,1
+5/9/2017,Virginia,VA,Henrico,Henrico,,0,0,0
+5/10/2017,Texas,TX,Porter,Porter,,0,0,0
+5/12/2017,Pennsylvania,PA,Jackson,Jackson,,0,0,0
+5/12/2017,New Jersey,NJ,Union,Union,,0,0,0
+5/17/2017,Tennessee,TN,Madison,Madison,,0,1,1
+5/17/2017,Tennessee,TN,Butler,Butler,,1,0,1
+5/17/2017,Connecticut,CT,Preston,Preston,,0,0,0
+5/19/2017,Tennessee,TN,Madison,Madison,,0,2,2
+5/23/2017,Michigan,MI,Jerome,Jerome,,0,0,0
+5/24/2017,Tennessee,TN,Madison,Madison,,0,1,1
+5/24/2017,Tennessee,TN,Madison,Madison,,0,1,1
+5/24/2017,Tennessee,TN,Madison,Madison,,0,1,1
+5/25/2017,Florida,FL,San Mateo,San Mateo,,1,0,1
+5/29/2017,Alabama,AL,Alpine,Alpine,,1,0,1
+5/30/2017,West Virginia,WV,Hartford,Hartford,,0,1,1
+6/2/2017,Virginia,VA,Dinwiddie,Dinwiddie,,0,0,0
+6/3/2017,New Hampshire,NH,Fremont,Fremont,,0,0,0
+6/6/2017,Tennessee,TN,Madison,Madison,,0,0,0
+6/7/2017,Virginia,VA,Cascade,Cascade,,0,1,1
+6/11/2017,Connecticut,CT,Cheshire,Cheshire,,0,0,0
+6/13/2017,Connecticut,CT,Tolland,Tolland,,0,0,0
+6/15/2017,Connecticut,CT,Windsor,Windsor,,0,0,0
+6/15/2017,New Hampshire,NH,Newton,Newton,,1,0,1
+6/26/2017,Maine,ME,Winn,Winn,,0,1,1
+6/28/2017,Connecticut,CT,Tolland,Tolland,,0,0,0
+7/1/2017,Maine,ME,Phillips,Phillips,,0,0,0
+7/7/2017,Tennessee,TN,Madison,Madison,,0,1,1
+7/7/2017,Ohio,OH,Bath,Bath,,0,1,1
+7/11/2017,New Hampshire,NH,Salem,Salem,,0,0,0
+7/12/2017,Maryland,MD,Hanover,Hanover,,0,1,1
+7/13/2017,New York,NY,Huron,Huron,,0,0,0
+7/18/2017,Missouri,MO,Williamsburg,Williamsburg,,0,0,0
+7/20/2017,Tennessee,TN,Madison,Madison,,1,0,1
+7/20/2017,Connecticut,CT,Tolland,Tolland,,0,0,0
+7/21/2017,Tennessee,TN,Madison,Madison,,1,0,1
+7/23/2017,Virginia,VA,Dinwiddie,Dinwiddie,,0,1,1
+7/25/2017,Virginia,VA,Henrico,Henrico,,0,0,0
+7/25/2017,Rhode Island,RI,Lincoln,Lincoln,,0,0,0
+7/26/2017,Maine,ME,Athens,Athens,,0,1,1
+7/28/2017,Texas,TX,Panola,Panola,,2,1,3
+7/30/2017,Maine,ME,Baldwin,Baldwin,,1,0,1
+7/31/2017,New York,NY,Jasper,Jasper,,0,1,1
+8/1/2017,Virginia,VA,Henrico,Henrico,,1,0,1
+8/4/2017,Delaware,DE,Lincoln,Lincoln,,0,0,0
+8/4/2017,Virginia,VA,Henrico,Henrico,,0,1,1
+8/6/2017,Delaware,DE,Lincoln,Lincoln,,0,0,0
+8/9/2017,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+8/10/2017,Michigan,MI,La Salle,La Salle,,0,0,0
+8/10/2017,New Hampshire,NH,Salem,Salem,,0,0,0
+8/13/2017,Massachusetts,MA,Rockland,Rockland,,0,1,1
+8/18/2017,New Hampshire,NH,Atkinson,Atkinson,,0,1,1
+8/21/2017,Mississippi,MS,Lawrence,Lawrence,,0,1,1
+8/21/2017,Maine,ME,Litchfield,Litchfield,,0,1,1
+8/22/2017,Rhode Island,RI,Johnston,Johnston,,0,0,0
+8/22/2017,Tennessee,TN,Madison,Madison,,0,1,1
+8/23/2017,New Hampshire,NH,Strafford,Strafford,,0,0,0
+8/24/2017,New Jersey,NJ,Orange,Orange,,1,0,1
+8/24/2017,New Jersey,NJ,Orange,Orange,,1,0,1
+8/24/2017,Maine,ME,Windsor,Windsor,,0,0,0
+8/28/2017,New Jersey,NJ,Howell,Howell,,1,0,1
+8/29/2017,North Carolina,NC,Candler,Candler,,0,0,0
+9/8/2017,New Jersey,NJ,Howell,Howell,,0,0,0
+9/9/2017,Maine,ME,York,York,,0,0,0
+9/11/2017,Connecticut,CT,Monroe,Monroe,,0,1,1
+9/12/2017,Virginia,VA,Henrico,Henrico,,0,1,1
+9/13/2017,New Jersey,NJ,Orange,Orange,,0,0,0
+9/16/2017,New Jersey,NJ,Howell,Howell,,0,0,0
+9/17/2017,Tennessee,TN,Madison,Madison,,0,0,0
+9/18/2017,Massachusetts,MA,Marion,Marion,,0,0,0
+9/20/2017,Tennessee,TN,Madison,Madison,,0,0,0
+9/20/2017,North Carolina,NC,Candler,Candler,,0,1,1
+9/21/2017,Virginia,VA,Henrico,Henrico,,0,1,1
+9/22/2017,Maine,ME,Sumner,Sumner,,0,1,1
+9/22/2017,New Hampshire,NH,Salem,Salem,,0,0,0
+9/23/2017,Ohio,OH,Newton,Newton,,0,1,1
+9/23/2017,New York,NY,Hillsdale,Hillsdale,,0,0,0
+9/24/2017,New Hampshire,NH,Merrimack,Merrimack,,0,0,0
+9/26/2017,New Jersey,NJ,Jackson,Jackson,,0,0,0
+9/26/2017,Massachusetts,MA,Carver,Carver,,0,0,0
+9/26/2017,Washington,WA,Elk,Elk,,1,0,1
+9/27/2017,Maine,ME,Grand Isle,Grand Isle,,0,1,1
+9/27/2017,Pennsylvania,PA,Gilpin,Gilpin,,0,0,0
+10/2/2017,Maine,ME,Lebanon,Lebanon,,1,0,1
+10/2/2017,New York,NY,Livingston,Livingston,,0,0,0
+10/3/2017,Connecticut,CT,Oxford,Oxford,,0,0,0
+10/5/2017,New York,NY,Stanley,Stanley,,0,0,0
+10/5/2017,North Carolina,NC,Clarendon,Clarendon,,0,0,0
+10/5/2017,New Hampshire,NH,Grafton,Grafton,,0,0,0
+10/7/2017,Virginia,VA,Henrico,Henrico,,0,0,0
+10/8/2017,Virginia,VA,Henrico,Henrico,,0,0,0
+10/8/2017,New Jersey,NJ,Union,Union,,1,0,1
+10/10/2017,South Carolina,SC,Dale,Dale,,0,0,0
+10/10/2017,Connecticut,CT,Fairfield,Fairfield,,1,0,1
+10/12/2017,Virginia,VA,Henrico,Henrico,,0,0,0
+10/18/2017,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+10/20/2017,Pennsylvania,PA,Harford,Harford,,0,0,0
+10/21/2017,Maine,ME,Athens,Athens,,0,0,0
+10/22/2017,Virginia,VA,Hayes,Hayes,,0,1,1
+10/23/2017,West Virginia,WV,Josephine,Josephine,,0,0,0
+10/24/2017,Virginia,VA,Henrico,Henrico,,0,0,0
+10/25/2017,New Jersey,NJ,Orange,Orange,,1,0,1
+10/25/2017,Maine,ME,York,York,,0,0,0
+10/25/2017,Rhode Island,RI,Lincoln,Lincoln,,0,1,1
+10/27/2017,Vermont,VT,Washington,Washington,,0,0,0
+10/28/2017,Rhode Island,RI,Foster,Foster,,0,1,1
+11/1/2017,New Jersey,NJ,Southampton,Southampton,,0,0,0
+11/4/2017,Massachusetts,MA,Rockland,Rockland,,0,0,0
+11/5/2017,Vermont,VT,Vernon,Vernon,,0,0,0
+11/10/2017,Tennessee,TN,Madison,Madison,,0,1,1
+11/10/2017,New Hampshire,NH,Salem,Salem,,0,0,0
+11/12/2017,Vermont,VT,Grand Isle,Grand Isle,,0,1,1
+11/13/2017,Alabama,AL,Alpine,Alpine,,1,0,1
+11/13/2017,Tennessee,TN,Madison,Madison,,0,1,1
+11/14/2017,Ohio,OH,Sullivan,Sullivan,,0,1,1
+11/15/2017,West Virginia,WV,Hansford,Hansford,,0,0,0
+11/16/2017,Maine,ME,York,York,,0,0,0
+11/16/2017,West Virginia,WV,Rock,Rock,,0,1,1
+11/17/2017,New Hampshire,NH,Merrimack,Merrimack,,0,0,0
+11/18/2017,Virginia,VA,Henrico,Henrico,,2,0,2
+11/19/2017,Maine,ME,York,York,,0,0,0
+11/20/2017,New Jersey,NJ,Orange,Orange,,1,0,1
+11/25/2017,Maryland,MD,Washington,Washington,,0,0,0
+11/27/2017,Tennessee,TN,Madison,Madison,,1,0,1
+11/28/2017,Indiana,IN,Calumet,Calumet,,0,1,1
+11/28/2017,Massachusetts,MA,Whitman,Whitman,,0,0,0
+11/29/2017,New Hampshire,NH,Atkinson,Atkinson,,0,0,0
+11/30/2017,Maine,ME,Hancock,Hancock,,0,0,0
+12/1/2017,Connecticut,CT,Kent,Kent,,1,0,1
+12/2/2017,New York,NY,Cameron,Cameron,,0,0,0
+12/2/2017,Virginia,VA,Henrico,Henrico,,0,1,1
+12/6/2017,Connecticut,CT,Salem,Salem,,0,0,0
+12/6/2017,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+12/12/2017,Connecticut,CT,Tolland,Tolland,,0,0,0
+12/16/2017,Massachusetts,MA,Norton,Norton,,0,0,0
+12/17/2017,North Carolina,NC,Clarendon,Clarendon,,0,0,0
+12/17/2017,New Jersey,NJ,Jackson,Jackson,,0,0,0
+12/20/2017,Massachusetts,MA,Amherst,Amherst,,0,1,1
+12/20/2017,Maine,ME,Lebanon,Lebanon,,1,0,1
+12/20/2017,Missouri,MO,Williamsburg,Williamsburg,,0,0,0
+12/23/2017,New Jersey,NJ,Jackson,Jackson,,0,1,1
+12/26/2017,Tennessee,TN,Fulton,Fulton,,1,0,1
+12/27/2017,Connecticut,CT,Burlington,Burlington,,0,0,0
+12/31/2017,Tennessee,TN,Madison,Madison,,1,0,1
+1/1/2018,New Jersey,NJ,Orange,Orange,,2,0,2
+1/1/2018,Kentucky,KY,Banner,Banner,,0,0,0
+1/2/2018,West Virginia,WV,Rock,Rock,,0,1,1
+1/2/2018,New York,NY,Hillsdale,Hillsdale,,0,0,0
+1/7/2018,Maryland,MD,Hanover,Hanover,,0,0,0
+1/10/2018,Delaware,DE,Lincoln,Lincoln,,0,1,1
+1/15/2018,Tennessee,TN,Madison,Madison,,1,0,1
+1/16/2018,New Jersey,NJ,Randolph,Randolph,,0,0,0
+1/18/2018,New York,NY,York,York,,0,0,0
+1/19/2018,Indiana,IN,Tippecanoe,Tippecanoe,,0,0,0
+1/20/2018,New Hampshire,NH,Lee,Lee,,0,1,1
+1/21/2018,Connecticut,CT,Oxford,Oxford,,0,0,0
+1/25/2018,Virginia,VA,Hayes,Hayes,,0,1,1
+1/27/2018,Massachusetts,MA,Lancaster,Lancaster,,0,0,0
+1/28/2018,Tennessee,TN,Madison,Madison,,0,1,1
+1/28/2018,Georgia,GA,Cobb,Cobb,,0,0,0
+1/30/2018,South Dakota,SD,Black Hawk,Black Hawk,,0,1,1
+1/31/2018,Connecticut,CT,Guilford,Guilford,,1,0,1
+1/31/2018,Georgia,GA,Winston,Winston,,0,1,1
+2/3/2018,New Hampshire,NH,Merrimack,Merrimack,,0,0,0
+2/9/2018,New York,NY,Sterling,Sterling,,0,0,0
+2/14/2018,Tennessee,TN,Madison,Madison,,0,0,0
+2/19/2018,Maine,ME,Jay,Jay,,0,0,0
+2/19/2018,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+2/20/2018,Connecticut,CT,Essex,Essex,,2,0,2
+2/27/2018,Pennsylvania,PA,Pittsburg,Pittsburg,,0,0,0
+2/28/2018,Tennessee,TN,Madison,Madison,,0,0,0
+3/2/2018,Delaware,DE,Lincoln,Lincoln,,0,0,0
+3/4/2018,New Jersey,NJ,Jackson,Jackson,,1,0,1
+3/4/2018,Massachusetts,MA,Weston,Weston,,0,0,0
+3/11/2018,Connecticut,CT,Fairfield,Fairfield,,0,0,0
+3/12/2018,Tennessee,TN,Madison,Madison,,0,0,0
+3/12/2018,Tennessee,TN,Madison,Madison,,0,0,0
+3/16/2018,Virginia,VA,Henrico,Henrico,,0,0,0
+3/21/2018,Maryland,MD,Faulkner,Faulkner,,0,1,1
+3/25/2018,Alaska,AK,Barrow,Barrow,,1,0,1
+3/26/2018,Massachusetts,MA,Charlton,Charlton,,0,0,0
+3/26/2018,Illinois,IL,Owen,Owen,,0,0,0
+3/29/2018,Tennessee,TN,Madison,Madison,,0,1,1
