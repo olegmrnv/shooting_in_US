@@ -1,11 +1,9 @@
-
-
 function onEachFeatureP(feature, layer) {
     layer.on({
         // mouseover: highlightFeature,
         // mouseout: resetHighlightUNEMP        
     });
-    layer.bindTooltip('<h3>Number of regulations in '+ feature.properties.NAME +': ' + feature.properties.laws + '</h3>');
+    layer.bindTooltip('<h3>Number of regulations in ' + feature.properties.NAME + ': ' + feature.properties.laws + '</h3>');
 
 
 }
@@ -16,7 +14,7 @@ function onEachFeatureCounty(feature, layer) {
         // mouseover: highlightFeature,
         // mouseout: resetHighlightUNEMP        
     });
-    layer.bindTooltip('<h3>'+ feature.properties.NAME + ' '+feature.properties.LSAD + '<br>'+ 'Number of Incidents: '+feature.properties.INCIDENTS + '</h3>');
+    layer.bindTooltip('<h3>' + feature.properties.NAME + ' ' + feature.properties.LSAD + '<br>' + 'Number of Incidents: ' + feature.properties.INCIDENTS + '<br>Population: ' + feature.properties.POPULATION + '<br> Incident Ratio: ' + feature.properties.INC_RATIO + '</h3>');
 
 
 }
@@ -136,7 +134,7 @@ d3.json(url_states, function(states_data) {
     // creating layer for squaremiles per county
     geojson_county = L.choropleth(county_data, {
 
-        valueProperty: "INCIDENTS",
+        valueProperty: "INC_RATIO",
 
         // Set color scale
         // scale: ["#ffffb2", "#000000"],
