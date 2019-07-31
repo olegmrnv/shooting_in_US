@@ -58,7 +58,7 @@ var layout = {
             color: '850000'
         }
     }],
-    title: '<b>New Yourk City</b> <br> Crime level 0-100',
+    title: '<b>New York City</b> <br> Crime level 0-100',
     height: 600,
     width: 600,
     xaxis: {

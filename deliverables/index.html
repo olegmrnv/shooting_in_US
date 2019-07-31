@@ -22,7 +22,40 @@
     <script src="static/js/leaflet-heatmap.js"></script>
 
 
-
+    <style type="text/css">
+        .legend {
+            color: #555;
+            padding: 6px 8px;
+            font: 12px Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            background: white;
+            background: rgba(255, 255, 255, 0.8);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+        }
+        
+        .legend ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            clear: both;
+        }
+        
+        .legend li {
+            display: inline-block;
+            width: 30px;
+            height: 22px;
+        }
+        
+        .legend .min {
+            float: left;
+            padding-bottom: 5px;
+        }
+        
+        .legend .max {
+            float: right;
+        }
+    </style>
 
 </head>
 
@@ -33,61 +66,38 @@
         <div class="row">
             <div class="col-md-12 page-header">
 
-                <h1>Shootings in US</h1>
+                <h1><strong> Shootings in US</strong></h1>
 
             </div>
         </div>
-
-
-
-
-
         <div class="row">
             <div class="col-md-12" style="height: 650px;">
                 <div id="usmap"></div>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-12">
-
-                <h3><br><br>Shootings in major cities<br><br></h3>
+            <div class="col-md-8">
+                <h3><br><br><b>Shootings in major cities</b><br><br></h3>
+                <h5>Values calculated based on population and amount of incidents.<br>Crime level = amount of incidents / population * 10000</h5>
+            </div>
+            <div class="col-md-4" align="right">
+                <a href="static/html/factors.html">
+                    <h3><br><br><b>Crime factors</b><br><br></h3>
+                </a>
             </div>
         </div>
-
-
         <div class="row" style="height: 350px;">
-            <div class="col-md-6" align="middle" id="NYCDiv" style="width: 550px;">
+            <div class="col-md-6 col-sm-6" align="middle" id="NYCDiv" style="width: 550px;">
             </div>
-            <div class="col-md-6" align="middle" id="ChicagoDiv">
+            <div class="col-md-6 col-sm-6" align="middle" id="ChicagoDiv">
             </div>
-
         </div>
-
         <div class="row" style="position: absolute;">
-            <div class="col-md-6" id="NODiv" style="width: 550px;">
+            <div class="col-md-6 col-sm-6" id="NODiv" style="width: 550px;">
             </div>
-            <div class="col-md-6" id="HOUDiv">
+            <div class="col-md-6 col-sm-6" id="HOUDiv">
             </div>
-
         </div>
-
-
-        <div class="row">
-            <div class="col-md-6">
-                Link to ML
-            </div>
-            <div class="col-md-6">
-            </div>
-
-        </div>
-
-
-
-
-
-
-
-
     </div>
 
 

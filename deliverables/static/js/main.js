@@ -1,3 +1,14 @@
+// function to select color depending on magnitude
+function choseColor(d) {
+    return d < 1 ? '#edf8fb' :
+        d < 2 ? '#bfd3e6' :
+        d < 3 ? '#9ebcda' :
+        d < 4 ? '#8c96c6' :
+        d < 5 ? '#8856a7' :
+        '#810f7c';
+}
+
+
 function onEachFeatureP(feature, layer) {
     layer.on({
         // mouseover: highlightFeature,
@@ -32,6 +43,20 @@ var baseLayer = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.pn
     accessToken: API_KEY
 });
 
+var baseLayer2 = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
+    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+    maxZoom: 18,
+    id: "mapbox.dark",
+    accessToken: API_KEY
+});
+
+var baseLayer3 = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
+    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
+    maxZoom: 18,
+    id: "mapbox.outdoors",
+    accessToken: API_KEY
+});
+
 
 var cfg = {
     // radius should be small ONLY if scaleRadius is true (or small radius is intended)
@@ -61,7 +86,7 @@ var myMap = L.map("usmap", {
     zoomSnap: 0.25,
     center: [37.8, -97],
     zoom: 4.75,
-    layers: [baseLayer]
+    layers: [baseLayer3]
 });
 
 
@@ -190,7 +215,11 @@ d3.json(url_states, function(states_data) {
 
 
     // basemaps
-    var baseMaps = {};
+    var baseMaps = {
+        "Light map": baseLayer,
+        "Dark map": baseLayer2,
+        "Outdoors": baseLayer3
+    };
 
     // Overlays that may be toggled on or off
     var overlayMaps = {
@@ -203,8 +232,25 @@ d3.json(url_states, function(states_data) {
     L.control.layers(baseMaps, overlayMaps, { collapsed: false, position: 'bottomright' }).addTo(myMap);
 
 
+    // Add legend (don't forget to add the CSS from index.html)
+    var legend = L.control({ position: 'bottomleft' })
+    legend.onAdd = function(map) {
+        var div = L.DomUtil.create('div', 'info legend')
+        var limits = geojson_laws.options.limits
+        var colors = geojson_laws.options.colors
+        var labels = []
 
+        // Add min & max
+        div.innerHTML = '<div class="labels"><div class="min">' + limits[0] + '</div> \
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of firearm laws<div class="max">' + limits[limits.length - 1] + '</div></div>'
+
+        limits.forEach(function(limit, index) {
+            labels.push('<li style="background-color: ' + colors[index] + '"></li>')
+        })
+
+        div.innerHTML += '<ul>' + labels.join('') + '</ul>'
+        return div
+    }
+    legend.addTo(myMap)
 
 });
-
-// });

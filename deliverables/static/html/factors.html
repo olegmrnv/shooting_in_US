@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Shootings in US</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="shortcut icon" href="static/favicon.ico">
+
+
+
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 page-header">
+                <h1><strong>Crime Factors</strong></h1>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <img src="../img/gun_laws.jpg">
+            </div>
+            <div class="col-md-4">
+                <img src="../img/population.jpg">
+            </div>
+            <div class="col-md-4">
+                <img src="../img/poverty.jpg">
+            </div>
+        </div>
+        <br>
+
+        <div class="row">
+            <div class="col-md-4">
+                <h3>Gun Laws</h3>
+            </div>
+            <div class="col-md-4">
+                <h3> Population</h3>
+            </div>
+            <div class="col-md-4">
+                <h3>Poverty</h3>
+            </div>
+        </div>
+        <br><br>
+
+        <div class="row">
+            <div class="col-md-4">
+                <img src="../img/background_check.jpg">
+            </div>
+            <div class="col-md-4">
+                <img src="../img/firearms_agencies.jpg">
+            </div>
+            <div class="col-md-4">
+                <img src="../img/demographics.jpg">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-4">
+                <h3> Background checks</h3>
+            </div>
+            <div class="col-md-4">
+                <h3> Firearm agencies</h3>
+            </div>
+            <div class="col-md-4">
+                <h3> Demographics</h3>
+            </div>
+        </div>
+        <br><br><br>
+        <hr>
+        <a href="../../index.html">Back to map</a>
+        <br><br>
+        <div class="row" align="middle">
+            <div class="col-md-6">
+                <h2><strong>Linear regression - county level data</strong></h2>
+            </div>
+            <div class="col-md-6">
+                <h2>
+                    <strong>Linear regression - state level data</strong>
+                </h2>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-6">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">feature</th>
+                            <th scope="col">coefficient</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Number of laws</td>
+                            <td>0.035008</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Amoun of firearm agencies</td>
+                            <td>-0.069437</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Poverty percentage</td>
+                            <td>0.036768</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>Total population</td>
+                            <td>-1.370109</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td>Total male population</td>
+                            <td>60.360756</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">6</th>
+                            <td>Total female population</td>
+                            <td>-61.036603</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">7</th>
+                            <td>WA male</td>
+                            <td>-40.488759</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">8</th>
+                            <td>WA female</td>
+                            <td>41.307039</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">9</th>
+                            <td>BA male</td>
+                            <td>-11.896054</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">10</th>
+                            <td>BA female</td>
+                            <td>14.031921</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">11</th>
+                            <td>IA male</td>
+                            <td>-1.700445</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">12</th>
+                            <td>IA female</td>
+                            <td>1.726510</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">13</th>
+                            <td>AA male</td>
+                            <td>-8.492971</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">14</th>
+                            <td>AA female</td>
+                            <td>9.233657</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">15</th>
+                            <td>H male</td>
+                            <td>5.120861</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">16</th>
+                            <td>H female</td>
+                            <td>-5.332659</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">17</th>
+                            <td>Permits granted</td>
+                            <td>Unknown</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-6">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">feature</th>
+                            <th scope="col">coefficient</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Number of laws</td>
+                            <td>-0.093554</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Amoun of firearm agencies</td>
+                            <td>-0.019392</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Poverty percentage</td>
+                            <td>0.069420</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>Total population</td>
+                            <td>-2.602005</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td>Total male population</td>
+                            <td>69.936952</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">6</th>
+                            <td>Total female population</td>
+                            <td>-73.413942</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">7</th>
+                            <td>WA male</td>
+                            <td>-63.982326</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">8</th>
+                            <td>WA female</td>
+                            <td>67.845337</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">9</th>
+                            <td>BA male</td>
+                            <td>-4.058587</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">10</th>
+                            <td>BA female</td>
+                            <td>6.229363</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">11</th>
+                            <td>IA male</td>
+                            <td>-1.952020</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">12</th>
+                            <td>IA female</td>
+                            <td>1.938597</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">13</th>
+                            <td>AA male</td>
+                            <td>-9.173181</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">14</th>
+                            <td>AA female</td>
+                            <td>11.443893</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">15</th>
+                            <td>H male</td>
+                            <td>6.792276</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">16</th>
+                            <td>H female</td>
+                            <td>-7.088612</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">17</th>
+                            <td>Permits granted</td>
+                            <td>0.113647</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-6">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+
+                            <th scope="col">name</th>
+                            <th scope="col">value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+
+                            <td>Training Score:</td>
+                            <td>0.7442887201410007</td>
+                        </tr>
+                        <tr>
+
+                            <td>Testing Score:</td>
+                            <td>0.22711524577881192</td>
+                        </tr>
+                        <tr>
+
+                            <td>MSE train:</td>
+                            <td>0.25571127985900066</td>
+                        </tr>
+                        <tr>
+
+                            <td>MSE test:</td>
+                            <td>0.47751366021415137</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="col-md-6">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+
+                            <th scope="col">name</th>
+                            <th scope="col">value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+
+                            <td>Training Score:</td>
+                            <td>0.970953787101927</td>
+                        </tr>
+                        <tr>
+
+                            <td>Testing Score:</td>
+                            <td>0.6759912779681819</td>
+                        </tr>
+                        <tr>
+
+                            <td>MSE train:</td>
+                            <td>0.029046212898072753</td>
+                        </tr>
+                        <tr>
+
+                            <td>MSE test:</td>
+                            <td>0.3257599076849482</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+
+
+
+
+        </div>
+
+
+
+        <div class="row">
+
+
+        </div>
+    </div>
+
+
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <script type="text/javascript" src="static/js/data2014.js"></script>
+
+
+
+</body>
+
+</html>
